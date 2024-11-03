@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html> 
+    
+<head>    
+    
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>My Portfolio</title> 
+
+   
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+    <style>
+        #chartGrid {
+            display: flex;
+        }
+    </style>
+</head>
+
+<body> 
+    <header>
+        <h1 class="name" style="margin-bottom: 0px;">Joseph Mann</h1>
+        <p class="personal-links" style="margin-top: 0px; color: darkblue"><a href="https://www.linkedin.com/in/joseph-mann-25a0b1175/">LinkedIn</a> | <a
+                href="https://github.com/joemann11/joemann11.github.io">GitHub</a>
+        </p>
+        <ul class="page-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="project.html">Project</a></li>
+        </ul>
+    </header> 
+    <div class="beneath-header">
+    <h3 class="small"> 
+        Please see below my Portfolio Page, pertaining to the coding challenges I have completed throughout the course.  
+    </h3>
+
+    <section>
+        <div class="chart-description">
+            <h2>Coding Challenge 1: Hosting</h2>
+            <p> 
+                I have added two charts using the vegaEmbed function. These charts outline a time series of inflation, and the respective constituents to a given years inflation rate.
+            </p>
+        </div>
+        <div id="chartGrid">
+            <figure class="chart" id="Location1"></figure> 
+            <figure class="chart" id="Location2"></figure>
+        </div>
+    </section>
+
+    <script>
+        let figure_1_spec = "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/refs/heads/main/charts/library/chartLine8.json";
+        vegaEmbed('#Location1', figure_1_spec)
+    </script>
+    <script>
+        let figure_2_spec = "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/refs/heads/main/charts/library/chartBar8.json"; 
+        vegaEmbed('#Location2', figure_2_spec) 
+    </script>
+
+    <section>
+        <div class="chart-description">
+            <h2>Coding Challenge 2: Building</h2>
+            <p>I have built two separate charts using the "create" tool on the <a href="https://www.economicsobservatory.com/explore">Economics Observatory Data Hub.</a></p>
+        </div>
+    </section>
+</div>
+</body>
+    
+</html>
