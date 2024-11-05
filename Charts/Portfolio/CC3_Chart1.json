@@ -1,0 +1,72 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Line chart of Exports and Imports with conditional area color based on gap.",
+  "title": {
+    "text": "British Trade: Exports vs. Imports Over Time",
+    "fontSize": 18,
+    "fontWeight": "bold",
+    "anchor": "start", 
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC3_Data.csv",
+    "format": {"type": "csv"}
+  },
+
+  "layer": [
+    {
+      "mark": {
+        "type": "area",
+        "interpolate": "monotone"
+      },
+      "encoding": {
+        "x": {"field": "Series Name", "type": "temporal", "title": "Series Name"},
+        "y": {
+          "field": "Exports of goods and services (BoP, current US$ Millions)",
+          "type": "quantitative",
+          "title": "Exports and Imports (US$'millions)"
+        },
+        "y2": {"field": "Imports of goods and services (BoP, current US$ Millions)"},
+        "color": {
+          "value": "red"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "interpolate": "monotone",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "x": {"field": "Series Name", "type": "temporal"},
+        "y": {"field": "Exports of goods and services (BoP, current US$ Millions)", "type": "quantitative"},
+        "color": {"value": "blue"},
+        "tooltip": [
+          {"field": "Series Name", "type": "temporal"},
+          {"field": "Exports of goods and services (BoP, current US$ Millions)", "type": "quantitative"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "interpolate": "monotone",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "x": {"field": "Series Name", "type": "temporal"},
+        "y": {"field": "Imports of goods and services (BoP, current US$ Millions)", "type": "quantitative"},
+        "color": {"value": "orange"},
+        "tooltip": [
+          {"field": "Series Name", "type": "temporal"},
+          {"field": "Imports of goods and services (BoP, current US$ Millions)", "type": "quantitative"}
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"grid": false}
+  }
+}
