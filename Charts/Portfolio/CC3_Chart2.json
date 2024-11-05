@@ -1,0 +1,66 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A bar chart that outlines the current account position of Great Britain since the start of the millennium.",
+    "title": {
+      "text": "British Trade: Net Trade of Goods and Services",
+      "fontSize": 18,
+      "fontWeight": "bold",
+      "anchor": "start", 
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC3_Data.csv",
+      "format": {"type": "csv"}
+    },
+    "vconcat": [
+      {
+        "mark": "bar",
+        "encoding": {
+          "x": {
+            "field": "Series Name",
+            "type": "nominal",
+            "axis": {
+              "title": "Year",
+              "domain": false,
+              "ticks": false,
+              "labelAngle": 0,
+              "labelPadding": 4,
+              "labelExpr": "substring(datum.value, -4) % 4 === 0 ? datum.value : ''"
+            }
+          },
+          "y": {
+            "field": "Net trade in goods and services (BoP, current US$ Millions)",
+            "type": "quantitative",
+            "axis": {
+              "title": "Net Trade (US$ Millions)",
+              "gridColor": {
+                "condition": {"test": "datum.value === 0", "value": "black"},
+                "value": "#ddd"
+              }
+            }
+          },
+          "color": {
+            "condition": {
+              "test": "datum['Net trade in goods and services (BoP, current US$ Millions)'] > 0",
+              "value": "green"
+            },
+            "value": "red"
+          },
+          "tooltip": [
+            {"field": "Series Name", "type": "nominal", "title": "Year"},
+            {"field": "Net trade in goods and services (BoP, current US$ Millions)", "type": "quantitative", "title": "Net Trade (US$ Millions)"}
+          ]
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "align": "left",
+          "baseline": "bottom",
+          "dx": 5,
+          "dy": 5
+        }
+      }
+    ]
+  }
+  
