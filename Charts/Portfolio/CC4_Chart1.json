@@ -1,0 +1,64 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Revised ",
+    "title": {
+      "text": "Whom does Pakistan owe its debt to?",
+      "subtitle": "Source: State Bank of Pakistan (2021)",
+      "anchor": "start",
+      "subtitleFontSize": 12,
+      "subtitleFontStyle": "italic"
+    },
+    "width": 400,
+    "height": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC4_Data.csv"
+    },
+    "encoding": {
+      "theta": {"field": "Percentage", "type": "quantitative", "stack": true},
+      "color": {
+        "field": "Body",
+        "type": "nominal",
+        "legend": {"title": "Body Type", "orient": "right"},
+        "scale": {"scheme": "tableau10"}
+      },
+      "tooltip": [
+        {"field": "Body", "type": "nominal", "title": "Body Type"},
+        {"field": "Percentage", "type": "quantitative", "title": "Percentage", "format": ".1f"}
+      ]
+    },
+    "transform": [
+      {
+        "calculate": "datum.Percentage + '%'",
+        "as": "PercentageLabel"
+      }
+    ],
+    "layer": [
+      {
+        "mark": {
+          "type": "arc",
+          "outerRadius": 180,
+          "innerRadius": 60,
+          "stroke": "white",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "radius": 200,
+          "align": "center",
+          "baseline": "middle",
+          "fontSize": 12,
+          "fontWeight": "bold",
+          "color": "black"
+        },
+        "encoding": {
+          "text": {
+            "field": "PercentageLabel",
+            "type": "nominal"
+          }
+        }
+      }
+    ]
+  }
+  
