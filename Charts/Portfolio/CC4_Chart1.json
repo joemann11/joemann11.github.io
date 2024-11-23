@@ -1,0 +1,99 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC4_Data.csv",
+      "format": {"type": "csv"}
+    },
+    "height": 300,
+    "width": "container",
+    "transform": [
+      {
+        "calculate": "datum['Goals (% Played)'] * 100",
+        "as": "GoalsPercentage"
+      },
+      {
+        "calculate": "datum['Goals Excluding Penalties (% Played)'] * 100",
+        "as": "GoalsExclPenaltiesPercentage"
+      },
+      {
+        "fold": ["Played", "Goals", "Goals Excluding Penalties"],
+        "as": ["Category", "Value"]
+      },
+      {
+        "calculate": "datum.Category == 'Played' ? datum.Player + ' has played ' + datum.Value + ' games in their career to date.' : datum.Category == 'Goals' ? datum.Player + ' has scored ' + datum.Value + ' goals. This is ' + format(datum.GoalsPercentage, '.1f') + '% of the games ' + datum.Player + ' has played.' : datum.Player + ' has scored ' + datum.Value + ' goals without penalties. This is ' + format(datum.GoalsExclPenaltiesPercentage, '.1f') + '% of the games ' + datum.Player + ' has played.'",
+        "as": "TooltipMessage"
+      }
+    ],
+    "title": {
+      "text": "Vardy V Kane V Rooney in the Premier League",
+      "subtitle": "CC4: A revision to the BBC Sports visualisation",
+      "subtitleFontSize": 14,
+      "anchor": "start",
+      "fontSize": 20
+    },
+    "layer": [
+      {
+        "mark": "bar",
+        "encoding": {
+          "x": {
+            "field": "Player",
+            "type": "nominal",
+            "title": "Player",
+            "axis": {"labelAngle": 0}
+          },
+          "xOffset": {
+            "field": "Category",
+            "type": "nominal",
+            "sort": ["Played", "Goals", "Goals Excluding Penalties"]
+          },
+          "y": {
+            "field": "Value",
+            "type": "quantitative",
+            "title": "Matches Played / Goals"
+          },
+          "color": {
+            "field": "Category",
+            "type": "nominal",
+            "title": "Metric",
+            "scale": {
+              "domain": ["Played", "Goals", "Goals Excluding Penalties"],
+              "range": ["#1f77b4", "#ff7f0e", "#90EE90"]
+            }
+          },
+          "tooltip": {"field": "TooltipMessage", "type": "nominal"}
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "align": "center",
+          "baseline": "bottom",
+          "dy": -5
+        },
+        "encoding": {
+          "x": {
+            "field": "Player",
+            "type": "nominal"
+          },
+          "xOffset": {
+            "field": "Category",
+            "type": "nominal",
+            "sort": ["Played", "Goals", "Goals Excluding Penalties"]
+          },
+          "y": {
+            "field": "Value",
+            "type": "quantitative"
+          },
+          "text": {
+            "field": "Value",
+            "type": "quantitative",
+            "format": ".0f"
+          },
+          "color": {
+            "value": "black"
+          }
+        }
+      }
+    ]
+  }
+  
