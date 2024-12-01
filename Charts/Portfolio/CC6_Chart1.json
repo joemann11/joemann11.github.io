@@ -1,0 +1,276 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "",
+    "config": {
+      "view": {
+        "fill": "#f6f6f6"
+      }
+    },
+    "hconcat": [
+      {
+        "vconcat": [
+          {
+            "data": {
+              "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC6_Data/CC6_Data_ABMI.json",
+              "format": {"type": "json", "property": "years"}
+            },
+            "height": 80,
+            "width": 100,
+            "title": {
+              "text": "UK GDP at Market Prices",
+              "subtitle": "Value of goods and services in the UK.",
+              "fontSize": 12,
+              "subtitleFontSize": 10,
+              "subtitleColor": "gray"
+            },
+            "transform": [
+              {"filter": "datum.year >=1995"}
+            ],
+            "mark": {"type": "line", "color": "darkgreen"},
+            "encoding": {
+              "x": {"field": "date", "type": "temporal", "title": ""},
+              "y": {
+                "field": "value",
+                "type": "quantitative",
+                "axis": {"titleFontSize": 10, "format": "s"},
+                "title": "GDP (GBP)"
+              }
+            }
+          },
+          {
+            "data": {
+              "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC6_Data/CC6_Data_ANSQ.json",
+              "format": {"type": "json", "property": "years"}
+            },
+            "height": 80,
+            "width": 100,
+            "title": {
+              "text": "Public Sector Investment",
+              "subtitle": "Investment in infrastructure, machinery, etc.",
+              "fontSize": 12,
+              "subtitleFontSize": 10,
+              "subtitleColor": "gray"
+            },
+            "transform": [
+              {"filter": "datum.year >=1995"}
+            ],
+            "mark": {"type": "line", "color": "darkgreen"},
+            "encoding": {
+              "x": {"field": "date", "type": "temporal", "title": ""},
+              "y": {
+                "field": "value",
+                "type": "quantitative",
+                "axis": {"titleFontSize": 10, "format": "s"},
+                "title": "Investment (GBP)"
+              }
+            }
+          },
+          {
+            "data": {
+              "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC6_Data/CC6_Data_DTWM.json",
+              "format": {"type": "json", "property": "years"}
+            },
+            "height": 80,
+            "width": 100,
+            "title": {
+              "text": "Employee Compensation",
+              "subtitle": "Trends in wages across sectors.",
+              "fontSize": 12,
+              "subtitleFontSize": 10,
+              "subtitleColor": "gray"
+            },
+            "transform": [
+              {"filter": "datum.year >=1995"}
+            ],
+            "mark": {"type": "line", "color": "darkgreen"},
+            "encoding": {
+              "x": {"field": "date", "type": "temporal", "title": ""},
+              "y": {
+                "field": "value",
+                "type": "quantitative",
+                "axis": {"titleFontSize": 10, "format": "s"},
+                "title": "Compensation (GBP)"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "vconcat": [
+          {
+            "data": {
+              "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC6_Data/CC6_Data_DZLS.json",
+              "format": {"type": "json", "property": "years"}
+            },
+            "height": 80,
+            "width": 100,
+            "title": {
+              "text": "Public Sector Borrowing",
+              "subtitle": "Government fiscal deficit trends.",
+              "fontSize": 12,
+              "subtitleFontSize": 10,
+              "subtitleColor": "gray"
+            },
+            "transform": [
+              {"filter": "datum.year >=1995"}
+            ],
+            "mark": {"type": "line", "color": "darkgreen"},
+            "encoding": {
+              "x": {"field": "date", "type": "temporal", "title": ""},
+              "y": {
+                "field": "value",
+                "type": "quantitative",
+                "axis": {"titleFontSize": 10, "format": "s"},
+                "title": "Borrowing (GBP)"
+              }
+            }
+          },
+          {
+            "data": {
+              "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC6_Data/CC6_Data_IHYP.json",
+              "format": {"type": "json", "property": "years"}
+            },
+            "height": 80,
+            "width": 100,
+            "title": {
+              "text": "GDP Year-on-Year Growth",
+              "subtitle": "Annual growth in GDP.",
+              "fontSize": 12,
+              "subtitleFontSize": 10,
+              "subtitleColor": "gray"
+            },
+            "transform": [
+              {"filter": "datum.year >=1995"}
+            ],
+            "mark": {"type": "line", "color": "darkgreen"},
+            "encoding": {
+              "x": {"field": "date", "type": "temporal", "title": ""},
+              "y": {
+                "field": "value",
+                "type": "quantitative",
+                "axis": {"titleFontSize": 10},
+                "title": "Growth Rate (%)"
+              }
+            }
+          },
+          {
+            "data": {
+              "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC6_Data/CC6_Data_L55O.json",
+              "format": {"type": "json", "property": "years"}
+            },
+            "height": 80,
+            "width": 100,
+            "title": {
+              "text": "Consumer Prices Index",
+              "subtitle": "Changes in consumer goods prices.",
+              "fontSize": 12,
+              "subtitleFontSize": 10,
+              "subtitleColor": "gray"
+            },
+            "transform": [
+              {"filter": "datum.year >=1995"}
+            ],
+            "mark": {"type": "line", "color": "darkgreen"},
+            "encoding": {
+              "x": {"field": "date", "type": "temporal", "title": ""},
+              "y": {
+                "field": "value",
+                "type": "quantitative",
+                "axis": {"titleFontSize": 10},
+                "title": "CPI (2015=100)"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "vconcat": [
+          {
+            "data": {
+              "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC6_Data/CC6_Data_LMSB.json",
+              "format": {"type": "json", "property": "years"}
+            },
+            "height": 80,
+            "width": 100,
+            "title": {
+              "text": "Claimant Count",
+              "subtitle": "People claiming unemployment benefits.",
+              "fontSize": 12,
+              "subtitleFontSize": 10,
+              "subtitleColor": "gray"
+            },
+            "transform": [
+              {"filter": "datum.year >=1995"}
+            ],
+            "mark": {"type": "line", "color": "darkgreen"},
+            "encoding": {
+              "x": {"field": "date", "type": "temporal", "title": ""},
+              "y": {
+                "field": "value",
+                "type": "quantitative",
+                "axis": {"titleFontSize": 10, "format": "s"},
+                "title": "Claimants (K)"
+              }
+            }
+          },
+          {
+            "data": {
+              "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC6_Data/CC6_Data_LNNO.json",
+              "format": {"type": "json", "property": "years"}
+            },
+            "height": 80,
+            "width": 100,
+            "title": {
+              "text": "Productivity Jobs Change",
+              "subtitle": "Annual percentage change in productivity.",
+              "fontSize": 12,
+              "subtitleFontSize": 10,
+              "subtitleColor": "gray"
+            },
+            "transform": [
+              {"filter": "datum.year >=1995"}
+            ],
+            "mark": {"type": "line", "color": "darkgreen"},
+            "encoding": {
+              "x": {"field": "date", "type": "temporal", "title": ""},
+              "y": {
+                "field": "value",
+                "type": "quantitative",
+                "axis": {"titleFontSize": 10},
+                "title": "Productivity Change (%)"
+              }
+            }
+          },
+          {
+            "data": {
+              "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC6_Data/CC6_Data_MGRZ.json",
+              "format": {"type": "json", "property": "years"}
+            },
+            "height": 80,
+            "width": 100,
+            "title": {
+              "text": "Unemployment Rate",
+              "subtitle": "Percentage of unemployed labor force.",
+              "fontSize": 12,
+              "subtitleFontSize": 10,
+              "subtitleColor": "gray"
+            },
+            "transform": [
+              {"filter": "datum.year >=1995"}
+            ],
+            "mark": {"type": "line", "color": "darkgreen"},
+            "encoding": {
+              "x": {"field": "date", "type": "temporal", "title": ""},
+              "y": {
+                "field": "value",
+                "type": "quantitative",
+                "axis": {"titleFontSize": 10},
+                "title": "Unemployment (%)"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
