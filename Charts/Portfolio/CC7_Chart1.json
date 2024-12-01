@@ -1,0 +1,22 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Map of South American countries using provided GeoJSON data.",
+    "title": "South America",
+    "width": 600,
+    "height": 600,
+    "data": {
+      "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC7_SAMap_Data.json",
+      "format": {"type": "json", "property": "features"}
+    },
+    "projection": {"type": "mercator"},
+    "mark": {
+      "type": "geoshape",
+      "fill": "lightgrey",
+      "stroke": "black",
+      "strokeWidth": 0.5
+    },
+    "encoding": {
+      "tooltip": {"field": "properties.name", "type": "nominal", "title": "Country"}
+    }
+  }
+  
