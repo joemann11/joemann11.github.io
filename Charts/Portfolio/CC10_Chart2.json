@@ -1,0 +1,97 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Interactive Horizontal Bar Chart for GDP Share",
+    "title": {
+      "text": "Research and Development Expenditure as a Share of GDP",
+      "subtitle": "CC5: Webscraping, Source: World Bank",
+      "fontSize": 16,
+      "fontWeight": "bold",
+      "anchor": "start",
+      "subtitleFontSize": 12,
+      "subtitleFontStyle": "italic",
+      "subtitleColor": "gray"
+    },
+    "autosize": {
+      "type": "fit",
+      "resize": true,
+      "contains": "padding"
+    },
+    "width": 800,
+    "height": {"step": 25},
+    "data": {
+      "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC5_Data.csv",
+      "format": {"type": "csv"}
+    },
+    "params": [
+      {
+        "name": "filter_by",
+        "value": "Top 10",
+        "bind": {
+          "input": "select",
+          "options": ["Top 10", "Lowest 10", "All"],
+          "labels": ["Top 10 Countries", "Lowest 10 Countries", "Show All"]
+        }
+      },
+      {
+        "name": "country_search",
+        "value": "",
+        "bind": {
+          "input": "text",
+          "placeholder": "Search Country..."
+        }
+      }
+    ],
+    "transform": [
+      {
+        "filter": "country_search == '' || test(lower(country_search), lower(datum.Country))"
+      },
+      {
+        "window": [{"op": "rank", "as": "rank_desc"}],
+        "sort": [{"field": "GDP Share", "order": "descending"}]
+      },
+      {
+        "window": [{"op": "rank", "as": "rank_asc"}],
+        "sort": [{"field": "GDP Share", "order": "ascending"}]
+      },
+      {
+        "filter": "filter_by == 'All' || (filter_by == 'Top 10' && datum.rank_desc <= 10) || (filter_by == 'Lowest 10' && datum.rank_asc <= 10)"
+      }
+    ],
+    "mark": "bar",
+    "encoding": {
+      "y": {
+        "field": "Country",
+        "type": "nominal",
+        "sort": "-x",
+        "axis": {
+          "title": "Country",
+          "labelLimit": 300,
+          "labelFontSize": 12
+        }
+      },
+      "x": {
+        "field": "GDP Share",
+        "type": "quantitative",
+        "axis": {"title": "GDP Share (%)"}
+      },
+      "tooltip": [
+        {"field": "Country", "type": "nominal", "title": "Country"},
+        {"field": "GDP Share", "type": "quantitative", "title": "GDP Share (%)"}
+      ],
+      "color": {
+        "field": "Country",
+        "type": "nominal",
+        "legend": null
+      }
+    },
+    "config": {
+      "axis": {
+        "labelFontSize": 12,
+        "titleFontSize": 14
+      },
+      "view": {
+        "stroke": "transparent"
+      }
+    }
+  }
+  
