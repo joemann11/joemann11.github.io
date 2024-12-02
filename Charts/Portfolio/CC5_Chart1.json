@@ -1,0 +1,71 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Top 10 Countries for R&D Expenditure as a Share of GDP",
+    "title": {
+      "text": "Top 10 Countries: Research and Development Expenditure as a Share of GDP",
+      "subtitle": "Source: World Bank",
+      "fontSize": 16,
+      "fontWeight": "bold",
+      "anchor": "start",
+      "subtitleFontSize": 12,
+      "subtitleFontStyle": "italic",
+      "subtitleColor": "gray"
+    },
+    "autosize": {
+      "type": "fit",
+      "resize": true,
+      "contains": "padding"
+    },
+    "width": 800,
+    "height": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC5_Data.csv",
+      "format": {"type": "csv"}
+    },
+    "transform": [
+      {
+        "window": [{"op": "rank", "as": "rank_desc"}],
+        "sort": [{"field": "GDP Share", "order": "descending"}]
+      },
+      {
+        "filter": "datum.rank_desc <= 10"
+      }
+    ],
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "field": "Country",
+        "type": "nominal",
+        "sort": "-y",
+        "axis": {
+          "title": "Country",
+          "labelAngle": -45,
+          "labelFontSize": 12
+        }
+      },
+      "y": {
+        "field": "GDP Share",
+        "type": "quantitative",
+        "axis": {"title": "GDP Share (%)"}
+      },
+      "tooltip": [
+        {"field": "Country", "type": "nominal", "title": "Country"},
+        {"field": "GDP Share", "type": "quantitative", "title": "GDP Share (%)"}
+      ],
+      "color": {
+        "field": "Country",
+        "type": "nominal",
+        "legend": null
+      }
+    },
+    "config": {
+      "axis": {
+        "labelFontSize": 12,
+        "titleFontSize": 14
+      },
+      "view": {
+        "stroke": "transparent"
+      }
+    }
+  }
+  
