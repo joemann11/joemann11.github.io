@@ -1,0 +1,93 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Scatter plot of GDP per capita vs. Educational Attainment with Log Transformation and Regression Line",
+    "width": 600,
+    "height": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC8_Data2.csv",
+      "format": {"type": "csv"}
+    },
+    "transform": [
+      {
+        "filter": "datum['GDP per capita (constant 2015 US$)'] > 0 && datum['Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)'] != null"
+      },
+      {
+        "calculate": "log(datum['GDP per capita (constant 2015 US$)'])",
+        "as": "Log GDP per Capita"
+      }
+    ],
+    "layer": [
+      {
+        "mark": "point",
+        "encoding": {
+          "x": {
+            "field": "Log GDP per Capita",
+            "type": "quantitative",
+            "title": "Log of GDP per Capita (constant 2015 US$)",
+            "scale": {"zero": false}
+          },
+          "y": {
+            "field": "Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",
+            "type": "quantitative",
+            "title": "Educational Attainment (%)",
+            "scale": {"zero": false}
+          },
+          "tooltip": [
+            {"field": "Country Name", "type": "nominal", "title": "Country"},
+            {"field": "GDP per capita (constant 2015 US$)", "type": "quantitative", "format": ".2f", "title": "GDP per Capita"},
+            {"field": "Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)", "type": "quantitative", "format": ".2f", "title": "Educational Attainment (%)"}
+          ]
+        }
+      },
+      {
+        "transform": [
+          {
+            "regression": "Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",
+            "on": "Log GDP per Capita",
+            "as": ["Log GDP per Capita", "Regression"]
+          }
+        ],
+        "mark": {"type": "line", "color": "red"},
+        "encoding": {
+          "x": {"field": "Log GDP per Capita", "type": "quantitative"},
+          "y": {"field": "Regression", "type": "quantitative"}
+        }
+      },
+      {
+        "transform": [
+          {
+            "regression": "Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",
+            "on": "Log GDP per Capita",
+            "params": true
+          },
+          {
+            "calculate": "'R² = ' + format(datum.rSquared, '.3f')",
+            "as": "R² Label"
+          }
+        ],
+        "mark": {
+          "type": "text",
+          "align": "right",
+          "baseline": "top",
+          "fontSize": 14
+        },
+        "encoding": {
+          "text": {"field": "R² Label", "type": "nominal"},
+          "x": {"value": 595},
+          "y": {"value": 15}
+        }
+      }
+    ],
+    "title": {
+      "text": "Relationship Between GDP per Capita and Educational Attainment",
+      "subtitle": "Log-transformed GDP per Capita with Regression Line and R² Value",
+      "anchor": "start"
+    },
+    "config": {
+      "axis": {
+        "labelFontSize": 12,
+        "titleFontSize": 14,
+        "grid": true
+      }
+    }
+  }
