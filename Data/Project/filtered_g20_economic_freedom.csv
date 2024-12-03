@@ -1,0 +1,543 @@
+year,iso_code_2,iso_code_3,countries,economic_freedom_summary_index
+2022,AR,ARG,Argentina,4.55
+2022,AU,AUS,Australia,7.98
+2022,BR,BRA,Brazil,6.56
+2022,CA,CAN,Canada,7.99
+2022,CN,CHN,China,6.14
+2022,FR,FRA,France,7.49
+2022,DE,DEU,Germany,7.8
+2022,IN,IND,India,6.58
+2022,ID,IDN,Indonesia,6.96
+2022,IT,ITA,Italy,7.22
+2022,JP,JPN,Japan,7.9
+2022,KR,KOR,"Korea, Rep.",7.52
+2022,MX,MEX,Mexico,6.94
+2022,RU,RUS,Russian Federation,5.93
+2022,SA,SAU,Saudi Arabia,7.03
+2022,ZA,ZAF,South Africa,6.65
+2022,TR,TUR,Türkiye,5.57
+2022,GB,GBR,United Kingdom,7.88
+2022,US,USA,United States,8.09
+2021,AR,ARG,Argentina,4.55
+2021,AU,AUS,Australia,8.0
+2021,BR,BRA,Brazil,6.47
+2021,CA,CAN,Canada,7.93
+2021,CN,CHN,China,6.18
+2021,FR,FRA,France,7.38
+2021,DE,DEU,Germany,7.7
+2021,IN,IND,India,6.57
+2021,ID,IDN,Indonesia,6.94
+2021,IT,ITA,Italy,7.22
+2021,JP,JPN,Japan,7.86
+2021,KR,KOR,"Korea, Rep.",7.42
+2021,MX,MEX,Mexico,7.0
+2021,RU,RUS,Russian Federation,6.23
+2021,SA,SAU,Saudi Arabia,6.96
+2021,ZA,ZAF,South Africa,6.58
+2021,TR,TUR,Türkiye,6.06
+2021,GB,GBR,United Kingdom,7.97
+2021,US,USA,United States,8.07
+2020,AR,ARG,Argentina,4.5
+2020,AU,AUS,Australia,8.07
+2020,BR,BRA,Brazil,6.41
+2020,CA,CAN,Canada,7.86
+2020,CN,CHN,China,6.16
+2020,FR,FRA,France,7.36
+2020,DE,DEU,Germany,7.74
+2020,IN,IND,India,6.62
+2020,ID,IDN,Indonesia,6.91
+2020,IT,ITA,Italy,7.23
+2020,JP,JPN,Japan,7.89
+2020,KR,KOR,"Korea, Rep.",7.44
+2020,MX,MEX,Mexico,7.06
+2020,RU,RUS,Russian Federation,6.42
+2020,SA,SAU,Saudi Arabia,6.85
+2020,ZA,ZAF,South Africa,6.47
+2020,TR,TUR,Türkiye,6.41
+2020,GB,GBR,United Kingdom,7.76
+2020,US,USA,United States,8.11
+2019,AR,ARG,Argentina,5.16
+2019,AU,AUS,Australia,8.21
+2019,BR,BRA,Brazil,6.66
+2019,CA,CAN,Canada,8.07
+2019,CN,CHN,China,6.18
+2019,FR,FRA,France,7.63
+2019,DE,DEU,Germany,7.99
+2019,IN,IND,India,6.56
+2019,ID,IDN,Indonesia,7.1
+2019,IT,ITA,Italy,7.53
+2019,JP,JPN,Japan,8.04
+2019,KR,KOR,"Korea, Rep.",7.62
+2019,MX,MEX,Mexico,7.12
+2019,RU,RUS,Russian Federation,6.55
+2019,SA,SAU,Saudi Arabia,6.94
+2019,ZA,ZAF,South Africa,6.62
+2019,TR,TUR,Türkiye,6.4
+2019,GB,GBR,United Kingdom,8.18
+2019,US,USA,United States,8.34
+2018,AR,ARG,Argentina,5.59
+2018,AU,AUS,Australia,8.29
+2018,BR,BRA,Brazil,6.68
+2018,CA,CAN,Canada,8.11
+2018,CN,CHN,China,6.18
+2018,FR,FRA,France,7.6
+2018,DE,DEU,Germany,7.99
+2018,IN,IND,India,6.57
+2018,ID,IDN,Indonesia,7.11
+2018,IT,ITA,Italy,7.5
+2018,JP,JPN,Japan,8.03
+2018,KR,KOR,"Korea, Rep.",7.67
+2018,MX,MEX,Mexico,7.07
+2018,RU,RUS,Russian Federation,6.56
+2018,SA,SAU,Saudi Arabia,6.54
+2018,ZA,ZAF,South Africa,6.62
+2018,TR,TUR,Türkiye,6.49
+2018,GB,GBR,United Kingdom,8.16
+2018,US,USA,United States,8.36
+2017,AR,ARG,Argentina,5.69
+2017,AU,AUS,Australia,8.27
+2017,BR,BRA,Brazil,6.69
+2017,CA,CAN,Canada,8.18
+2017,CN,CHN,China,6.15
+2017,FR,FRA,France,7.68
+2017,DE,DEU,Germany,8.02
+2017,IN,IND,India,6.61
+2017,ID,IDN,Indonesia,7.08
+2017,IT,ITA,Italy,7.52
+2017,JP,JPN,Japan,8.04
+2017,KR,KOR,"Korea, Rep.",7.73
+2017,MX,MEX,Mexico,7.06
+2017,RU,RUS,Russian Federation,6.58
+2017,SA,SAU,Saudi Arabia,6.59
+2017,ZA,ZAF,South Africa,6.6
+2017,TR,TUR,Türkiye,6.65
+2017,GB,GBR,United Kingdom,8.23
+2017,US,USA,United States,8.43
+2016,AR,ARG,Argentina,5.5
+2016,AU,AUS,Australia,8.29
+2016,BR,BRA,Brazil,6.54
+2016,CA,CAN,Canada,8.25
+2016,CN,CHN,China,6.07
+2016,FR,FRA,France,7.71
+2016,DE,DEU,Germany,8.09
+2016,IN,IND,India,6.39
+2016,ID,IDN,Indonesia,7.06
+2016,IT,ITA,Italy,7.59
+2016,JP,JPN,Japan,8.03
+2016,KR,KOR,"Korea, Rep.",7.71
+2016,MX,MEX,Mexico,7.02
+2016,RU,RUS,Russian Federation,6.42
+2016,SA,SAU,Saudi Arabia,6.4
+2016,ZA,ZAF,South Africa,6.57
+2016,TR,TUR,Türkiye,6.86
+2016,GB,GBR,United Kingdom,8.27
+2016,US,USA,United States,8.41
+2015,AR,ARG,Argentina,4.95
+2015,AU,AUS,Australia,8.24
+2015,BR,BRA,Brazil,6.25
+2015,CA,CAN,Canada,8.2
+2015,CN,CHN,China,6.07
+2015,FR,FRA,France,7.75
+2015,DE,DEU,Germany,8.13
+2015,IN,IND,India,6.3
+2015,ID,IDN,Indonesia,6.9
+2015,IT,ITA,Italy,7.66
+2015,JP,JPN,Japan,8.01
+2015,KR,KOR,"Korea, Rep.",7.71
+2015,MX,MEX,Mexico,7.11
+2015,RU,RUS,Russian Federation,6.11
+2015,SA,SAU,Saudi Arabia,6.08
+2015,ZA,ZAF,South Africa,6.63
+2015,TR,TUR,Türkiye,6.91
+2015,GB,GBR,United Kingdom,8.26
+2015,US,USA,United States,8.4
+2014,AR,ARG,Argentina,4.5
+2014,AU,AUS,Australia,8.23
+2014,BR,BRA,Brazil,6.36
+2014,CA,CAN,Canada,8.18
+2014,CN,CHN,China,6.05
+2014,FR,FRA,France,7.75
+2014,DE,DEU,Germany,8.08
+2014,IN,IND,India,5.99
+2014,ID,IDN,Indonesia,6.85
+2014,IT,ITA,Italy,7.56
+2014,JP,JPN,Japan,7.94
+2014,KR,KOR,"Korea, Rep.",7.7
+2014,MX,MEX,Mexico,7.03
+2014,RU,RUS,Russian Federation,6.16
+2014,SA,SAU,Saudi Arabia,6.28
+2014,ZA,ZAF,South Africa,6.71
+2014,TR,TUR,Türkiye,6.89
+2014,GB,GBR,United Kingdom,8.18
+2014,US,USA,United States,8.36
+2013,AR,ARG,Argentina,4.88
+2013,AU,AUS,Australia,8.2
+2013,BR,BRA,Brazil,6.47
+2013,CA,CAN,Canada,8.08
+2013,CN,CHN,China,5.99
+2013,FR,FRA,France,7.65
+2013,DE,DEU,Germany,8.01
+2013,IN,IND,India,6.1
+2013,ID,IDN,Indonesia,6.8
+2013,IT,ITA,Italy,7.47
+2013,JP,JPN,Japan,7.98
+2013,KR,KOR,"Korea, Rep.",7.65
+2013,MX,MEX,Mexico,6.93
+2013,RU,RUS,Russian Federation,6.28
+2013,SA,SAU,Saudi Arabia,6.33
+2013,ZA,ZAF,South Africa,6.89
+2013,TR,TUR,Türkiye,6.95
+2013,GB,GBR,United Kingdom,8.12
+2013,US,USA,United States,8.32
+2012,AR,ARG,Argentina,5.03
+2012,AU,AUS,Australia,8.24
+2012,BR,BRA,Brazil,6.57
+2012,CA,CAN,Canada,8.01
+2012,CN,CHN,China,5.98
+2012,FR,FRA,France,7.63
+2012,DE,DEU,Germany,7.99
+2012,IN,IND,India,6.11
+2012,ID,IDN,Indonesia,6.79
+2012,IT,ITA,Italy,7.47
+2012,JP,JPN,Japan,7.96
+2012,KR,KOR,"Korea, Rep.",7.64
+2012,MX,MEX,Mexico,6.9
+2012,RU,RUS,Russian Federation,6.26
+2012,SA,SAU,Saudi Arabia,6.2
+2012,ZA,ZAF,South Africa,6.81
+2012,TR,TUR,Türkiye,6.97
+2012,GB,GBR,United Kingdom,8.06
+2012,US,USA,United States,8.34
+2011,AR,ARG,Argentina,5.59
+2011,AU,AUS,Australia,8.17
+2011,BR,BRA,Brazil,6.56
+2011,CA,CAN,Canada,8.02
+2011,CN,CHN,China,5.91
+2011,FR,FRA,France,7.67
+2011,DE,DEU,Germany,8.01
+2011,IN,IND,India,6.12
+2011,ID,IDN,Indonesia,6.78
+2011,IT,ITA,Italy,7.45
+2011,JP,JPN,Japan,7.88
+2011,KR,KOR,"Korea, Rep.",7.64
+2011,MX,MEX,Mexico,6.9
+2011,RU,RUS,Russian Federation,6.05
+2011,SA,SAU,Saudi Arabia,6.38
+2011,ZA,ZAF,South Africa,6.79
+2011,TR,TUR,Türkiye,7.02
+2011,GB,GBR,United Kingdom,8.02
+2011,US,USA,United States,8.23
+2010,AR,ARG,Argentina,5.63
+2010,AU,AUS,Australia,8.17
+2010,BR,BRA,Brazil,6.54
+2010,CA,CAN,Canada,8.07
+2010,CN,CHN,China,5.87
+2010,FR,FRA,France,7.71
+2010,DE,DEU,Germany,7.93
+2010,IN,IND,India,5.95
+2010,ID,IDN,Indonesia,6.81
+2010,IT,ITA,Italy,7.42
+2010,JP,JPN,Japan,7.94
+2010,KR,KOR,"Korea, Rep.",7.6
+2010,MX,MEX,Mexico,6.95
+2010,RU,RUS,Russian Federation,6.01
+2010,SA,SAU,Saudi Arabia,6.53
+2010,ZA,ZAF,South Africa,6.74
+2010,TR,TUR,Türkiye,6.86
+2010,GB,GBR,United Kingdom,8.08
+2010,US,USA,United States,8.22
+2009,AR,ARG,Argentina,5.86
+2009,AU,AUS,Australia,8.2
+2009,BR,BRA,Brazil,6.41
+2009,CA,CAN,Canada,8.21
+2009,CN,CHN,China,5.87
+2009,FR,FRA,France,7.76
+2009,DE,DEU,Germany,7.91
+2009,IN,IND,India,5.97
+2009,ID,IDN,Indonesia,6.54
+2009,IT,ITA,Italy,7.3
+2009,JP,JPN,Japan,7.85
+2009,KR,KOR,"Korea, Rep.",7.53
+2009,MX,MEX,Mexico,6.82
+2009,RU,RUS,Russian Federation,5.55
+2009,SA,SAU,Saudi Arabia,5.43
+2009,ZA,ZAF,South Africa,6.59
+2009,TR,TUR,Türkiye,6.79
+2009,GB,GBR,United Kingdom,8.06
+2009,US,USA,United States,8.11
+2008,AR,ARG,Argentina,5.96
+2008,AU,AUS,Australia,8.21
+2008,BR,BRA,Brazil,6.4
+2008,CA,CAN,Canada,8.25
+2008,CN,CHN,China,5.76
+2008,FR,FRA,France,7.78
+2008,DE,DEU,Germany,7.87
+2008,IN,IND,India,6.03
+2008,ID,IDN,Indonesia,6.45
+2008,IT,ITA,Italy,7.36
+2008,JP,JPN,Japan,7.92
+2008,KR,KOR,"Korea, Rep.",7.54
+2008,MX,MEX,Mexico,6.89
+2008,RU,RUS,Russian Federation,5.66
+2008,SA,SAU,Saudi Arabia,5.72
+2008,ZA,ZAF,South Africa,6.57
+2008,TR,TUR,Türkiye,6.51
+2008,GB,GBR,United Kingdom,8.1
+2008,US,USA,United States,8.32
+2007,AR,ARG,Argentina,6.15
+2007,AU,AUS,Australia,8.29
+2007,BR,BRA,Brazil,6.38
+2007,CA,CAN,Canada,8.26
+2007,CN,CHN,China,5.81
+2007,FR,FRA,France,7.82
+2007,DE,DEU,Germany,7.92
+2007,IN,IND,India,6.11
+2007,ID,IDN,Indonesia,6.55
+2007,IT,ITA,Italy,7.46
+2007,JP,JPN,Japan,8.02
+2007,KR,KOR,"Korea, Rep.",7.73
+2007,MX,MEX,Mexico,6.91
+2007,RU,RUS,Russian Federation,5.73
+2007,SA,SAU,Saudi Arabia,6.41
+2007,ZA,ZAF,South Africa,6.81
+2007,TR,TUR,Türkiye,6.48
+2007,GB,GBR,United Kingdom,8.22
+2007,US,USA,United States,8.55
+2006,AR,ARG,Argentina,5.97
+2006,AU,AUS,Australia,8.26
+2006,BR,BRA,Brazil,6.38
+2006,CA,CAN,Canada,8.33
+2006,CN,CHN,China,5.75
+2006,FR,FRA,France,7.62
+2006,DE,DEU,Germany,7.97
+2006,IN,IND,India,6.1
+2006,ID,IDN,Indonesia,6.44
+2006,IT,ITA,Italy,7.48
+2006,JP,JPN,Japan,8.01
+2006,KR,KOR,"Korea, Rep.",7.63
+2006,MX,MEX,Mexico,6.99
+2006,RU,RUS,Russian Federation,5.41
+2006,SA,SAU,Saudi Arabia,6.27
+2006,ZA,ZAF,South Africa,6.83
+2006,TR,TUR,Türkiye,6.34
+2006,GB,GBR,United Kingdom,8.31
+2006,US,USA,United States,8.55
+2005,AR,ARG,Argentina,6.09
+2005,AU,AUS,Australia,8.23
+2005,BR,BRA,Brazil,6.42
+2005,CA,CAN,Canada,8.35
+2005,CN,CHN,China,5.69
+2005,FR,FRA,France,7.64
+2005,DE,DEU,Germany,8.03
+2005,IN,IND,India,6.28
+2005,ID,IDN,Indonesia,6.41
+2005,IT,ITA,Italy,7.59
+2005,JP,JPN,Japan,8.11
+2005,KR,KOR,"Korea, Rep.",7.58
+2005,MX,MEX,Mexico,6.97
+2005,RU,RUS,Russian Federation,5.66
+2005,SA,SAU,Saudi Arabia,5.39
+2005,ZA,ZAF,South Africa,6.94
+2005,TR,TUR,Türkiye,6.28
+2005,GB,GBR,United Kingdom,8.34
+2005,US,USA,United States,8.54
+2004,AR,ARG,Argentina,6.38
+2004,AU,AUS,Australia,8.21
+2004,BR,BRA,Brazil,6.28
+2004,CA,CAN,Canada,8.32
+2004,CN,CHN,China,5.64
+2004,FR,FRA,France,7.71
+2004,DE,DEU,Germany,8.05
+2004,IN,IND,India,6.15
+2004,ID,IDN,Indonesia,6.24
+2004,IT,ITA,Italy,7.63
+2004,JP,JPN,Japan,8.13
+2004,KR,KOR,"Korea, Rep.",7.41
+2004,MX,MEX,Mexico,6.88
+2004,RU,RUS,Russian Federation,5.23
+2004,SA,SAU,Saudi Arabia,5.58
+2004,ZA,ZAF,South Africa,6.87
+2004,TR,TUR,Türkiye,6.14
+2004,GB,GBR,United Kingdom,8.39
+2004,US,USA,United States,8.67
+2003,AR,ARG,Argentina,6.12
+2003,AU,AUS,Australia,8.34
+2003,BR,BRA,Brazil,6.1
+2003,CA,CAN,Canada,8.26
+2003,CN,CHN,China,5.79
+2003,FR,FRA,France,7.64
+2003,DE,DEU,Germany,8.13
+2003,IN,IND,India,6.17
+2003,ID,IDN,Indonesia,6.22
+2003,IT,ITA,Italy,7.53
+2003,JP,JPN,Japan,8.16
+2003,KR,KOR,"Korea, Rep.",7.23
+2003,MX,MEX,Mexico,6.74
+2003,RU,RUS,Russian Federation,4.94
+2003,SA,SAU,Saudi Arabia,5.6
+2003,ZA,ZAF,South Africa,6.79
+2003,TR,TUR,Türkiye,5.84
+2003,GB,GBR,United Kingdom,8.5
+2003,US,USA,United States,8.66
+2002,AR,ARG,Argentina,6.12
+2002,AU,AUS,Australia,8.3
+2002,BR,BRA,Brazil,6.19
+2002,CA,CAN,Canada,8.22
+2002,CN,CHN,China,5.74
+2002,FR,FRA,France,7.66
+2002,DE,DEU,Germany,8.07
+2002,IN,IND,India,6.08
+2002,ID,IDN,Indonesia,5.89
+2002,IT,ITA,Italy,7.64
+2002,JP,JPN,Japan,7.94
+2002,KR,KOR,"Korea, Rep.",7.23
+2002,MX,MEX,Mexico,6.76
+2002,RU,RUS,Russian Federation,4.96
+2002,SA,SAU,Saudi Arabia,5.63
+2002,ZA,ZAF,South Africa,6.77
+2002,TR,TUR,Türkiye,5.79
+2002,GB,GBR,United Kingdom,8.54
+2002,US,USA,United States,8.67
+2001,AR,ARG,Argentina,6.92
+2001,AU,AUS,Australia,8.27
+2001,BR,BRA,Brazil,5.63
+2001,CA,CAN,Canada,8.21
+2001,CN,CHN,China,5.63
+2001,FR,FRA,France,7.6
+2001,DE,DEU,Germany,8.02
+2001,IN,IND,India,6.06
+2001,ID,IDN,Indonesia,5.68
+2001,IT,ITA,Italy,7.62
+2001,JP,JPN,Japan,8.0
+2001,KR,KOR,"Korea, Rep.",7.15
+2001,MX,MEX,Mexico,6.67
+2001,RU,RUS,Russian Federation,4.69
+2001,SA,SAU,Saudi Arabia,5.55
+2001,ZA,ZAF,South Africa,6.87
+2001,TR,TUR,Türkiye,5.56
+2001,GB,GBR,United Kingdom,8.5
+2001,US,USA,United States,8.67
+2000,AR,ARG,Argentina,7.22
+2000,AU,AUS,Australia,8.35
+2000,BR,BRA,Brazil,5.69
+2000,CA,CAN,Canada,8.37
+2000,CN,CHN,China,5.58
+2000,FR,FRA,France,7.68
+2000,DE,DEU,Germany,8.14
+2000,IN,IND,India,6.1
+2000,ID,IDN,Indonesia,5.99
+2000,IT,ITA,Italy,7.66
+2000,JP,JPN,Japan,8.17
+2000,KR,KOR,"Korea, Rep.",7.04
+2000,MX,MEX,Mexico,6.6
+2000,RU,RUS,Russian Federation,4.89
+2000,SA,SAU,Saudi Arabia,5.59
+2000,ZA,ZAF,South Africa,6.86
+2000,TR,TUR,Türkiye,5.76
+2000,GB,GBR,United Kingdom,8.59
+2000,US,USA,United States,8.83
+1995,AR,ARG,Argentina,6.79
+1995,AU,AUS,Australia,8.27
+1995,BR,BRA,Brazil,4.35
+1995,CA,CAN,Canada,8.15
+1995,CN,CHN,China,4.95
+1995,FR,FRA,France,7.32
+1995,DE,DEU,Germany,8.03
+1995,IN,IND,India,5.5
+1995,ID,IDN,Indonesia,6.32
+1995,IT,ITA,Italy,7.07
+1995,JP,JPN,Japan,8.06
+1995,KR,KOR,"Korea, Rep.",7.17
+1995,MX,MEX,Mexico,6.69
+1995,RU,RUS,Russian Federation,4.77
+1995,ZA,ZAF,South Africa,6.76
+1995,TR,TUR,Türkiye,5.71
+1995,GB,GBR,United Kingdom,8.19
+1995,US,USA,United States,8.8
+1990,AR,ARG,Argentina,4.58
+1990,AU,AUS,Australia,8.39
+1990,BR,BRA,Brazil,4.18
+1990,CA,CAN,Canada,8.3
+1990,CN,CHN,China,4.05
+1990,FR,FRA,France,7.37
+1990,DE,DEU,Germany,8.24
+1990,IN,IND,India,4.92
+1990,ID,IDN,Indonesia,5.81
+1990,IT,ITA,Italy,7.05
+1990,JP,JPN,Japan,8.22
+1990,KR,KOR,"Korea, Rep.",6.78
+1990,MX,MEX,Mexico,5.91
+1990,RU,RUS,Russian Federation,3.55
+1990,ZA,ZAF,South Africa,5.63
+1990,TR,TUR,Türkiye,5.15
+1990,GB,GBR,United Kingdom,8.3
+1990,US,USA,United States,8.68
+1985,AR,ARG,Argentina,3.65
+1985,AU,AUS,Australia,8.26
+1985,BR,BRA,Brazil,3.01
+1985,CA,CAN,Canada,8.25
+1985,CN,CHN,China,4.2
+1985,FR,FRA,France,6.43
+1985,DE,DEU,Germany,8.11
+1985,IN,IND,India,4.81
+1985,ID,IDN,Indonesia,5.72
+1985,IT,ITA,Italy,5.97
+1985,JP,JPN,Japan,7.84
+1985,KR,KOR,"Korea, Rep.",5.73
+1985,MX,MEX,Mexico,4.65
+1985,RU,RUS,Russian Federation,3.52
+1985,ZA,ZAF,South Africa,5.42
+1985,TR,TUR,Türkiye,4.66
+1985,GB,GBR,United Kingdom,8.23
+1985,US,USA,United States,8.5
+1980,AR,ARG,Argentina,4.16
+1980,AU,AUS,Australia,7.92
+1980,BR,BRA,Brazil,3.92
+1980,CA,CAN,Canada,8.16
+1980,CN,CHN,China,4.03
+1980,FR,FRA,France,6.59
+1980,DE,DEU,Germany,8.01
+1980,IN,IND,India,4.88
+1980,ID,IDN,Indonesia,4.78
+1980,IT,ITA,Italy,5.7
+1980,JP,JPN,Japan,7.42
+1980,KR,KOR,"Korea, Rep.",5.21
+1980,MX,MEX,Mexico,5.38
+1980,RU,RUS,Russian Federation,2.88
+1980,ZA,ZAF,South Africa,5.38
+1980,TR,TUR,Türkiye,3.54
+1980,GB,GBR,United Kingdom,7.23
+1980,US,USA,United States,8.34
+1975,AR,ARG,Argentina,3.53
+1975,AU,AUS,Australia,7.47
+1975,BR,BRA,Brazil,3.96
+1975,CA,CAN,Canada,7.88
+1975,FR,FRA,France,6.55
+1975,DE,DEU,Germany,7.78
+1975,IN,IND,India,4.41
+1975,ID,IDN,Indonesia,4.78
+1975,IT,ITA,Italy,5.75
+1975,JP,JPN,Japan,7.18
+1975,KR,KOR,"Korea, Rep.",5.42
+1975,MX,MEX,Mexico,6.57
+1975,RU,RUS,Russian Federation,2.88
+1975,ZA,ZAF,South Africa,5.69
+1975,TR,TUR,Türkiye,4.53
+1975,GB,GBR,United Kingdom,6.31
+1975,US,USA,United States,8.09
+1970,AR,ARG,Argentina,5.65
+1970,AU,AUS,Australia,7.89
+1970,BR,BRA,Brazil,4.83
+1970,CA,CAN,Canada,8.1
+1970,FR,FRA,France,6.6
+1970,DE,DEU,Germany,8.02
+1970,IN,IND,India,5.64
+1970,ID,IDN,Indonesia,4.37
+1970,IT,ITA,Italy,6.41
+1970,JP,JPN,Japan,7.32
+1970,KR,KOR,"Korea, Rep.",5.9
+1970,MX,MEX,Mexico,6.8
+1970,ZA,ZAF,South Africa,6.04
+1970,TR,TUR,Türkiye,4.49
+1970,GB,GBR,United Kingdom,6.33
+1970,US,USA,United States,7.89
