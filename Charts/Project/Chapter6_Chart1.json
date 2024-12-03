@@ -1,0 +1,75 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Choropleth map showing Ease of Doing Business Score by country with a legend in the top-right.",
+    "title": {
+      "text": "Ease of Doing Business by Country",
+      "subtitle": "A measure of regulatory efficiency and ease of starting and operating a business. Countries with higher scores tend to have fewer, more efficient, regulations."
+    },
+    "width": 1000,
+    "height": 500,
+    "data": {
+      "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Project/Chapter%202/WorldmapGeo.json",
+      "format": {"type": "json", "property": "features"}
+    },
+    "projection": {
+      "type": "equalEarth",
+      "scale": 170,
+      "translate": [500, 300]
+    },
+    "transform": [
+      {
+        "lookup": "properties.name",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Project/Chapter%202/Ease_Of_Doing_Bussiness_Data.csv",
+            "format": {"type": "csv"}
+          },
+          "key": "Country",
+          "fields": ["Ease of Doing Business Score"]
+        }
+      }
+    ],
+    "layer": [
+      {
+        "mark": {
+          "type": "geoshape",
+          "stroke": "gray",
+          "strokeWidth": 0.5,
+          "fill": "lightgray"
+        },
+        "encoding": {
+          "tooltip": {
+            "field": "properties.name",
+            "type": "nominal",
+            "title": "Country"
+          }
+        }
+      },
+      {
+        "mark": {
+          "type": "geoshape",
+          "stroke": "gray",
+          "strokeWidth": 0.5
+        },
+        "encoding": {
+          "color": {
+            "field": "Ease of Doing Business Score",
+            "type": "quantitative",
+            "scale": {"scheme": "blues"},
+            "title": "Ease of Doing Business Score",
+            "legend": {"orient": "top-right"}
+          },
+          "tooltip": [
+            {"field": "properties.name", "type": "nominal", "title": "Country"},
+            {
+              "field": "Ease of Doing Business Score",
+              "type": "quantitative",
+              "title": "Ease of Doing Business Score",
+              "format": ".1f"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  

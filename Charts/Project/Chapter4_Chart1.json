@@ -1,0 +1,55 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Bar chart of G20 countries' economic freedom rating by year",
+    "data": {
+      "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Project/filtered_g20_economic_freedom.csv"
+    },
+    "mark": "bar",
+    "width": 600,
+    "encoding": {
+      "x": {
+        "field": "countries",
+        "type": "nominal",
+        "title": "Country",
+        "sort": "-y"
+      },
+      "y": {
+        "field": "economic_freedom_summary_index",
+        "type": "quantitative",
+        "title": "Economic Freedom Summary Index"
+      },
+      "color": {
+        "field": "countries",
+        "type": "nominal",
+        "title": "Country",
+        "scale": {
+          "scheme": "tableau20"
+        }
+      },
+      "tooltip": [
+        {"field": "countries", "type": "nominal"},
+        {"field": "economic_freedom_summary_index", "type": "quantitative"},
+        {"field": "year", "type": "ordinal"}
+      ]
+    },
+    "title": "Economic Freedom Rating of G20 Countries by Year",
+    "params": [
+      {
+        "name": "year_select",
+        "value": 2020,
+        "bind": {
+          "input": "range",
+          "min": 2000,
+          "max": 2022,
+          "step": 1,
+          "name": "Select Year:"
+        }
+      }
+    ],
+    "transform": [
+      {
+        "filter": "datum['year'] == year_select"
+      }
+    ]
+  }
+  

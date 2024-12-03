@@ -1,0 +1,80 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "vconcat": [
+      {
+        "description": "Bar chart of total US patent applications over time.",
+        "data": {
+          "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Project/Chapter%204/C4_Cleaned_EUUSCasStudy2.csv"
+        },
+        "transform": [
+          {
+            "filter": "(datum['Office'] === 'United States of America') && (datum['Origin'] === 'Total')"
+          },
+          {
+            "aggregate": [
+              {
+                "op": "sum",
+                "field": "Patent Count",
+                "as": "Total_Patent_Count"
+              }
+            ],
+            "groupby": ["Year"]
+          }
+        ],
+        "mark": {
+          "type": "bar",
+          "color": "#4C78A8"
+        },
+        "encoding": {
+          "x": {
+            "field": "Year",
+            "type": "ordinal",
+            "title": "Year"
+          },
+          "y": {
+            "field": "Total_Patent_Count",
+            "type": "quantitative",
+            "title": "Total Patent Applications"
+          },
+          "tooltip": [
+            {"field": "Year", "type": "ordinal"},
+            {"field": "Total_Patent_Count", "type": "quantitative"}
+          ]
+        },
+        "title": "Total US Patent Applications Over Time"
+      },
+      {
+        "description": "Bar chart of total pages in the regulatory book over time.",
+        "data": {
+          "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Project/Chapter%204/TotalPages_in_reg_books.csv"
+        },
+        "transform": [
+          {
+            "filter": "(datum['Year'] >= 1980) && (datum['Year'] <= 2023)"
+          }
+        ],
+        "mark": {
+          "type": "bar",
+          "color": "#E45756"
+        },
+        "encoding": {
+          "x": {
+            "field": "Year",
+            "type": "ordinal",
+            "title": "Year"
+          },
+          "y": {
+            "field": "Total Pages",
+            "type": "quantitative",
+            "title": "Total Pages in Federal Regulatory Book"
+          },
+          "tooltip": [
+            {"field": "Year", "type": "ordinal"},
+            {"field": "Total Pages", "type": "quantitative"}
+          ]
+        },
+        "title": "Total Pages in Federal Regulatory Book Over Time"
+      }
+    ]
+  }
+  

@@ -1,0 +1,137 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "vconcat": [
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Project/Chapter%204/C4_Cleaned_EUUSCasStudy2.csv",
+          "format": {
+            "type": "csv"
+          }
+        },
+        "transform": [
+          {
+            "filter": "datum.Year >= 2000"
+          },
+          {
+            "aggregate": [
+              {
+                "op": "sum",
+                "field": "Patent Count",
+                "as": "Total Patents"
+              }
+            ],
+            "groupby": ["Year", "Office"]
+          }
+        ],
+        "mark": "bar",
+        "encoding": {
+          "x": {
+            "field": "Year",
+            "type": "ordinal",
+            "title": "Year"
+          },
+          "y": {
+            "field": "Total Patents",
+            "type": "quantitative",
+            "title": "Total Patent Applications"
+          },
+          "color": {
+            "field": "Office",
+            "type": "nominal",
+            "title": "Office",
+            "scale": {
+              "domain": ["European Patent Office", "United States of America"],
+              "range": ["blue", "red"]
+            }
+          },
+          "tooltip": [
+            {"field": "Year", "type": "ordinal", "title": "Year"},
+            {"field": "Office", "type": "nominal", "title": "Office"},
+            {"field": "Total Patents", "type": "quantitative", "title": "Total Patent Applications"}
+          ]
+        },
+        "title": "Total Patent Applications by Year (US vs EU)"
+      },
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Project/Chapter%204/C4_Cleaned_EUUSCasStudy2.csv",
+          "format": {
+            "type": "csv"
+          }
+        },
+        "transform": [
+          {"filter": "datum.Office === 'European Patent Office'"},
+          {"filter": "datum.Year >= 2000"}
+        ],
+        "mark": "rect",
+        "encoding": {
+          "x": {
+            "field": "Year",
+            "type": "ordinal",
+            "title": "Year"
+          },
+          "y": {
+            "field": "Field of technology",
+            "type": "nominal",
+            "title": "Type of Patent"
+          },
+          "color": {
+            "field": "Patent Count",
+            "type": "quantitative",
+            "title": "Number of Patents",
+            "scale": {
+              "scheme": "reds",
+              "domain": [0, 50000]
+            }
+          },
+          "tooltip": [
+            {"field": "Year", "type": "ordinal", "title": "Year"},
+            {"field": "Field of technology", "type": "nominal", "title": "Type of Patent"},
+            {"field": "Patent Count", "type": "quantitative", "title": "Number of Patents"}
+          ]
+        },
+        "title": "European Patent Office Heatmap (Years 2000 and Above)"
+      },
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Project/Chapter%204/C4_Cleaned_EUUSCasStudy2.csv",
+          "format": {
+            "type": "csv"
+          }
+        },
+        "transform": [
+          {"filter": "datum.Office === 'United States of America'"},
+          {"filter": "datum.Year >= 2000"}
+        ],
+        "mark": "rect",
+        "encoding": {
+          "x": {
+            "field": "Year",
+            "type": "ordinal",
+            "title": "Year"
+          },
+          "y": {
+            "field": "Field of technology",
+            "type": "nominal",
+            "title": "Type of Patent"
+          },
+          "color": {
+            "field": "Patent Count",
+            "type": "quantitative",
+            "title": "Number of Patents",
+            "scale": {
+              "scheme": "reds",
+              "domain": [0, 50000]
+            }
+          },
+          "tooltip": [
+            {"field": "Year", "type": "ordinal", "title": "Year"},
+            {"field": "Field of technology", "type": "nominal", "title": "Type of Patent"},
+            {"field": "Patent Count", "type": "quantitative", "title": "Number of Patents"}
+          ]
+        },
+        "title": "United States Patent Heatmap (Years 2000 and Above)"
+      }
+    ]
+  }
+  
