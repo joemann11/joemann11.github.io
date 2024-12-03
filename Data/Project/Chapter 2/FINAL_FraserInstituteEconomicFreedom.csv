@@ -1,0 +1,4388 @@
+Year,Countries,Economic Freedom Summary Index
+2022,Albania,7.48
+2022,Algeria,4.46
+2022,Angola,4.79
+2022,Argentina,4.55
+2022,Armenia,7.49
+2022,Australia,7.98
+2022,Austria,7.62
+2022,Azerbaijan,5.8
+2022,"Bahamas, The",6.65
+2022,Bahrain,7.51
+2022,Bangladesh,5.85
+2022,Barbados,6.81
+2022,Belarus,5.98
+2022,Belgium,7.42
+2022,Belize,6
+2022,Benin,6.26
+2022,Bhutan,6.24
+2022,Bolivia,6.11
+2022,Bosnia and Herzegovina,6.22
+2022,Botswana,6.67
+2022,Brazil,6.56
+2022,Brunei Darussalam,6.99
+2022,Bulgaria,7.16
+2022,Burkina Faso,5.9
+2022,Burundi,5.22
+2022,Cabo Verde,7.37
+2022,Cambodia,6.85
+2022,Cameroon,5.61
+2022,Canada,7.99
+2022,Central African Republic,4.92
+2022,Chad,5.05
+2022,Chile,7.45
+2022,China,6.14
+2022,Colombia,6.54
+2022,Comoros,5.56
+2022,"Congo, Dem. Rep.",5.02
+2022,"Congo, Rep.",4.89
+2022,Costa Rica,7.6
+2022,Côte d'Ivoire,5.89
+2022,Croatia,7.07
+2022,Cyprus,7.53
+2022,Czechia,7.65
+2022,Denmark,8.02
+2022,Djibouti,6.23
+2022,Dominican Republic,7.32
+2022,Ecuador,6.14
+2022,"Egypt, Arab Rep.",5.36
+2022,El Salvador,7.01
+2022,Estonia,7.67
+2022,Eswatini,5.42
+2022,Ethiopia,5.24
+2022,Fiji,5.99
+2022,Finland,7.87
+2022,France,7.49
+2022,Gabon,5.28
+2022,"Gambia, The",6.85
+2022,Georgia,7.66
+2022,Germany,7.8
+2022,Ghana,5.96
+2022,Greece,6.85
+2022,Guatemala,7.45
+2022,Guinea,5.63
+2022,Guinea-Bissau,5.32
+2022,Guyana,5.6
+2022,Haiti,5.8
+2022,Honduras,6.92
+2022,"Hong Kong SAR, China",8.58
+2022,Hungary,7.12
+2022,Iceland,7.84
+2022,India,6.58
+2022,Indonesia,6.96
+2022,"Iran, Islamic Rep.",4.63
+2022,Iraq,5.25
+2022,Ireland,8.02
+2022,Israel,7.44
+2022,Italy,7.22
+2022,Jamaica,7.32
+2022,Japan,7.9
+2022,Jordan,7.33
+2022,Kazakhstan,6.89
+2022,Kenya,6.82
+2022,"Korea, Rep.",7.52
+2022,Kuwait,6.45
+2022,Kyrgyz Republic,6.53
+2022,Lao PDR,5.86
+2022,Latvia,7.52
+2022,Lebanon,5.35
+2022,Lesotho,5.96
+2022,Liberia,5.87
+2022,Libya,4.65
+2022,Lithuania,7.51
+2022,Luxembourg,7.98
+2022,Madagascar,5.95
+2022,Malawi,5.48
+2022,Malaysia,7.56
+2022,Mali,5.63
+2022,Malta,7.82
+2022,Mauritania,5.91
+2022,Mauritius,7.79
+2022,Mexico,6.94
+2022,Moldova,6.49
+2022,Mongolia,6.86
+2022,Montenegro,7.15
+2022,Morocco,6.46
+2022,Mozambique,5.86
+2022,Myanmar,4.54
+2022,Namibia,6.23
+2022,Nepal,6.54
+2022,Netherlands,7.74
+2022,New Zealand,8.39
+2022,Nicaragua,6.42
+2022,Niger,5.7
+2022,Nigeria,5.96
+2022,North Macedonia,6.74
+2022,Norway,7.58
+2022,Oman,6.4
+2022,Pakistan,5.62
+2022,Panama,7.62
+2022,Papua New Guinea,6.02
+2022,Paraguay,6.98
+2022,Peru,7.41
+2022,Philippines,7.01
+2022,Poland,6.85
+2022,Portugal,7.59
+2022,Qatar,6.71
+2022,Romania,7.41
+2022,Russian Federation,5.93
+2022,Rwanda,6.45
+2022,Saudi Arabia,7.03
+2022,Senegal,5.99
+2022,Serbia,6.7
+2022,Seychelles,6.98
+2022,Sierra Leone,5.59
+2022,Singapore,8.55
+2022,Slovak Republic,7.39
+2022,Slovenia,7.14
+2022,Somalia,5.95
+2022,South Africa,6.65
+2022,Spain,7.54
+2022,Sri Lanka,5.87
+2022,Sudan,4.11
+2022,Suriname,5.46
+2022,Sweden,7.61
+2022,Switzerland,8.43
+2022,Syrian Arab Republic,4.28
+2022,Taiwan,7.71
+2022,Tajikistan,6.46
+2022,Tanzania,6.4
+2022,Thailand,6.94
+2022,Timor-Leste,5.77
+2022,Togo,6.07
+2022,Trinidad and Tobago,6.64
+2022,Tunisia,5.94
+2022,Türkiye,5.57
+2022,Uganda,6.75
+2022,Ukraine,5.12
+2022,United Arab Emirates,7.39
+2022,United Kingdom,7.88
+2022,United States,8.09
+2022,Uruguay,7.04
+2022,"Venezuela, RB",3.02
+2022,Vietnam,6.23
+2022,"Yemen, Rep.",4.68
+2022,Zambia,6.17
+2022,Zimbabwe,3.53
+2021,Albania,7.58
+2021,Algeria,4.77
+2021,Angola,5.17
+2021,Argentina,4.55
+2021,Armenia,7.52
+2021,Australia,8
+2021,Austria,7.67
+2021,Azerbaijan,6.12
+2021,"Bahamas, The",6.43
+2021,Bahrain,7.55
+2021,Bangladesh,5.76
+2021,Barbados,6.73
+2021,Belarus,6.16
+2021,Belgium,7.42
+2021,Belize,5.95
+2021,Benin,6.23
+2021,Bhutan,6.61
+2021,Bolivia,6.05
+2021,Bosnia and Herzegovina,6.4
+2021,Botswana,6.74
+2021,Brazil,6.47
+2021,Brunei Darussalam,7.08
+2021,Bulgaria,7.47
+2021,Burkina Faso,6.06
+2021,Burundi,5.43
+2021,Cabo Verde,7.35
+2021,Cambodia,6.76
+2021,Cameroon,5.68
+2021,Canada,7.93
+2021,Central African Republic,4.88
+2021,Chad,5.15
+2021,Chile,7.52
+2021,China,6.18
+2021,Colombia,6.55
+2021,Comoros,5.61
+2021,"Congo, Dem. Rep.",5.21
+2021,"Congo, Rep.",4.94
+2021,Costa Rica,7.74
+2021,Côte d'Ivoire,5.87
+2021,Croatia,7.21
+2021,Cyprus,7.5
+2021,Czechia,7.78
+2021,Denmark,8.1
+2021,Djibouti,6.41
+2021,Dominican Republic,7.21
+2021,Ecuador,6.39
+2021,"Egypt, Arab Rep.",5.36
+2021,El Salvador,7.12
+2021,Estonia,7.91
+2021,Eswatini,5.26
+2021,Ethiopia,5.15
+2021,Fiji,5.92
+2021,Finland,7.8
+2021,France,7.38
+2021,Gabon,5.36
+2021,"Gambia, The",6.91
+2021,Georgia,7.59
+2021,Germany,7.7
+2021,Ghana,6.35
+2021,Greece,6.88
+2021,Guatemala,7.45
+2021,Guinea,5.31
+2021,Guinea-Bissau,5.38
+2021,Guyana,5.46
+2021,Haiti,5.88
+2021,Honduras,6.89
+2021,"Hong Kong SAR, China",8.61
+2021,Hungary,7.31
+2021,Iceland,7.84
+2021,India,6.57
+2021,Indonesia,6.94
+2021,"Iran, Islamic Rep.",4.43
+2021,Iraq,5.42
+2021,Ireland,8.12
+2021,Israel,7.49
+2021,Italy,7.22
+2021,Jamaica,7.4
+2021,Japan,7.86
+2021,Jordan,7.27
+2021,Kazakhstan,7.01
+2021,Kenya,6.75
+2021,"Korea, Rep.",7.42
+2021,Kuwait,6.51
+2021,Kyrgyz Republic,6.72
+2021,Lao PDR,6.18
+2021,Latvia,7.68
+2021,Lebanon,5.26
+2021,Lesotho,5.9
+2021,Liberia,5.87
+2021,Libya,4.63
+2021,Lithuania,7.92
+2021,Luxembourg,7.92
+2021,Madagascar,5.97
+2021,Malawi,5.77
+2021,Malaysia,7.44
+2021,Mali,5.71
+2021,Malta,7.74
+2021,Mauritania,6
+2021,Mauritius,7.74
+2021,Mexico,7
+2021,Moldova,7.12
+2021,Mongolia,6.94
+2021,Montenegro,7.45
+2021,Morocco,6.45
+2021,Mozambique,5.85
+2021,Myanmar,5.08
+2021,Namibia,6.08
+2021,Nepal,6.26
+2021,Netherlands,7.76
+2021,New Zealand,8.43
+2021,Nicaragua,6.4
+2021,Niger,5.74
+2021,Nigeria,6.44
+2021,North Macedonia,6.99
+2021,Norway,7.63
+2021,Oman,6.54
+2021,Pakistan,5.85
+2021,Panama,7.48
+2021,Papua New Guinea,6.04
+2021,Paraguay,6.53
+2021,Peru,7.43
+2021,Philippines,6.93
+2021,Poland,7.07
+2021,Portugal,7.53
+2021,Qatar,6.71
+2021,Romania,7.62
+2021,Russian Federation,6.23
+2021,Rwanda,6.75
+2021,Saudi Arabia,6.96
+2021,Senegal,6.13
+2021,Serbia,6.86
+2021,Seychelles,6.66
+2021,Sierra Leone,5.77
+2021,Singapore,8.53
+2021,Slovak Republic,7.49
+2021,Slovenia,7.21
+2021,Somalia,5.94
+2021,South Africa,6.58
+2021,Spain,7.51
+2021,Sri Lanka,6.04
+2021,Sudan,4.07
+2021,Suriname,5.35
+2021,Sweden,7.77
+2021,Switzerland,8.47
+2021,Syrian Arab Republic,4.19
+2021,Taiwan,7.92
+2021,Tajikistan,6.28
+2021,Tanzania,6.28
+2021,Thailand,7.02
+2021,Timor-Leste,5.88
+2021,Togo,6.2
+2021,Trinidad and Tobago,6.64
+2021,Tunisia,5.98
+2021,Türkiye,6.06
+2021,Uganda,6.65
+2021,Ukraine,6.06
+2021,United Arab Emirates,7.3
+2021,United Kingdom,7.97
+2021,United States,8.07
+2021,Uruguay,6.93
+2021,"Venezuela, RB",3
+2021,Vietnam,6.24
+2021,"Yemen, Rep.",4.67
+2021,Zambia,5.63
+2021,Zimbabwe,3.77
+2020,Albania,7.57
+2020,Algeria,4.92
+2020,Angola,5.31
+2020,Argentina,4.5
+2020,Armenia,7.55
+2020,Australia,8.07
+2020,Austria,7.58
+2020,Azerbaijan,6.16
+2020,"Bahamas, The",6.56
+2020,Bahrain,7.44
+2020,Bangladesh,5.71
+2020,Barbados,6.76
+2020,Belarus,6.39
+2020,Belgium,7.4
+2020,Belize,6.02
+2020,Benin,6.23
+2020,Bhutan,6.57
+2020,Bolivia,6.03
+2020,Bosnia and Herzegovina,6.67
+2020,Botswana,6.77
+2020,Brazil,6.41
+2020,Brunei Darussalam,7.2
+2020,Bulgaria,7.51
+2020,Burkina Faso,6.12
+2020,Burundi,5.42
+2020,Cabo Verde,7.37
+2020,Cambodia,6.81
+2020,Cameroon,5.66
+2020,Canada,7.86
+2020,Central African Republic,4.88
+2020,Chad,5.26
+2020,Chile,7.64
+2020,China,6.16
+2020,Colombia,6.51
+2020,Comoros,5.73
+2020,"Congo, Dem. Rep.",5.05
+2020,"Congo, Rep.",4.96
+2020,Costa Rica,7.62
+2020,Côte d'Ivoire,5.88
+2020,Croatia,7.05
+2020,Cyprus,7.48
+2020,Czechia,7.71
+2020,Denmark,8.15
+2020,Djibouti,6.43
+2020,Dominican Republic,7.21
+2020,Ecuador,6.3
+2020,"Egypt, Arab Rep.",5.34
+2020,El Salvador,7.13
+2020,Estonia,7.98
+2020,Eswatini,5.2
+2020,Ethiopia,5.24
+2020,Fiji,5.75
+2020,Finland,7.76
+2020,France,7.36
+2020,Gabon,5.32
+2020,"Gambia, The",7.04
+2020,Georgia,7.55
+2020,Germany,7.74
+2020,Ghana,6.32
+2020,Greece,6.69
+2020,Guatemala,7.51
+2020,Guinea,5.33
+2020,Guinea-Bissau,5.36
+2020,Guyana,5.8
+2020,Haiti,6.08
+2020,Honduras,6.9
+2020,"Hong Kong SAR, China",8.65
+2020,Hungary,7.19
+2020,Iceland,7.88
+2020,India,6.62
+2020,Indonesia,6.91
+2020,"Iran, Islamic Rep.",4.43
+2020,Iraq,5.64
+2020,Ireland,7.92
+2020,Israel,7.29
+2020,Italy,7.23
+2020,Jamaica,7.29
+2020,Japan,7.89
+2020,Jordan,7.33
+2020,Kazakhstan,7.06
+2020,Kenya,6.73
+2020,"Korea, Rep.",7.44
+2020,Kuwait,6.61
+2020,Kyrgyz Republic,6.77
+2020,Lao PDR,6.14
+2020,Latvia,7.73
+2020,Lebanon,5.21
+2020,Lesotho,5.93
+2020,Liberia,5.7
+2020,Libya,4.57
+2020,Lithuania,7.78
+2020,Luxembourg,7.8
+2020,Madagascar,5.8
+2020,Malawi,5.68
+2020,Malaysia,7.52
+2020,Mali,5.8
+2020,Malta,7.73
+2020,Mauritania,5.86
+2020,Mauritius,7.77
+2020,Mexico,7.06
+2020,Moldova,6.9
+2020,Mongolia,7.02
+2020,Montenegro,7.37
+2020,Morocco,6.44
+2020,Mozambique,5.9
+2020,Myanmar,5.53
+2020,Namibia,6.12
+2020,Nepal,6.28
+2020,Netherlands,7.75
+2020,New Zealand,8.49
+2020,Nicaragua,6.5
+2020,Niger,5.87
+2020,Nigeria,6.24
+2020,North Macedonia,7.01
+2020,Norway,7.71
+2020,Oman,6.52
+2020,Pakistan,5.83
+2020,Panama,7.48
+2020,Papua New Guinea,6.1
+2020,Paraguay,7.01
+2020,Peru,7.53
+2020,Philippines,6.96
+2020,Poland,7.03
+2020,Portugal,7.53
+2020,Qatar,6.84
+2020,Romania,7.61
+2020,Russian Federation,6.42
+2020,Rwanda,6.57
+2020,Saudi Arabia,6.85
+2020,Senegal,6.08
+2020,Serbia,6.82
+2020,Seychelles,6.75
+2020,Sierra Leone,5.8
+2020,Singapore,8.5
+2020,Slovak Republic,7.37
+2020,Slovenia,7.06
+2020,Somalia,6.04
+2020,South Africa,6.47
+2020,Spain,7.52
+2020,Sri Lanka,6.28
+2020,Sudan,3.84
+2020,Suriname,5.58
+2020,Sweden,7.69
+2020,Switzerland,8.41
+2020,Syrian Arab Republic,4.13
+2020,Taiwan,7.92
+2020,Tajikistan,6.23
+2020,Tanzania,6.46
+2020,Thailand,7.06
+2020,Timor-Leste,6.02
+2020,Togo,6.22
+2020,Trinidad and Tobago,6.98
+2020,Tunisia,5.91
+2020,Türkiye,6.41
+2020,Uganda,6.81
+2020,Ukraine,6.19
+2020,United Arab Emirates,7.31
+2020,United Kingdom,7.76
+2020,United States,8.11
+2020,Uruguay,6.95
+2020,"Venezuela, RB",2.96
+2020,Vietnam,6.16
+2020,"Yemen, Rep.",4.61
+2020,Zambia,5.89
+2020,Zimbabwe,3.94
+2019,Albania,7.69
+2019,Algeria,4.74
+2019,Angola,5.03
+2019,Argentina,5.16
+2019,Armenia,7.68
+2019,Australia,8.21
+2019,Austria,7.88
+2019,Azerbaijan,6.37
+2019,"Bahamas, The",7.02
+2019,Bahrain,7.48
+2019,Bangladesh,5.81
+2019,Barbados,6.77
+2019,Belarus,6.29
+2019,Belgium,7.66
+2019,Belize,6.32
+2019,Benin,6.38
+2019,Bhutan,6.83
+2019,Bolivia,6.15
+2019,Bosnia and Herzegovina,6.87
+2019,Botswana,6.88
+2019,Brazil,6.66
+2019,Brunei Darussalam,7.25
+2019,Bulgaria,7.63
+2019,Burkina Faso,6.21
+2019,Burundi,5.46
+2019,Cabo Verde,7.47
+2019,Cambodia,7.01
+2019,Cameroon,5.67
+2019,Canada,8.07
+2019,Central African Republic,5.13
+2019,Chad,5.48
+2019,Chile,8
+2019,China,6.18
+2019,Colombia,6.72
+2019,Comoros,5.85
+2019,"Congo, Dem. Rep.",5.23
+2019,"Congo, Rep.",4.87
+2019,Costa Rica,7.62
+2019,Côte d'Ivoire,6.07
+2019,Croatia,7.28
+2019,Cyprus,7.86
+2019,Czechia,7.94
+2019,Denmark,8.3
+2019,Djibouti,6.25
+2019,Dominican Republic,7.45
+2019,Ecuador,6.48
+2019,"Egypt, Arab Rep.",5.42
+2019,El Salvador,7.35
+2019,Estonia,8.17
+2019,Eswatini,5.52
+2019,Ethiopia,5.48
+2019,Fiji,5.95
+2019,Finland,8.03
+2019,France,7.63
+2019,Gabon,5.38
+2019,"Gambia, The",6.89
+2019,Georgia,7.86
+2019,Germany,7.99
+2019,Ghana,6.5
+2019,Greece,7.07
+2019,Guatemala,7.66
+2019,Guinea,5.62
+2019,Guinea-Bissau,5.61
+2019,Guyana,5.99
+2019,Haiti,6.17
+2019,Honduras,7.06
+2019,"Hong Kong SAR, China",8.92
+2019,Hungary,7.41
+2019,Iceland,8.01
+2019,India,6.56
+2019,Indonesia,7.1
+2019,"Iran, Islamic Rep.",4.5
+2019,Iraq,5.47
+2019,Ireland,8.22
+2019,Israel,7.59
+2019,Italy,7.53
+2019,Jamaica,7.53
+2019,Japan,8.04
+2019,Jordan,7.42
+2019,Kazakhstan,7.26
+2019,Kenya,6.75
+2019,"Korea, Rep.",7.62
+2019,Kuwait,6.61
+2019,Kyrgyz Republic,7.02
+2019,Lao PDR,6.31
+2019,Latvia,7.88
+2019,Lebanon,6.48
+2019,Lesotho,5.93
+2019,Liberia,5.76
+2019,Libya,4
+2019,Lithuania,8.17
+2019,Luxembourg,8.11
+2019,Madagascar,6.12
+2019,Malawi,5.57
+2019,Malaysia,7.65
+2019,Mali,5.85
+2019,Malta,8.01
+2019,Mauritania,6.22
+2019,Mauritius,8.18
+2019,Mexico,7.12
+2019,Moldova,7.14
+2019,Mongolia,7.24
+2019,Montenegro,7.42
+2019,Morocco,6.61
+2019,Mozambique,6.26
+2019,Myanmar,5.39
+2019,Namibia,6.29
+2019,Nepal,6.45
+2019,Netherlands,7.97
+2019,New Zealand,8.74
+2019,Nicaragua,6.63
+2019,Niger,5.78
+2019,Nigeria,6.63
+2019,North Macedonia,7.11
+2019,Norway,7.85
+2019,Oman,6.52
+2019,Pakistan,5.83
+2019,Panama,7.7
+2019,Papua New Guinea,6.15
+2019,Paraguay,7.12
+2019,Peru,7.76
+2019,Philippines,7.18
+2019,Poland,7.27
+2019,Portugal,7.81
+2019,Qatar,6.92
+2019,Romania,7.75
+2019,Russian Federation,6.55
+2019,Rwanda,6.91
+2019,Saudi Arabia,6.94
+2019,Senegal,6.25
+2019,Serbia,7.08
+2019,Seychelles,7.15
+2019,Sierra Leone,5.95
+2019,Singapore,8.8
+2019,Slovak Republic,7.66
+2019,Slovenia,7.46
+2019,Somalia,5.89
+2019,South Africa,6.62
+2019,Spain,7.86
+2019,Sri Lanka,6.6
+2019,Sudan,3.4
+2019,Suriname,6.19
+2019,Sweden,7.8
+2019,Switzerland,8.51
+2019,Syrian Arab Republic,4.73
+2019,Taiwan,8.12
+2019,Tajikistan,6.26
+2019,Tanzania,6.47
+2019,Thailand,6.99
+2019,Timor-Leste,6.29
+2019,Togo,6.33
+2019,Trinidad and Tobago,7.16
+2019,Tunisia,5.78
+2019,Türkiye,6.4
+2019,Uganda,7.01
+2019,Ukraine,6.2
+2019,United Arab Emirates,7.18
+2019,United Kingdom,8.18
+2019,United States,8.34
+2019,Uruguay,7.2
+2019,"Venezuela, RB",2.52
+2019,Vietnam,6.17
+2019,"Yemen, Rep.",5.31
+2019,Zambia,6.23
+2019,Zimbabwe,4.21
+2018,Albania,7.65
+2018,Algeria,4.8
+2018,Angola,4.34
+2018,Argentina,5.59
+2018,Armenia,7.65
+2018,Australia,8.29
+2018,Austria,7.87
+2018,Azerbaijan,6.44
+2018,"Bahamas, The",7.06
+2018,Bahrain,7.4
+2018,Bangladesh,5.84
+2018,Barbados,6.49
+2018,Belarus,6
+2018,Belgium,7.63
+2018,Belize,6.3
+2018,Benin,6.28
+2018,Bhutan,6.73
+2018,Bolivia,6.15
+2018,Bosnia and Herzegovina,6.87
+2018,Botswana,6.84
+2018,Brazil,6.68
+2018,Brunei Darussalam,7.19
+2018,Bulgaria,7.68
+2018,Burkina Faso,5.96
+2018,Burundi,5.39
+2018,Cabo Verde,7.59
+2018,Cambodia,6.98
+2018,Cameroon,5.73
+2018,Canada,8.11
+2018,Central African Republic,4.94
+2018,Chad,5.49
+2018,Chile,8.08
+2018,China,6.18
+2018,Colombia,6.66
+2018,Comoros,5.56
+2018,"Congo, Dem. Rep.",4.81
+2018,"Congo, Rep.",4.85
+2018,Costa Rica,7.67
+2018,Côte d'Ivoire,6.09
+2018,Croatia,7.31
+2018,Cyprus,7.81
+2018,Czechia,7.98
+2018,Denmark,8.25
+2018,Djibouti,6.4
+2018,Dominican Republic,7.41
+2018,Ecuador,6.47
+2018,"Egypt, Arab Rep.",5.29
+2018,El Salvador,7.3
+2018,Estonia,8.09
+2018,Eswatini,5.43
+2018,Ethiopia,5.35
+2018,Fiji,6.08
+2018,Finland,8.01
+2018,France,7.6
+2018,Gabon,5.31
+2018,"Gambia, The",7.05
+2018,Georgia,7.95
+2018,Germany,7.99
+2018,Ghana,6.36
+2018,Greece,6.96
+2018,Guatemala,7.61
+2018,Guinea,5.53
+2018,Guinea-Bissau,5.19
+2018,Guyana,6.07
+2018,Haiti,6.08
+2018,Honduras,7.05
+2018,"Hong Kong SAR, China",9.05
+2018,Hungary,7.41
+2018,Iceland,7.98
+2018,India,6.57
+2018,Indonesia,7.11
+2018,"Iran, Islamic Rep.",4.59
+2018,Iraq,5.54
+2018,Ireland,8.2
+2018,Israel,7.58
+2018,Italy,7.5
+2018,Jamaica,7.5
+2018,Japan,8.03
+2018,Jordan,7.37
+2018,Kazakhstan,7.14
+2018,Kenya,6.76
+2018,"Korea, Rep.",7.67
+2018,Kuwait,6.55
+2018,Kyrgyz Republic,7.04
+2018,Lao PDR,6.32
+2018,Latvia,7.84
+2018,Lebanon,6.61
+2018,Lesotho,5.94
+2018,Liberia,5.7
+2018,Libya,4.06
+2018,Lithuania,8.06
+2018,Luxembourg,8.09
+2018,Madagascar,6.06
+2018,Malawi,5.63
+2018,Malaysia,7.63
+2018,Mali,5.8
+2018,Malta,8
+2018,Mauritania,6.06
+2018,Mauritius,8.16
+2018,Mexico,7.07
+2018,Moldova,7.08
+2018,Mongolia,7.37
+2018,Montenegro,7.39
+2018,Morocco,6.61
+2018,Mozambique,6.22
+2018,Myanmar,5.41
+2018,Namibia,6.15
+2018,Nepal,6.4
+2018,Netherlands,7.97
+2018,New Zealand,8.74
+2018,Nicaragua,6.72
+2018,Niger,5.79
+2018,Nigeria,6.62
+2018,North Macedonia,7.17
+2018,Norway,7.86
+2018,Oman,6.57
+2018,Pakistan,5.92
+2018,Panama,7.75
+2018,Papua New Guinea,6.03
+2018,Paraguay,7.16
+2018,Peru,7.78
+2018,Philippines,7.1
+2018,Poland,7.2
+2018,Portugal,7.74
+2018,Qatar,6.91
+2018,Romania,7.71
+2018,Russian Federation,6.56
+2018,Rwanda,6.95
+2018,Saudi Arabia,6.54
+2018,Senegal,6.23
+2018,Serbia,7.03
+2018,Seychelles,7.26
+2018,Sierra Leone,5.64
+2018,Singapore,8.81
+2018,Slovak Republic,7.64
+2018,Slovenia,7.41
+2018,South Africa,6.62
+2018,Spain,7.81
+2018,Sri Lanka,6.71
+2018,Sudan,3.42
+2018,Suriname,6.2
+2018,Sweden,7.81
+2018,Switzerland,8.54
+2018,Syrian Arab Republic,4.86
+2018,Taiwan,8.07
+2018,Tajikistan,6.05
+2018,Tanzania,6.51
+2018,Thailand,6.96
+2018,Timor-Leste,6.1
+2018,Togo,6.32
+2018,Trinidad and Tobago,7.19
+2018,Tunisia,5.88
+2018,Türkiye,6.49
+2018,Uganda,7.01
+2018,Ukraine,5.86
+2018,United Arab Emirates,6.98
+2018,United Kingdom,8.16
+2018,United States,8.36
+2018,Uruguay,7.18
+2018,"Venezuela, RB",2.97
+2018,Vietnam,6.12
+2018,"Yemen, Rep.",5.14
+2018,Zambia,6.36
+2018,Zimbabwe,4.71
+2017,Albania,7.66
+2017,Algeria,4.72
+2017,Angola,4.41
+2017,Argentina,5.69
+2017,Armenia,7.44
+2017,Australia,8.27
+2017,Austria,7.88
+2017,Azerbaijan,6.28
+2017,"Bahamas, The",6.91
+2017,Bahrain,7.32
+2017,Bangladesh,5.82
+2017,Barbados,6.45
+2017,Belarus,6.03
+2017,Belgium,7.61
+2017,Belize,6.2
+2017,Benin,6.14
+2017,Bhutan,6.69
+2017,Bolivia,6.1
+2017,Bosnia and Herzegovina,6.82
+2017,Botswana,6.84
+2017,Brazil,6.69
+2017,Brunei Darussalam,7.27
+2017,Bulgaria,7.72
+2017,Burkina Faso,5.98
+2017,Burundi,5.53
+2017,Cabo Verde,7.26
+2017,Cambodia,6.97
+2017,Cameroon,5.63
+2017,Canada,8.18
+2017,Central African Republic,4.9
+2017,Chad,5.32
+2017,Chile,8.06
+2017,China,6.15
+2017,Colombia,6.63
+2017,Comoros,6.28
+2017,"Congo, Dem. Rep.",4.77
+2017,"Congo, Rep.",5.09
+2017,Costa Rica,7.66
+2017,Côte d'Ivoire,6.04
+2017,Croatia,7.38
+2017,Cyprus,7.89
+2017,Czechia,7.98
+2017,Denmark,8.23
+2017,Djibouti,6.48
+2017,Dominican Republic,7.33
+2017,Ecuador,6.31
+2017,"Egypt, Arab Rep.",4.75
+2017,El Salvador,7.32
+2017,Estonia,8.05
+2017,Eswatini,5.4
+2017,Ethiopia,5.42
+2017,Fiji,6.14
+2017,Finland,7.97
+2017,France,7.68
+2017,Gabon,5.25
+2017,"Gambia, The",7.04
+2017,Georgia,7.87
+2017,Germany,8.02
+2017,Ghana,6.43
+2017,Greece,6.61
+2017,Guatemala,7.63
+2017,Guinea,5.23
+2017,Guinea-Bissau,5.43
+2017,Guyana,6.11
+2017,Haiti,6.08
+2017,Honduras,7.05
+2017,"Hong Kong SAR, China",9.05
+2017,Hungary,7.48
+2017,Iceland,8.04
+2017,India,6.61
+2017,Indonesia,7.08
+2017,"Iran, Islamic Rep.",5.2
+2017,Iraq,5.53
+2017,Ireland,8.12
+2017,Israel,7.6
+2017,Italy,7.52
+2017,Jamaica,7.46
+2017,Japan,8.04
+2017,Jordan,7.33
+2017,Kazakhstan,7.06
+2017,Kenya,6.58
+2017,"Korea, Rep.",7.73
+2017,Kuwait,6.48
+2017,Kyrgyz Republic,7.02
+2017,Lao PDR,6.28
+2017,Latvia,7.95
+2017,Lebanon,6.69
+2017,Lesotho,6.05
+2017,Liberia,6.04
+2017,Libya,3.59
+2017,Lithuania,8.02
+2017,Luxembourg,8.07
+2017,Madagascar,5.95
+2017,Malawi,5.81
+2017,Malaysia,7.53
+2017,Mali,5.69
+2017,Malta,8.01
+2017,Mauritania,6.09
+2017,Mauritius,8.01
+2017,Mexico,7.06
+2017,Moldova,6.88
+2017,Mongolia,7.3
+2017,Montenegro,7.12
+2017,Morocco,6.57
+2017,Mozambique,5.79
+2017,Myanmar,5.4
+2017,Namibia,6.17
+2017,Nepal,6.32
+2017,Netherlands,7.94
+2017,New Zealand,8.78
+2017,Nicaragua,6.79
+2017,Niger,5.92
+2017,Nigeria,6.45
+2017,North Macedonia,7.13
+2017,Norway,7.93
+2017,Oman,6.61
+2017,Pakistan,5.86
+2017,Panama,7.75
+2017,Papua New Guinea,6.1
+2017,Paraguay,7.1
+2017,Peru,7.68
+2017,Philippines,7.17
+2017,Poland,7.31
+2017,Portugal,7.71
+2017,Qatar,6.95
+2017,Romania,7.88
+2017,Russian Federation,6.58
+2017,Rwanda,6.83
+2017,Saudi Arabia,6.59
+2017,Senegal,6.17
+2017,Serbia,6.99
+2017,Seychelles,7.12
+2017,Sierra Leone,5.57
+2017,Singapore,8.81
+2017,Slovak Republic,7.68
+2017,Slovenia,7.44
+2017,South Africa,6.6
+2017,Spain,7.74
+2017,Sri Lanka,6.57
+2017,Sudan,3.81
+2017,Suriname,5.89
+2017,Sweden,7.9
+2017,Switzerland,8.55
+2017,Syrian Arab Republic,4.47
+2017,Taiwan,8.02
+2017,Tajikistan,5.82
+2017,Tanzania,6.54
+2017,Thailand,6.95
+2017,Timor-Leste,6.13
+2017,Togo,6.27
+2017,Trinidad and Tobago,7.07
+2017,Tunisia,5.98
+2017,Türkiye,6.65
+2017,Uganda,7.03
+2017,Ukraine,5.65
+2017,United Arab Emirates,6.93
+2017,United Kingdom,8.23
+2017,United States,8.43
+2017,Uruguay,7.2
+2017,"Venezuela, RB",2.6
+2017,Vietnam,5.93
+2017,"Yemen, Rep.",5.53
+2017,Zambia,6.4
+2017,Zimbabwe,4.81
+2016,Albania,7.68
+2016,Algeria,4.96
+2016,Angola,5.04
+2016,Argentina,5.5
+2016,Armenia,7.41
+2016,Australia,8.29
+2016,Austria,7.88
+2016,Azerbaijan,6.43
+2016,"Bahamas, The",6.99
+2016,Bahrain,7.15
+2016,Bangladesh,5.75
+2016,Barbados,6.67
+2016,Belarus,5.37
+2016,Belgium,7.62
+2016,Belize,6.26
+2016,Benin,5.97
+2016,Bhutan,6.74
+2016,Bolivia,6.08
+2016,Bosnia and Herzegovina,6.79
+2016,Botswana,6.81
+2016,Brazil,6.54
+2016,Brunei Darussalam,7.15
+2016,Bulgaria,7.73
+2016,Burkina Faso,5.99
+2016,Burundi,5.78
+2016,Cabo Verde,7.19
+2016,Cambodia,6.9
+2016,Cameroon,5.6
+2016,Canada,8.25
+2016,Central African Republic,4.84
+2016,Chad,5.22
+2016,Chile,8.03
+2016,China,6.07
+2016,Colombia,6.59
+2016,"Congo, Dem. Rep.",5.52
+2016,"Congo, Rep.",5.08
+2016,Costa Rica,7.73
+2016,Côte d'Ivoire,6.13
+2016,Croatia,7.29
+2016,Cyprus,7.88
+2016,Czechia,8.01
+2016,Denmark,8.21
+2016,Dominican Republic,7.38
+2016,Ecuador,6.18
+2016,"Egypt, Arab Rep.",4.93
+2016,El Salvador,7.39
+2016,Estonia,8.16
+2016,Eswatini,5.42
+2016,Ethiopia,5.27
+2016,Fiji,6.07
+2016,Finland,7.97
+2016,France,7.71
+2016,Gabon,5.26
+2016,"Gambia, The",6.88
+2016,Georgia,7.95
+2016,Germany,8.09
+2016,Ghana,6.22
+2016,Greece,6.75
+2016,Guatemala,7.67
+2016,Guinea,5.39
+2016,Guinea-Bissau,5.32
+2016,Guyana,6.25
+2016,Haiti,6.14
+2016,Honduras,7.06
+2016,"Hong Kong SAR, China",9.02
+2016,Hungary,7.59
+2016,Iceland,8.03
+2016,India,6.39
+2016,Indonesia,7.06
+2016,"Iran, Islamic Rep.",5.09
+2016,Iraq,5.79
+2016,Ireland,8.29
+2016,Israel,7.52
+2016,Italy,7.59
+2016,Jamaica,7.53
+2016,Japan,8.03
+2016,Jordan,7.37
+2016,Kazakhstan,6.8
+2016,Kenya,6.62
+2016,"Korea, Rep.",7.71
+2016,Kuwait,6.58
+2016,Kyrgyz Republic,7.01
+2016,Lao PDR,6.1
+2016,Latvia,8.04
+2016,Lebanon,6.77
+2016,Lesotho,5.91
+2016,Liberia,6.18
+2016,Libya,4.12
+2016,Lithuania,8.06
+2016,Luxembourg,8.07
+2016,Madagascar,6.1
+2016,Malawi,5.58
+2016,Malaysia,7.44
+2016,Mali,5.73
+2016,Malta,8.01
+2016,Mauritania,6.1
+2016,Mauritius,8.03
+2016,Mexico,7.02
+2016,Moldova,6.82
+2016,Mongolia,6.93
+2016,Montenegro,7.33
+2016,Morocco,6.48
+2016,Mozambique,5.63
+2016,Myanmar,5.36
+2016,Namibia,6.13
+2016,Nepal,6.35
+2016,Netherlands,8.02
+2016,New Zealand,8.84
+2016,Nicaragua,6.86
+2016,Niger,5.89
+2016,Nigeria,6.42
+2016,North Macedonia,7.16
+2016,Norway,7.89
+2016,Oman,6.55
+2016,Pakistan,5.86
+2016,Panama,7.74
+2016,Papua New Guinea,6.04
+2016,Paraguay,7.07
+2016,Peru,7.63
+2016,Philippines,7.24
+2016,Poland,7.32
+2016,Portugal,7.76
+2016,Qatar,6.94
+2016,Romania,7.9
+2016,Russian Federation,6.42
+2016,Rwanda,6.85
+2016,Saudi Arabia,6.4
+2016,Senegal,6.1
+2016,Serbia,6.98
+2016,Seychelles,7.29
+2016,Sierra Leone,5.7
+2016,Singapore,8.79
+2016,Slovak Republic,7.71
+2016,Slovenia,7.41
+2016,South Africa,6.57
+2016,Spain,7.84
+2016,Sri Lanka,6.62
+2016,Sudan,4.1
+2016,Suriname,5.81
+2016,Sweden,7.95
+2016,Switzerland,8.53
+2016,Syrian Arab Republic,4.41
+2016,Taiwan,8.03
+2016,Tajikistan,5.92
+2016,Tanzania,6.54
+2016,Thailand,6.9
+2016,Timor-Leste,5.9
+2016,Togo,5.94
+2016,Trinidad and Tobago,7.06
+2016,Tunisia,6.06
+2016,Türkiye,6.86
+2016,Uganda,6.88
+2016,Ukraine,5.61
+2016,United Arab Emirates,7.06
+2016,United Kingdom,8.27
+2016,United States,8.41
+2016,Uruguay,7.15
+2016,"Venezuela, RB",2.67
+2016,Vietnam,5.86
+2016,"Yemen, Rep.",5.85
+2016,Zambia,6.19
+2016,Zimbabwe,5.16
+2015,Albania,7.64
+2015,Algeria,4.68
+2015,Angola,5.25
+2015,Argentina,4.95
+2015,Armenia,7.43
+2015,Australia,8.24
+2015,Austria,7.95
+2015,Azerbaijan,6
+2015,"Bahamas, The",6.96
+2015,Bahrain,7.17
+2015,Bangladesh,5.78
+2015,Barbados,6.63
+2015,Belarus,4.72
+2015,Belgium,7.72
+2015,Belize,6.27
+2015,Benin,5.79
+2015,Bhutan,6.84
+2015,Bolivia,5.92
+2015,Bosnia and Herzegovina,6.8
+2015,Botswana,6.8
+2015,Brazil,6.25
+2015,Brunei Darussalam,7.03
+2015,Bulgaria,7.48
+2015,Burkina Faso,5.91
+2015,Burundi,5.66
+2015,Cabo Verde,7.14
+2015,Cambodia,6.95
+2015,Cameroon,5.62
+2015,Canada,8.2
+2015,Central African Republic,4.32
+2015,Chad,5.06
+2015,Chile,8
+2015,China,6.07
+2015,Colombia,6.57
+2015,"Congo, Dem. Rep.",5.3
+2015,"Congo, Rep.",4.85
+2015,Costa Rica,7.7
+2015,Côte d'Ivoire,6.04
+2015,Croatia,7.28
+2015,Cyprus,7.9
+2015,Czechia,7.96
+2015,Denmark,8.2
+2015,Dominican Republic,7.42
+2015,Ecuador,6.2
+2015,"Egypt, Arab Rep.",5.08
+2015,El Salvador,7.36
+2015,Estonia,8.15
+2015,Eswatini,5.52
+2015,Ethiopia,5.07
+2015,Fiji,6.18
+2015,Finland,8.01
+2015,France,7.75
+2015,Gabon,5.1
+2015,"Gambia, The",6.88
+2015,Georgia,7.91
+2015,Germany,8.13
+2015,Ghana,6.14
+2015,Greece,6.64
+2015,Guatemala,7.7
+2015,Guinea,4.51
+2015,Guinea-Bissau,5.32
+2015,Guyana,6.36
+2015,Haiti,6.28
+2015,Honduras,7.13
+2015,"Hong Kong SAR, China",9.02
+2015,Hungary,7.44
+2015,Iceland,7.54
+2015,India,6.3
+2015,Indonesia,6.9
+2015,"Iran, Islamic Rep.",4.98
+2015,Iraq,4.12
+2015,Ireland,8.41
+2015,Israel,7.5
+2015,Italy,7.66
+2015,Jamaica,7.56
+2015,Japan,8.01
+2015,Jordan,7.35
+2015,Kazakhstan,6.97
+2015,Kenya,6.66
+2015,"Korea, Rep.",7.71
+2015,Kuwait,6.33
+2015,Kyrgyz Republic,6.82
+2015,Lao PDR,6.04
+2015,Latvia,8.1
+2015,Lebanon,6.71
+2015,Lesotho,6.16
+2015,Liberia,6.14
+2015,Libya,4.33
+2015,Lithuania,8.03
+2015,Luxembourg,8.12
+2015,Madagascar,6.17
+2015,Malawi,5.35
+2015,Malaysia,7.34
+2015,Mali,5.75
+2015,Malta,7.99
+2015,Mauritania,5.82
+2015,Mauritius,8.03
+2015,Mexico,7.11
+2015,Moldova,6.76
+2015,Mongolia,7.17
+2015,Montenegro,7
+2015,Morocco,6.47
+2015,Mozambique,5.62
+2015,Myanmar,5.09
+2015,Namibia,6.25
+2015,Nepal,6.36
+2015,Netherlands,8.05
+2015,New Zealand,8.83
+2015,Nicaragua,6.87
+2015,Niger,5.72
+2015,Nigeria,6.3
+2015,North Macedonia,7.18
+2015,Norway,7.45
+2015,Oman,6.49
+2015,Pakistan,5.8
+2015,Panama,7.76
+2015,Papua New Guinea,6.03
+2015,Paraguay,7.03
+2015,Peru,7.66
+2015,Philippines,7.33
+2015,Poland,7.41
+2015,Portugal,7.79
+2015,Qatar,6.91
+2015,Romania,7.87
+2015,Russian Federation,6.11
+2015,Rwanda,6.85
+2015,Saudi Arabia,6.08
+2015,Senegal,6.09
+2015,Serbia,6.92
+2015,Seychelles,7.24
+2015,Sierra Leone,5.83
+2015,Singapore,8.79
+2015,Slovak Republic,7.64
+2015,Slovenia,7.38
+2015,South Africa,6.63
+2015,Spain,7.81
+2015,Sri Lanka,6.56
+2015,Sudan,4.85
+2015,Suriname,6.31
+2015,Sweden,8.03
+2015,Switzerland,8.5
+2015,Syrian Arab Republic,4.54
+2015,Taiwan,7.94
+2015,Tajikistan,5.87
+2015,Tanzania,6.57
+2015,Thailand,6.83
+2015,Timor-Leste,6.15
+2015,Togo,5.94
+2015,Trinidad and Tobago,6.83
+2015,Tunisia,6.11
+2015,Türkiye,6.91
+2015,Uganda,6.88
+2015,Ukraine,5.25
+2015,United Arab Emirates,6.94
+2015,United Kingdom,8.26
+2015,United States,8.4
+2015,Uruguay,7.15
+2015,"Venezuela, RB",2.8
+2015,Vietnam,5.78
+2015,"Yemen, Rep.",5.43
+2015,Zambia,6.24
+2015,Zimbabwe,5.51
+2014,Albania,7.56
+2014,Algeria,4.85
+2014,Angola,4.79
+2014,Argentina,4.5
+2014,Armenia,7.48
+2014,Australia,8.23
+2014,Austria,7.93
+2014,Azerbaijan,5.97
+2014,"Bahamas, The",6.97
+2014,Bahrain,7.23
+2014,Bangladesh,5.75
+2014,Barbados,6.63
+2014,Belarus,4.61
+2014,Belgium,7.73
+2014,Belize,6.26
+2014,Benin,5.96
+2014,Bhutan,6.7
+2014,Bolivia,5.98
+2014,Bosnia and Herzegovina,6.72
+2014,Botswana,6.7
+2014,Brazil,6.36
+2014,Brunei Darussalam,6.99
+2014,Bulgaria,7.5
+2014,Burkina Faso,5.94
+2014,Burundi,5.71
+2014,Cabo Verde,7.01
+2014,Cambodia,6.75
+2014,Cameroon,5.61
+2014,Canada,8.18
+2014,Central African Republic,4.3
+2014,Chad,4.95
+2014,Chile,7.98
+2014,China,6.05
+2014,Colombia,6.57
+2014,"Congo, Dem. Rep.",5.2
+2014,"Congo, Rep.",4.68
+2014,Costa Rica,7.62
+2014,Côte d'Ivoire,5.81
+2014,Croatia,7.19
+2014,Cyprus,7.28
+2014,Czechia,7.95
+2014,Denmark,8.17
+2014,Dominican Republic,7.38
+2014,Ecuador,5.76
+2014,"Egypt, Arab Rep.",5.39
+2014,El Salvador,7.39
+2014,Estonia,8.1
+2014,Eswatini,5.6
+2014,Ethiopia,5.08
+2014,Fiji,6.17
+2014,Finland,8.01
+2014,France,7.75
+2014,Gabon,4.9
+2014,"Gambia, The",6.79
+2014,Georgia,7.87
+2014,Germany,8.08
+2014,Ghana,6.11
+2014,Greece,7
+2014,Guatemala,7.64
+2014,Guinea,4.28
+2014,Guinea-Bissau,5.05
+2014,Guyana,6.15
+2014,Haiti,6.36
+2014,Honduras,7.08
+2014,"Hong Kong SAR, China",9.02
+2014,Hungary,7.53
+2014,Iceland,7.5
+2014,India,5.99
+2014,Indonesia,6.85
+2014,"Iran, Islamic Rep.",4.73
+2014,Iraq,4.42
+2014,Ireland,8.27
+2014,Israel,7.5
+2014,Italy,7.56
+2014,Jamaica,7.33
+2014,Japan,7.94
+2014,Jordan,7.34
+2014,Kazakhstan,6.86
+2014,Kenya,6.74
+2014,"Korea, Rep.",7.7
+2014,Kuwait,6.57
+2014,Kyrgyz Republic,6.9
+2014,Lao PDR,5.93
+2014,Latvia,8.04
+2014,Lebanon,6.72
+2014,Lesotho,6.03
+2014,Liberia,6.33
+2014,Libya,4.23
+2014,Lithuania,8.02
+2014,Luxembourg,8.14
+2014,Madagascar,6.18
+2014,Malawi,5.34
+2014,Malaysia,7.31
+2014,Mali,5.71
+2014,Malta,8
+2014,Mauritania,5.77
+2014,Mauritius,7.96
+2014,Mexico,7.03
+2014,Moldova,6.84
+2014,Mongolia,6.95
+2014,Montenegro,7.33
+2014,Morocco,6.39
+2014,Mozambique,5.63
+2014,Myanmar,5.31
+2014,Namibia,6.19
+2014,Nepal,6.35
+2014,Netherlands,7.96
+2014,New Zealand,8.82
+2014,Nicaragua,6.88
+2014,Niger,5.64
+2014,Nigeria,6.25
+2014,North Macedonia,7.18
+2014,Norway,7.9
+2014,Oman,6.62
+2014,Pakistan,5.72
+2014,Panama,7.66
+2014,Papua New Guinea,6.22
+2014,Paraguay,6.96
+2014,Peru,7.55
+2014,Philippines,7.28
+2014,Poland,7.41
+2014,Portugal,7.72
+2014,Qatar,7.09
+2014,Romania,7.86
+2014,Russian Federation,6.16
+2014,Rwanda,6.77
+2014,Saudi Arabia,6.28
+2014,Senegal,6.11
+2014,Serbia,6.79
+2014,Seychelles,7.41
+2014,Sierra Leone,5.92
+2014,Singapore,8.77
+2014,Slovak Republic,7.73
+2014,Slovenia,7.3
+2014,South Africa,6.71
+2014,Spain,7.79
+2014,Sri Lanka,6.44
+2014,Sudan,4.6
+2014,Suriname,6.34
+2014,Sweden,7.99
+2014,Switzerland,8.51
+2014,Syrian Arab Republic,4.47
+2014,Taiwan,7.92
+2014,Tajikistan,5.9
+2014,Tanzania,6.49
+2014,Thailand,6.63
+2014,Timor-Leste,6.19
+2014,Togo,5.95
+2014,Trinidad and Tobago,6.84
+2014,Tunisia,6.17
+2014,Türkiye,6.89
+2014,Uganda,6.86
+2014,Ukraine,5.64
+2014,United Arab Emirates,7.05
+2014,United Kingdom,8.18
+2014,United States,8.36
+2014,Uruguay,7.11
+2014,"Venezuela, RB",2.97
+2014,Vietnam,5.66
+2014,"Yemen, Rep.",6.09
+2014,Zambia,6.41
+2014,Zimbabwe,5.3
+2013,Albania,7.39
+2013,Algeria,4.94
+2013,Angola,4.84
+2013,Argentina,4.88
+2013,Armenia,7.31
+2013,Australia,8.2
+2013,Austria,7.86
+2013,Azerbaijan,5.87
+2013,"Bahamas, The",6.83
+2013,Bahrain,7.21
+2013,Bangladesh,5.78
+2013,Barbados,6.71
+2013,Belarus,4.5
+2013,Belgium,7.66
+2013,Belize,6.32
+2013,Benin,5.81
+2013,Bhutan,6.69
+2013,Bolivia,6.09
+2013,Bosnia and Herzegovina,6.62
+2013,Botswana,6.79
+2013,Brazil,6.47
+2013,Brunei Darussalam,7.05
+2013,Bulgaria,7.52
+2013,Burkina Faso,5.77
+2013,Burundi,5.62
+2013,Cabo Verde,6.6
+2013,Cambodia,6.57
+2013,Cameroon,5.69
+2013,Canada,8.08
+2013,Central African Republic,5.07
+2013,Chad,4.86
+2013,Chile,8.04
+2013,China,5.99
+2013,Colombia,6.69
+2013,"Congo, Dem. Rep.",5.24
+2013,"Congo, Rep.",4.71
+2013,Costa Rica,7.65
+2013,Côte d'Ivoire,5.64
+2013,Croatia,7.07
+2013,Cyprus,7.2
+2013,Czechia,7.87
+2013,Denmark,8.12
+2013,Dominican Republic,7.29
+2013,Ecuador,5.96
+2013,"Egypt, Arab Rep.",5.61
+2013,El Salvador,7.32
+2013,Estonia,8.03
+2013,Eswatini,5.54
+2013,Ethiopia,5.19
+2013,Fiji,6.17
+2013,Finland,7.95
+2013,France,7.65
+2013,Gabon,4.79
+2013,"Gambia, The",6.8
+2013,Georgia,7.8
+2013,Germany,8.01
+2013,Ghana,6.57
+2013,Greece,6.87
+2013,Guatemala,7.65
+2013,Guinea,4.29
+2013,Guinea-Bissau,5.29
+2013,Guyana,6.24
+2013,Haiti,6.14
+2013,Honduras,7.07
+2013,"Hong Kong SAR, China",9.02
+2013,Hungary,7.45
+2013,Iceland,7.31
+2013,India,6.1
+2013,Indonesia,6.8
+2013,"Iran, Islamic Rep.",4.64
+2013,Iraq,4.18
+2013,Ireland,8.17
+2013,Israel,7.41
+2013,Italy,7.47
+2013,Jamaica,7.39
+2013,Japan,7.98
+2013,Jordan,7.33
+2013,Kazakhstan,6.79
+2013,Kenya,6.68
+2013,"Korea, Rep.",7.65
+2013,Kuwait,6.67
+2013,Kyrgyz Republic,6.66
+2013,Lao PDR,4.73
+2013,Latvia,8.02
+2013,Lebanon,6.75
+2013,Lesotho,5.91
+2013,Liberia,5.55
+2013,Libya,4.5
+2013,Lithuania,7.9
+2013,Luxembourg,8.02
+2013,Madagascar,6.23
+2013,Malawi,5.31
+2013,Malaysia,7.21
+2013,Mali,5.71
+2013,Malta,7.95
+2013,Mauritania,5.69
+2013,Mauritius,7.99
+2013,Mexico,6.93
+2013,Moldova,6.74
+2013,Mongolia,7.05
+2013,Montenegro,7.52
+2013,Morocco,6.4
+2013,Mozambique,5.66
+2013,Myanmar,5.18
+2013,Namibia,6.17
+2013,Nepal,6.24
+2013,Netherlands,7.83
+2013,New Zealand,8.71
+2013,Nicaragua,6.92
+2013,Niger,5.48
+2013,Nigeria,6.22
+2013,North Macedonia,7.12
+2013,Norway,7.86
+2013,Oman,6.72
+2013,Pakistan,5.92
+2013,Panama,7.45
+2013,Papua New Guinea,6.28
+2013,Paraguay,7.04
+2013,Peru,7.61
+2013,Philippines,7.26
+2013,Poland,7.27
+2013,Portugal,7.69
+2013,Qatar,6.96
+2013,Romania,7.72
+2013,Russian Federation,6.28
+2013,Rwanda,6.74
+2013,Saudi Arabia,6.33
+2013,Senegal,6.09
+2013,Serbia,6.65
+2013,Seychelles,7.49
+2013,Sierra Leone,5.84
+2013,Singapore,8.63
+2013,Slovak Republic,7.67
+2013,Slovenia,7.1
+2013,South Africa,6.89
+2013,Spain,7.68
+2013,Sri Lanka,6.6
+2013,Sudan,4.41
+2013,Suriname,6.4
+2013,Sweden,7.91
+2013,Switzerland,8.45
+2013,Syrian Arab Republic,4.55
+2013,Taiwan,7.8
+2013,Tajikistan,5.8
+2013,Tanzania,6.53
+2013,Thailand,6.61
+2013,Timor-Leste,5.97
+2013,Togo,5.77
+2013,Trinidad and Tobago,6.82
+2013,Tunisia,6.1
+2013,Türkiye,6.95
+2013,Uganda,6.81
+2013,Ukraine,6.01
+2013,United Arab Emirates,7.09
+2013,United Kingdom,8.12
+2013,United States,8.32
+2013,Uruguay,7.3
+2013,"Venezuela, RB",2.93
+2013,Vietnam,5.6
+2013,"Yemen, Rep.",5.94
+2013,Zambia,6.39
+2013,Zimbabwe,5.18
+2012,Albania,7.43
+2012,Algeria,4.7
+2012,Angola,4.96
+2012,Argentina,5.03
+2012,Armenia,7.49
+2012,Australia,8.24
+2012,Austria,7.89
+2012,Azerbaijan,5.78
+2012,"Bahamas, The",6.91
+2012,Bahrain,7.11
+2012,Bangladesh,5.85
+2012,Barbados,6.51
+2012,Belarus,4.26
+2012,Belgium,7.6
+2012,Belize,6.23
+2012,Benin,5.58
+2012,Bhutan,6.32
+2012,Bolivia,6.08
+2012,Bosnia and Herzegovina,6.6
+2012,Botswana,6.7
+2012,Brazil,6.57
+2012,Brunei Darussalam,7.13
+2012,Bulgaria,7.46
+2012,Burkina Faso,5.66
+2012,Burundi,4.97
+2012,Cabo Verde,6.72
+2012,Cambodia,6.59
+2012,Cameroon,5.71
+2012,Canada,8.01
+2012,Central African Republic,4.84
+2012,Chad,4.44
+2012,Chile,8.04
+2012,China,5.98
+2012,Colombia,6.72
+2012,"Congo, Dem. Rep.",5.2
+2012,"Congo, Rep.",4.5
+2012,Costa Rica,7.63
+2012,Côte d'Ivoire,5.42
+2012,Croatia,7.06
+2012,Cyprus,7.62
+2012,Czechia,7.82
+2012,Denmark,8.03
+2012,Dominican Republic,7.19
+2012,Ecuador,6.01
+2012,"Egypt, Arab Rep.",5.9
+2012,El Salvador,7.3
+2012,Estonia,8
+2012,Eswatini,5.49
+2012,Ethiopia,4.91
+2012,Fiji,6.2
+2012,Finland,8.06
+2012,France,7.63
+2012,Gabon,4.75
+2012,"Gambia, The",6.51
+2012,Georgia,7.67
+2012,Germany,7.99
+2012,Ghana,6.52
+2012,Greece,7.05
+2012,Guatemala,7.46
+2012,Guinea,4.15
+2012,Guinea-Bissau,5.34
+2012,Guyana,6.28
+2012,Haiti,5.91
+2012,Honduras,7
+2012,"Hong Kong SAR, China",9.08
+2012,Hungary,7.49
+2012,Iceland,7.26
+2012,India,6.11
+2012,Indonesia,6.79
+2012,"Iran, Islamic Rep.",4.5
+2012,Iraq,4.09
+2012,Ireland,8.12
+2012,Israel,7.42
+2012,Italy,7.47
+2012,Jamaica,7.25
+2012,Japan,7.96
+2012,Jordan,7.25
+2012,Kazakhstan,6.75
+2012,Kenya,6.67
+2012,"Korea, Rep.",7.64
+2012,Kuwait,6.64
+2012,Kyrgyz Republic,6.62
+2012,Lao PDR,5.31
+2012,Latvia,7.89
+2012,Lebanon,6.65
+2012,Lesotho,5.67
+2012,Liberia,4.99
+2012,Libya,3.51
+2012,Lithuania,7.72
+2012,Luxembourg,7.91
+2012,Madagascar,6.13
+2012,Malawi,5.38
+2012,Malaysia,6.59
+2012,Mali,5.89
+2012,Malta,7.92
+2012,Mauritania,5.72
+2012,Mauritius,8.01
+2012,Mexico,6.9
+2012,Moldova,6.71
+2012,Mongolia,6.84
+2012,Montenegro,7.08
+2012,Morocco,6.34
+2012,Mozambique,5.75
+2012,Myanmar,5.12
+2012,Namibia,5.97
+2012,Nepal,6.09
+2012,Netherlands,7.83
+2012,New Zealand,8.67
+2012,Nicaragua,6.97
+2012,Niger,5.48
+2012,Nigeria,5.87
+2012,North Macedonia,7.04
+2012,Norway,7.89
+2012,Oman,6.66
+2012,Pakistan,5.86
+2012,Panama,7.41
+2012,Papua New Guinea,6.56
+2012,Paraguay,6.98
+2012,Peru,7.61
+2012,Philippines,7.25
+2012,Poland,7.22
+2012,Portugal,7.62
+2012,Qatar,6.96
+2012,Romania,7.6
+2012,Russian Federation,6.26
+2012,Rwanda,6.8
+2012,Saudi Arabia,6.2
+2012,Senegal,5.73
+2012,Serbia,6.59
+2012,Seychelles,6.05
+2012,Sierra Leone,5.81
+2012,Singapore,8.58
+2012,Slovak Republic,7.65
+2012,Slovenia,7.2
+2012,South Africa,6.81
+2012,Spain,7.64
+2012,Sri Lanka,6.27
+2012,Sudan,4.41
+2012,Suriname,6.35
+2012,Sweden,7.91
+2012,Switzerland,8.47
+2012,Syrian Arab Republic,4.53
+2012,Taiwan,7.78
+2012,Tajikistan,5.77
+2012,Tanzania,6.33
+2012,Thailand,6.63
+2012,Timor-Leste,5.94
+2012,Togo,5.52
+2012,Trinidad and Tobago,6.75
+2012,Tunisia,6.06
+2012,Türkiye,6.97
+2012,Uganda,6.7
+2012,Ukraine,5.96
+2012,United Arab Emirates,7.13
+2012,United Kingdom,8.06
+2012,United States,8.34
+2012,Uruguay,7.34
+2012,"Venezuela, RB",3.33
+2012,Vietnam,5.56
+2012,"Yemen, Rep.",5.79
+2012,Zambia,6.67
+2012,Zimbabwe,4.98
+2011,Albania,7.3
+2011,Algeria,4.92
+2011,Angola,4.69
+2011,Argentina,5.59
+2011,Armenia,7.37
+2011,Australia,8.17
+2011,Austria,7.89
+2011,Azerbaijan,5.52
+2011,"Bahamas, The",6.86
+2011,Bahrain,7.21
+2011,Bangladesh,5.8
+2011,Barbados,6.47
+2011,Belarus,4.29
+2011,Belgium,7.6
+2011,Belize,6.21
+2011,Benin,5.82
+2011,Bhutan,6.44
+2011,Bolivia,5.98
+2011,Bosnia and Herzegovina,6.62
+2011,Botswana,6.56
+2011,Brazil,6.56
+2011,Brunei Darussalam,6.98
+2011,Bulgaria,7.35
+2011,Burkina Faso,5.79
+2011,Burundi,4.95
+2011,Cabo Verde,6.61
+2011,Cambodia,6.48
+2011,Cameroon,5.72
+2011,Canada,8.02
+2011,Central African Republic,5.11
+2011,Chad,4.73
+2011,Chile,8.07
+2011,China,5.91
+2011,Colombia,6.64
+2011,"Congo, Dem. Rep.",5.05
+2011,"Congo, Rep.",4.29
+2011,Costa Rica,7.64
+2011,Côte d'Ivoire,5.39
+2011,Croatia,7.04
+2011,Cyprus,7.7
+2011,Czechia,7.74
+2011,Denmark,8.03
+2011,Dominican Republic,7.23
+2011,Ecuador,5.96
+2011,"Egypt, Arab Rep.",5.87
+2011,El Salvador,7.33
+2011,Estonia,8.01
+2011,Eswatini,5.35
+2011,Ethiopia,4.93
+2011,Fiji,6.25
+2011,Finland,8.11
+2011,France,7.67
+2011,Gabon,4.81
+2011,"Gambia, The",6.47
+2011,Georgia,7.41
+2011,Germany,8.01
+2011,Ghana,6.51
+2011,Greece,7.11
+2011,Guatemala,7.34
+2011,Guinea,4.18
+2011,Guinea-Bissau,4.92
+2011,Guyana,6.2
+2011,Haiti,6.14
+2011,Honduras,7.07
+2011,"Hong Kong SAR, China",9.1
+2011,Hungary,7.48
+2011,Iceland,7.1
+2011,India,6.12
+2011,Indonesia,6.78
+2011,"Iran, Islamic Rep.",5.03
+2011,Iraq,3.96
+2011,Ireland,8.06
+2011,Israel,7.4
+2011,Italy,7.45
+2011,Jamaica,7.07
+2011,Japan,7.88
+2011,Jordan,7.28
+2011,Kazakhstan,6.54
+2011,Kenya,6.51
+2011,"Korea, Rep.",7.64
+2011,Kuwait,6.49
+2011,Kyrgyz Republic,6.39
+2011,Lao PDR,5.47
+2011,Latvia,7.7
+2011,Lebanon,6.84
+2011,Lesotho,5.66
+2011,Liberia,5.05
+2011,Libya,2.94
+2011,Lithuania,7.68
+2011,Luxembourg,7.9
+2011,Madagascar,5.93
+2011,Malawi,5.87
+2011,Malaysia,6.55
+2011,Mali,5.75
+2011,Malta,7.93
+2011,Mauritania,5.81
+2011,Mauritius,7.94
+2011,Mexico,6.9
+2011,Moldova,6.6
+2011,Mongolia,6.93
+2011,Montenegro,7.03
+2011,Morocco,6.43
+2011,Mozambique,5.43
+2011,Myanmar,4
+2011,Namibia,6.04
+2011,Nepal,6.02
+2011,Netherlands,7.85
+2011,New Zealand,8.58
+2011,Nicaragua,6.9
+2011,Niger,5.63
+2011,Nigeria,5.95
+2011,North Macedonia,7
+2011,Norway,7.82
+2011,Oman,6.49
+2011,Pakistan,5.82
+2011,Panama,7.36
+2011,Papua New Guinea,6.44
+2011,Paraguay,6.95
+2011,Peru,7.61
+2011,Philippines,7.16
+2011,Poland,6.97
+2011,Portugal,7.49
+2011,Qatar,6.92
+2011,Romania,7.43
+2011,Russian Federation,6.05
+2011,Rwanda,6.61
+2011,Saudi Arabia,6.38
+2011,Senegal,5.68
+2011,Serbia,6.44
+2011,Seychelles,6.23
+2011,Sierra Leone,5.81
+2011,Singapore,8.67
+2011,Slovak Republic,7.75
+2011,Slovenia,7.2
+2011,South Africa,6.79
+2011,Spain,7.73
+2011,Sri Lanka,6.24
+2011,Sudan,4.86
+2011,Suriname,6.09
+2011,Sweden,7.88
+2011,Switzerland,8.52
+2011,Syrian Arab Republic,5.55
+2011,Taiwan,7.78
+2011,Tajikistan,5.71
+2011,Tanzania,6.38
+2011,Thailand,6.63
+2011,Timor-Leste,5.84
+2011,Togo,5.43
+2011,Trinidad and Tobago,6.77
+2011,Tunisia,5.97
+2011,Türkiye,7.02
+2011,Uganda,6.6
+2011,Ukraine,5.66
+2011,United Arab Emirates,7.05
+2011,United Kingdom,8.02
+2011,United States,8.23
+2011,Uruguay,7.36
+2011,"Venezuela, RB",3.28
+2011,Vietnam,5.37
+2011,"Yemen, Rep.",5.71
+2011,Zambia,6.65
+2011,Zimbabwe,4.6
+2010,Albania,7.24
+2010,Algeria,4.93
+2010,Angola,4.85
+2010,Argentina,5.63
+2010,Armenia,7.27
+2010,Australia,8.17
+2010,Austria,7.85
+2010,Azerbaijan,5.4
+2010,"Bahamas, The",6.92
+2010,Bahrain,7.06
+2010,Bangladesh,5.88
+2010,Barbados,6.41
+2010,Belarus,5.64
+2010,Belgium,7.57
+2010,Belize,6.12
+2010,Benin,5.81
+2010,Bhutan,6.64
+2010,Bolivia,6.14
+2010,Bosnia and Herzegovina,6.32
+2010,Botswana,6.41
+2010,Brazil,6.54
+2010,Brunei Darussalam,6.95
+2010,Bulgaria,7.35
+2010,Burkina Faso,5.85
+2010,Burundi,4.89
+2010,Cabo Verde,6.42
+2010,Cambodia,6.61
+2010,Cameroon,5.77
+2010,Canada,8.07
+2010,Central African Republic,5.03
+2010,Chad,5.09
+2010,Chile,8.08
+2010,China,5.87
+2010,Colombia,6.62
+2010,"Congo, Dem. Rep.",5.04
+2010,"Congo, Rep.",4.29
+2010,Costa Rica,7.33
+2010,Côte d'Ivoire,5.42
+2010,Croatia,6.78
+2010,Cyprus,7.74
+2010,Czechia,7.69
+2010,Denmark,7.99
+2010,Dominican Republic,7.26
+2010,Ecuador,6.06
+2010,"Egypt, Arab Rep.",5.85
+2010,El Salvador,7.4
+2010,Estonia,8.08
+2010,Eswatini,5.28
+2010,Ethiopia,5.2
+2010,Fiji,6.25
+2010,Finland,8.05
+2010,France,7.71
+2010,Gabon,4.87
+2010,"Gambia, The",6.53
+2010,Georgia,7.21
+2010,Germany,7.93
+2010,Ghana,6.55
+2010,Greece,7.05
+2010,Guatemala,7.33
+2010,Guinea,3.58
+2010,Guinea-Bissau,4.65
+2010,Guyana,6.22
+2010,Haiti,6.2
+2010,Honduras,7.06
+2010,"Hong Kong SAR, China",9.17
+2010,Hungary,7.43
+2010,Iceland,6.86
+2010,India,5.95
+2010,Indonesia,6.81
+2010,"Iran, Islamic Rep.",5.39
+2010,Iraq,3.77
+2010,Ireland,7.96
+2010,Israel,7.39
+2010,Italy,7.42
+2010,Jamaica,7.01
+2010,Japan,7.94
+2010,Jordan,7.21
+2010,Kazakhstan,6.48
+2010,Kenya,6.69
+2010,"Korea, Rep.",7.6
+2010,Kuwait,6.53
+2010,Kyrgyz Republic,6.48
+2010,Lao PDR,5.38
+2010,Latvia,7.74
+2010,Lebanon,6.72
+2010,Lesotho,5.52
+2010,Liberia,5.32
+2010,Libya,3.44
+2010,Lithuania,7.65
+2010,Luxembourg,7.84
+2010,Madagascar,5.96
+2010,Malawi,5.61
+2010,Malaysia,6.51
+2010,Mali,5.89
+2010,Malta,7.95
+2010,Mauritania,5.66
+2010,Mauritius,8
+2010,Mexico,6.95
+2010,Moldova,6.52
+2010,Mongolia,6.93
+2010,Montenegro,6.83
+2010,Morocco,6.33
+2010,Mozambique,5.35
+2010,Myanmar,3.7
+2010,Namibia,6.1
+2010,Nepal,6.07
+2010,Netherlands,7.79
+2010,New Zealand,8.51
+2010,Nicaragua,6.93
+2010,Niger,5.74
+2010,Nigeria,5.71
+2010,North Macedonia,6.98
+2010,Norway,7.74
+2010,Oman,6.6
+2010,Pakistan,5.68
+2010,Panama,7.51
+2010,Papua New Guinea,6.4
+2010,Paraguay,6.98
+2010,Peru,7.62
+2010,Philippines,7.07
+2010,Poland,6.93
+2010,Portugal,7.33
+2010,Qatar,6.92
+2010,Romania,7.42
+2010,Russian Federation,6.01
+2010,Rwanda,6.67
+2010,Saudi Arabia,6.53
+2010,Senegal,5.72
+2010,Serbia,6.38
+2010,Seychelles,6.32
+2010,Sierra Leone,6.09
+2010,Singapore,8.69
+2010,Slovak Republic,7.69
+2010,Slovenia,7.12
+2010,South Africa,6.74
+2010,Spain,7.67
+2010,Sri Lanka,6.19
+2010,Sudan,4.83
+2010,Suriname,6.4
+2010,Sweden,7.9
+2010,Switzerland,8.58
+2010,Syrian Arab Republic,5.2
+2010,Taiwan,7.78
+2010,Tajikistan,5.55
+2010,Tanzania,6.47
+2010,Thailand,6.67
+2010,Timor-Leste,5.16
+2010,Togo,5.44
+2010,Trinidad and Tobago,6.68
+2010,Tunisia,5.98
+2010,Türkiye,6.86
+2010,Uganda,6.91
+2010,Ukraine,5.47
+2010,United Arab Emirates,7.04
+2010,United Kingdom,8.08
+2010,United States,8.22
+2010,Uruguay,7.35
+2010,"Venezuela, RB",3.26
+2010,Vietnam,5.53
+2010,"Yemen, Rep.",5.87
+2010,Zambia,6.57
+2010,Zimbabwe,4.41
+2009,Albania,7.21
+2009,Algeria,4.97
+2009,Angola,4.68
+2009,Argentina,5.86
+2009,Armenia,7.29
+2009,Australia,8.2
+2009,Austria,7.85
+2009,Azerbaijan,5.53
+2009,"Bahamas, The",7.16
+2009,Bahrain,7.07
+2009,Bangladesh,5.97
+2009,Barbados,6.36
+2009,Belarus,5.52
+2009,Belgium,7.53
+2009,Belize,6.59
+2009,Benin,5.71
+2009,Bhutan,7.14
+2009,Bolivia,6.16
+2009,Bosnia and Herzegovina,6.39
+2009,Botswana,6.21
+2009,Brazil,6.41
+2009,Bulgaria,7.26
+2009,Burkina Faso,5.9
+2009,Burundi,5.07
+2009,Cabo Verde,7
+2009,Cambodia,5.68
+2009,Cameroon,5.6
+2009,Canada,8.21
+2009,Central African Republic,5.04
+2009,Chad,4.82
+2009,Chile,8.05
+2009,China,5.87
+2009,Colombia,6.57
+2009,"Congo, Dem. Rep.",4.91
+2009,"Congo, Rep.",4.3
+2009,Costa Rica,7.29
+2009,Côte d'Ivoire,5.67
+2009,Croatia,6.48
+2009,Cyprus,7.73
+2009,Czechia,7.61
+2009,Denmark,7.97
+2009,Dominican Republic,7.15
+2009,Ecuador,6.05
+2009,"Egypt, Arab Rep.",5.72
+2009,El Salvador,7.49
+2009,Estonia,7.96
+2009,Eswatini,4.29
+2009,Ethiopia,5.35
+2009,Fiji,6.43
+2009,Finland,8.01
+2009,France,7.76
+2009,Gabon,5.33
+2009,"Gambia, The",6
+2009,Georgia,7.08
+2009,Germany,7.91
+2009,Ghana,6.68
+2009,Greece,6.98
+2009,Guatemala,7.27
+2009,Guinea,3.76
+2009,Guinea-Bissau,4.81
+2009,Guyana,6.26
+2009,Haiti,6.49
+2009,Honduras,7.06
+2009,"Hong Kong SAR, China",9.18
+2009,Hungary,7.38
+2009,Iceland,6.91
+2009,India,5.97
+2009,Indonesia,6.54
+2009,"Iran, Islamic Rep.",5.39
+2009,Iraq,3.73
+2009,Ireland,7.84
+2009,Israel,7.26
+2009,Italy,7.3
+2009,Jamaica,7.06
+2009,Japan,7.85
+2009,Jordan,7.04
+2009,Kazakhstan,6.52
+2009,Kenya,6.6
+2009,"Korea, Rep.",7.53
+2009,Kuwait,6.71
+2009,Kyrgyz Republic,6.62
+2009,Lao PDR,5.52
+2009,Latvia,7.77
+2009,Lebanon,6.03
+2009,Lesotho,5.64
+2009,Liberia,5.15
+2009,Libya,3.42
+2009,Lithuania,7.52
+2009,Luxembourg,7.88
+2009,Madagascar,6.1
+2009,Malawi,5.62
+2009,Malaysia,6.35
+2009,Mali,5.82
+2009,Malta,7.94
+2009,Mauritania,5.86
+2009,Mauritius,8.04
+2009,Mexico,6.82
+2009,Moldova,6.43
+2009,Mongolia,6.92
+2009,Montenegro,6.54
+2009,Morocco,6.25
+2009,Mozambique,5.47
+2009,Myanmar,3.92
+2009,Namibia,6.04
+2009,Nepal,5.78
+2009,Netherlands,7.74
+2009,New Zealand,8.59
+2009,Nicaragua,6.82
+2009,Niger,5.47
+2009,Nigeria,5.5
+2009,North Macedonia,6.98
+2009,Norway,7.71
+2009,Oman,6.64
+2009,Pakistan,5.62
+2009,Panama,7.54
+2009,Papua New Guinea,6.39
+2009,Paraguay,6.92
+2009,Peru,7.55
+2009,Philippines,6.76
+2009,Poland,6.86
+2009,Portugal,7.29
+2009,Qatar,5.28
+2009,Romania,7.44
+2009,Russian Federation,5.55
+2009,Rwanda,6.28
+2009,Saudi Arabia,5.43
+2009,Senegal,5.88
+2009,Serbia,6.29
+2009,Seychelles,5.89
+2009,Sierra Leone,6.23
+2009,Singapore,8.83
+2009,Slovak Republic,7.66
+2009,Slovenia,7.26
+2009,South Africa,6.59
+2009,Spain,7.55
+2009,Sri Lanka,6.02
+2009,Sudan,4.7
+2009,Suriname,6.42
+2009,Sweden,7.79
+2009,Switzerland,8.52
+2009,Syrian Arab Republic,5.21
+2009,Taiwan,7.54
+2009,Tajikistan,4.63
+2009,Tanzania,6.14
+2009,Thailand,6.79
+2009,Timor-Leste,4.66
+2009,Togo,5.51
+2009,Trinidad and Tobago,6.73
+2009,Tunisia,6.22
+2009,Türkiye,6.79
+2009,Uganda,6.78
+2009,Ukraine,5.22
+2009,United Arab Emirates,6.96
+2009,United Kingdom,8.06
+2009,United States,8.11
+2009,Uruguay,7.21
+2009,"Venezuela, RB",3.33
+2009,Vietnam,5.63
+2009,"Yemen, Rep.",4.71
+2009,Zambia,6.44
+2009,Zimbabwe,4.21
+2008,Albania,7.15
+2008,Algeria,5.05
+2008,Angola,4.11
+2008,Argentina,5.96
+2008,Armenia,7.32
+2008,Australia,8.21
+2008,Austria,7.84
+2008,Azerbaijan,5.26
+2008,"Bahamas, The",7.23
+2008,Bahrain,7.3
+2008,Bangladesh,5.84
+2008,Barbados,6.14
+2008,Belarus,5.41
+2008,Belgium,7.51
+2008,Belize,6.81
+2008,Benin,5.64
+2008,Bhutan,6.83
+2008,Bolivia,6.03
+2008,Bosnia and Herzegovina,6.33
+2008,Botswana,6.36
+2008,Brazil,6.4
+2008,Bulgaria,7.1
+2008,Burkina Faso,5.75
+2008,Burundi,4.58
+2008,Cabo Verde,6.84
+2008,Cambodia,5.39
+2008,Cameroon,5.47
+2008,Canada,8.25
+2008,Central African Republic,4.93
+2008,Chad,4.97
+2008,Chile,7.99
+2008,China,5.76
+2008,Colombia,6.55
+2008,"Congo, Dem. Rep.",4.53
+2008,"Congo, Rep.",4.26
+2008,Costa Rica,7.19
+2008,Côte d'Ivoire,5.45
+2008,Croatia,6.49
+2008,Cyprus,7.74
+2008,Czechia,7.57
+2008,Denmark,8.08
+2008,Dominican Republic,6.57
+2008,Ecuador,5.84
+2008,"Egypt, Arab Rep.",5.87
+2008,El Salvador,7.61
+2008,Estonia,7.86
+2008,Eswatini,4.73
+2008,Ethiopia,4.98
+2008,Fiji,6.46
+2008,Finland,8.02
+2008,France,7.78
+2008,Gabon,5.33
+2008,"Gambia, The",6.08
+2008,Georgia,7.12
+2008,Germany,7.87
+2008,Ghana,6.58
+2008,Greece,7.06
+2008,Guatemala,7.24
+2008,Guinea,4.83
+2008,Guinea-Bissau,4.44
+2008,Guyana,6.24
+2008,Haiti,6.33
+2008,Honduras,7.08
+2008,"Hong Kong SAR, China",9.11
+2008,Hungary,7.27
+2008,Iceland,7.33
+2008,India,6.03
+2008,Indonesia,6.45
+2008,"Iran, Islamic Rep.",5.36
+2008,Iraq,3.84
+2008,Ireland,8.05
+2008,Israel,7.3
+2008,Italy,7.36
+2008,Jamaica,6.84
+2008,Japan,7.92
+2008,Jordan,6.81
+2008,Kazakhstan,6.24
+2008,Kenya,6.39
+2008,"Korea, Rep.",7.54
+2008,Kuwait,6.71
+2008,Kyrgyz Republic,6.32
+2008,Lao PDR,4.1
+2008,Latvia,7.68
+2008,Lebanon,5.74
+2008,Lesotho,5.67
+2008,Liberia,4.93
+2008,Libya,3.79
+2008,Lithuania,7.52
+2008,Luxembourg,7.95
+2008,Madagascar,6.03
+2008,Malawi,5.52
+2008,Malaysia,6.32
+2008,Mali,5.68
+2008,Malta,7.87
+2008,Mauritania,5.84
+2008,Mauritius,8.01
+2008,Mexico,6.89
+2008,Moldova,6.33
+2008,Mongolia,6.48
+2008,Montenegro,6.42
+2008,Morocco,6.15
+2008,Mozambique,5.64
+2008,Myanmar,3.45
+2008,Namibia,6.23
+2008,Nepal,6.04
+2008,Netherlands,7.88
+2008,New Zealand,8.63
+2008,Nicaragua,6.68
+2008,Niger,5.24
+2008,Nigeria,5.6
+2008,North Macedonia,6.86
+2008,Norway,7.78
+2008,Oman,6.64
+2008,Pakistan,5.36
+2008,Panama,7.45
+2008,Papua New Guinea,6.31
+2008,Paraguay,6.81
+2008,Peru,7.57
+2008,Philippines,6.7
+2008,Poland,6.85
+2008,Portugal,7.46
+2008,Qatar,5.36
+2008,Romania,7.47
+2008,Russian Federation,5.66
+2008,Rwanda,6.09
+2008,Saudi Arabia,5.72
+2008,Senegal,5.61
+2008,Serbia,6.12
+2008,Seychelles,5.49
+2008,Sierra Leone,5.83
+2008,Singapore,8.77
+2008,Slovak Republic,7.71
+2008,Slovenia,7.19
+2008,South Africa,6.57
+2008,Spain,7.69
+2008,Sri Lanka,5.72
+2008,Sudan,4.63
+2008,Suriname,5.99
+2008,Sweden,7.76
+2008,Switzerland,8.46
+2008,Syrian Arab Republic,4.93
+2008,Taiwan,7.58
+2008,Tajikistan,4.53
+2008,Tanzania,6.05
+2008,Thailand,6.88
+2008,Timor-Leste,4.52
+2008,Togo,5.41
+2008,Trinidad and Tobago,6.89
+2008,Tunisia,6.27
+2008,Türkiye,6.51
+2008,Uganda,6.87
+2008,Ukraine,5.13
+2008,United Arab Emirates,6.97
+2008,United Kingdom,8.1
+2008,United States,8.32
+2008,Uruguay,7.21
+2008,"Venezuela, RB",3.53
+2008,Vietnam,5.37
+2008,"Yemen, Rep.",5.08
+2008,Zambia,6.42
+2008,Zimbabwe,4.46
+2007,Albania,7.25
+2007,Algeria,5.23
+2007,Angola,3.99
+2007,Argentina,6.15
+2007,Armenia,7.4
+2007,Australia,8.29
+2007,Austria,7.91
+2007,Azerbaijan,5.31
+2007,"Bahamas, The",7.28
+2007,Bahrain,7.33
+2007,Bangladesh,5.84
+2007,Barbados,6.26
+2007,Belarus,5.4
+2007,Belgium,7.57
+2007,Belize,6.8
+2007,Benin,5.7
+2007,Bhutan,7.39
+2007,Bolivia,6.17
+2007,Bosnia and Herzegovina,6.45
+2007,Botswana,6.67
+2007,Brazil,6.38
+2007,Bulgaria,7.14
+2007,Burkina Faso,5.79
+2007,Burundi,5.21
+2007,Cabo Verde,7.53
+2007,Cambodia,5.79
+2007,Cameroon,5.52
+2007,Canada,8.26
+2007,Central African Republic,5.06
+2007,Chad,5.05
+2007,Chile,8.11
+2007,China,5.81
+2007,Colombia,6.56
+2007,"Congo, Dem. Rep.",4.61
+2007,"Congo, Rep.",4.35
+2007,Costa Rica,7.41
+2007,Côte d'Ivoire,5.72
+2007,Croatia,6.42
+2007,Cyprus,7.74
+2007,Czechia,7.66
+2007,Denmark,8.21
+2007,Dominican Republic,6.6
+2007,Ecuador,6.08
+2007,"Egypt, Arab Rep.",6.04
+2007,El Salvador,7.67
+2007,Estonia,7.98
+2007,Eswatini,4.72
+2007,Ethiopia,5.27
+2007,Fiji,6.29
+2007,Finland,8.09
+2007,France,7.82
+2007,Gabon,5.35
+2007,"Gambia, The",5.93
+2007,Georgia,7.21
+2007,Germany,7.92
+2007,Ghana,6.76
+2007,Greece,7.29
+2007,Guatemala,7.3
+2007,Guinea,4.29
+2007,Guinea-Bissau,4.78
+2007,Guyana,6.09
+2007,Haiti,6.25
+2007,Honduras,7.14
+2007,"Hong Kong SAR, China",9.07
+2007,Hungary,7.23
+2007,Iceland,8.09
+2007,India,6.11
+2007,Indonesia,6.55
+2007,"Iran, Islamic Rep.",5.41
+2007,Iraq,4.3
+2007,Ireland,8.2
+2007,Israel,7.4
+2007,Italy,7.46
+2007,Jamaica,7.18
+2007,Japan,8.02
+2007,Jordan,7.05
+2007,Kazakhstan,6.38
+2007,Kenya,6.82
+2007,"Korea, Rep.",7.73
+2007,Kuwait,7.09
+2007,Kyrgyz Republic,6.52
+2007,Lao PDR,4.36
+2007,Latvia,7.79
+2007,Lebanon,6.15
+2007,Lesotho,5.8
+2007,Liberia,4.56
+2007,Libya,3.84
+2007,Lithuania,7.63
+2007,Luxembourg,7.94
+2007,Madagascar,5.89
+2007,Malawi,5.31
+2007,Malaysia,6.51
+2007,Mali,5.95
+2007,Malta,7.84
+2007,Mauritania,5.77
+2007,Mauritius,7.86
+2007,Mexico,6.91
+2007,Moldova,6.29
+2007,Mongolia,6.74
+2007,Montenegro,6.53
+2007,Morocco,6.16
+2007,Mozambique,5.66
+2007,Myanmar,3.3
+2007,Namibia,6.36
+2007,Nepal,6.24
+2007,Netherlands,7.94
+2007,New Zealand,8.68
+2007,Nicaragua,6.98
+2007,Niger,5.31
+2007,Nigeria,5.88
+2007,North Macedonia,6.87
+2007,Norway,7.95
+2007,Oman,6.87
+2007,Pakistan,5.66
+2007,Panama,7.67
+2007,Papua New Guinea,6.4
+2007,Paraguay,6.81
+2007,Peru,7.6
+2007,Philippines,6.88
+2007,Poland,6.84
+2007,Portugal,7.51
+2007,Qatar,5.38
+2007,Romania,7.49
+2007,Russian Federation,5.73
+2007,Rwanda,6.05
+2007,Saudi Arabia,6.41
+2007,Senegal,5.63
+2007,Serbia,6.3
+2007,Seychelles,6.93
+2007,Sierra Leone,5.93
+2007,Singapore,8.83
+2007,Slovak Republic,7.67
+2007,Slovenia,7.23
+2007,South Africa,6.81
+2007,Spain,7.78
+2007,Sri Lanka,5.97
+2007,Sudan,4.65
+2007,Suriname,6.41
+2007,Sweden,7.8
+2007,Switzerland,8.58
+2007,Syrian Arab Republic,5.34
+2007,Taiwan,7.63
+2007,Tajikistan,4.5
+2007,Tanzania,6.15
+2007,Thailand,6.83
+2007,Timor-Leste,4.48
+2007,Togo,5.71
+2007,Trinidad and Tobago,7.08
+2007,Tunisia,6.33
+2007,Türkiye,6.48
+2007,Uganda,6.89
+2007,Ukraine,5.26
+2007,United Arab Emirates,7.07
+2007,United Kingdom,8.22
+2007,United States,8.55
+2007,Uruguay,7.21
+2007,"Venezuela, RB",3.62
+2007,Vietnam,5.64
+2007,"Yemen, Rep.",5.07
+2007,Zambia,6.44
+2007,Zimbabwe,3.24
+2006,Albania,7.19
+2006,Algeria,5.28
+2006,Angola,4.04
+2006,Argentina,5.97
+2006,Armenia,7.35
+2006,Australia,8.26
+2006,Austria,7.91
+2006,Azerbaijan,5.62
+2006,"Bahamas, The",7.26
+2006,Bahrain,7.25
+2006,Bangladesh,5.85
+2006,Barbados,6.22
+2006,Belarus,5.18
+2006,Belgium,7.55
+2006,Belize,6.84
+2006,Benin,5.75
+2006,Bhutan,6.64
+2006,Bolivia,6.37
+2006,Bosnia and Herzegovina,6.23
+2006,Botswana,6.55
+2006,Brazil,6.38
+2006,Bulgaria,7.13
+2006,Burkina Faso,5.78
+2006,Burundi,5.24
+2006,Cabo Verde,6.92
+2006,Cambodia,6
+2006,Cameroon,5.52
+2006,Canada,8.33
+2006,Central African Republic,4.8
+2006,Chad,5.13
+2006,Chile,8.06
+2006,China,5.75
+2006,Colombia,6.53
+2006,"Congo, Dem. Rep.",4.61
+2006,"Congo, Rep.",4.41
+2006,Costa Rica,7.56
+2006,Côte d'Ivoire,5.66
+2006,Croatia,6.43
+2006,Cyprus,7.71
+2006,Czechia,7.55
+2006,Denmark,8.22
+2006,Dominican Republic,6.53
+2006,Ecuador,6.06
+2006,"Egypt, Arab Rep.",5.92
+2006,El Salvador,7.62
+2006,Estonia,8.05
+2006,Eswatini,4.96
+2006,Ethiopia,5.23
+2006,Fiji,6.29
+2006,Finland,8.08
+2006,France,7.62
+2006,Gabon,5.29
+2006,"Gambia, The",5.77
+2006,Georgia,7.41
+2006,Germany,7.97
+2006,Ghana,6.69
+2006,Greece,7.22
+2006,Guatemala,7.3
+2006,Guinea,3.94
+2006,Guinea-Bissau,4.97
+2006,Guyana,6.14
+2006,Haiti,6.26
+2006,Honduras,7.15
+2006,"Hong Kong SAR, China",9.09
+2006,Hungary,7.19
+2006,Iceland,8.07
+2006,India,6.1
+2006,Indonesia,6.44
+2006,"Iran, Islamic Rep.",5.62
+2006,Iraq,3.28
+2006,Ireland,8.22
+2006,Israel,7.28
+2006,Italy,7.48
+2006,Jamaica,7.28
+2006,Japan,8.01
+2006,Jordan,6.93
+2006,Kazakhstan,6.13
+2006,Kenya,6.68
+2006,"Korea, Rep.",7.63
+2006,Kuwait,7.03
+2006,Kyrgyz Republic,6.45
+2006,Lao PDR,4.33
+2006,Latvia,7.8
+2006,Lebanon,6.02
+2006,Lesotho,5.75
+2006,Liberia,4.54
+2006,Libya,3.8
+2006,Lithuania,7.64
+2006,Luxembourg,7.85
+2006,Madagascar,5.74
+2006,Malawi,4.93
+2006,Malaysia,6.41
+2006,Mali,5.73
+2006,Malta,7.75
+2006,Mauritania,5.81
+2006,Mauritius,7.52
+2006,Mexico,6.99
+2006,Moldova,6.28
+2006,Mongolia,6.84
+2006,Montenegro,6.72
+2006,Morocco,6.11
+2006,Mozambique,5.43
+2006,Myanmar,3.34
+2006,Namibia,6.18
+2006,Nepal,6.17
+2006,Netherlands,7.88
+2006,New Zealand,8.64
+2006,Nicaragua,7
+2006,Niger,5.49
+2006,Nigeria,5.91
+2006,North Macedonia,6.8
+2006,Norway,7.87
+2006,Oman,6.79
+2006,Pakistan,5.65
+2006,Panama,7.72
+2006,Papua New Guinea,6.33
+2006,Paraguay,6.83
+2006,Peru,7.58
+2006,Philippines,6.85
+2006,Poland,6.87
+2006,Portugal,7.51
+2006,Qatar,5.13
+2006,Romania,7.24
+2006,Russian Federation,5.41
+2006,Rwanda,5.94
+2006,Saudi Arabia,6.27
+2006,Senegal,5.79
+2006,Serbia,5.91
+2006,Seychelles,6.75
+2006,Sierra Leone,5.57
+2006,Singapore,8.83
+2006,Slovak Republic,7.61
+2006,Slovenia,7.05
+2006,South Africa,6.83
+2006,Spain,7.79
+2006,Sri Lanka,6.16
+2006,Sudan,4.92
+2006,Suriname,5.59
+2006,Sweden,7.81
+2006,Switzerland,8.57
+2006,Syrian Arab Republic,4.93
+2006,Taiwan,7.69
+2006,Tajikistan,5.3
+2006,Tanzania,6.15
+2006,Thailand,6.87
+2006,Timor-Leste,4.76
+2006,Togo,5.66
+2006,Trinidad and Tobago,7
+2006,Tunisia,6.34
+2006,Türkiye,6.34
+2006,Uganda,6.76
+2006,Ukraine,5.34
+2006,United Arab Emirates,6.99
+2006,United Kingdom,8.31
+2006,United States,8.55
+2006,Uruguay,7.15
+2006,"Venezuela, RB",4.19
+2006,Vietnam,5.7
+2006,"Yemen, Rep.",4.69
+2006,Zambia,6.39
+2006,Zimbabwe,3.04
+2005,Albania,6.99
+2005,Algeria,5.34
+2005,Angola,3.68
+2005,Argentina,6.09
+2005,Armenia,7.34
+2005,Australia,8.23
+2005,Austria,7.91
+2005,Azerbaijan,5.78
+2005,"Bahamas, The",7.17
+2005,Bahrain,7.13
+2005,Bangladesh,5.73
+2005,Barbados,6.21
+2005,Belarus,4.9
+2005,Belgium,7.58
+2005,Belize,6.88
+2005,Benin,5.72
+2005,Bhutan,6.83
+2005,Bolivia,6.39
+2005,Bosnia and Herzegovina,6.23
+2005,Botswana,6.65
+2005,Brazil,6.42
+2005,Bulgaria,7.04
+2005,Burkina Faso,5.71
+2005,Burundi,5.17
+2005,Cabo Verde,7.1
+2005,Cambodia,5.63
+2005,Cameroon,5.52
+2005,Canada,8.35
+2005,Central African Republic,4.68
+2005,Chad,5.1
+2005,Chile,8.05
+2005,China,5.69
+2005,Colombia,6.53
+2005,"Congo, Dem. Rep.",4.18
+2005,"Congo, Rep.",4.41
+2005,Costa Rica,7.37
+2005,Côte d'Ivoire,5.87
+2005,Croatia,6.39
+2005,Cyprus,7.75
+2005,Czechia,7.52
+2005,Denmark,8.13
+2005,Dominican Republic,6.51
+2005,Ecuador,5.99
+2005,"Egypt, Arab Rep.",5.85
+2005,El Salvador,7.52
+2005,Estonia,8.07
+2005,Eswatini,4.18
+2005,Ethiopia,5.19
+2005,Fiji,6.54
+2005,Finland,8.17
+2005,France,7.64
+2005,Gabon,5.31
+2005,"Gambia, The",5.2
+2005,Georgia,7.33
+2005,Germany,8.03
+2005,Ghana,6.2
+2005,Greece,7.19
+2005,Guatemala,7.16
+2005,Guinea,4.86
+2005,Guinea-Bissau,4.88
+2005,Guyana,6.33
+2005,Haiti,6.17
+2005,Honduras,6.95
+2005,"Hong Kong SAR, China",9.08
+2005,Hungary,7.29
+2005,Iceland,8.27
+2005,India,6.28
+2005,Indonesia,6.41
+2005,"Iran, Islamic Rep.",5.6
+2005,Iraq,2.67
+2005,Ireland,8.28
+2005,Israel,7.37
+2005,Italy,7.59
+2005,Jamaica,7.21
+2005,Japan,8.11
+2005,Jordan,6.99
+2005,Kazakhstan,6.36
+2005,Kenya,6.79
+2005,"Korea, Rep.",7.58
+2005,Kuwait,6.95
+2005,Kyrgyz Republic,6.53
+2005,Lao PDR,4.18
+2005,Latvia,7.73
+2005,Lebanon,4.54
+2005,Lesotho,5.62
+2005,Liberia,4.21
+2005,Libya,3.14
+2005,Lithuania,7.75
+2005,Luxembourg,7.82
+2005,Madagascar,5.47
+2005,Malawi,4.8
+2005,Malaysia,6.45
+2005,Mali,5.61
+2005,Malta,7.86
+2005,Mauritania,5.57
+2005,Mauritius,7.58
+2005,Mexico,6.97
+2005,Moldova,6.41
+2005,Mongolia,6.78
+2005,Montenegro,6.03
+2005,Morocco,6.08
+2005,Mozambique,5.41
+2005,Myanmar,3.55
+2005,Namibia,6.27
+2005,Nepal,6.18
+2005,Netherlands,7.91
+2005,New Zealand,8.71
+2005,Nicaragua,6.94
+2005,Niger,5.19
+2005,Nigeria,5.71
+2005,North Macedonia,6.87
+2005,Norway,7.95
+2005,Oman,6.81
+2005,Pakistan,5.64
+2005,Panama,7.73
+2005,Papua New Guinea,6.36
+2005,Paraguay,6.87
+2005,Peru,7.57
+2005,Philippines,6.89
+2005,Poland,6.87
+2005,Portugal,7.42
+2005,Qatar,4.45
+2005,Romania,7.2
+2005,Russian Federation,5.66
+2005,Rwanda,5.8
+2005,Saudi Arabia,5.39
+2005,Senegal,5.82
+2005,Serbia,5.52
+2005,Seychelles,6.79
+2005,Sierra Leone,5.21
+2005,Singapore,8.81
+2005,Slovak Republic,7.61
+2005,Slovenia,7.1
+2005,South Africa,6.94
+2005,Spain,7.88
+2005,Sri Lanka,6.15
+2005,Sudan,5.03
+2005,Suriname,5.16
+2005,Sweden,7.9
+2005,Switzerland,8.5
+2005,Syrian Arab Republic,5
+2005,Taiwan,7.69
+2005,Tajikistan,4.5
+2005,Tanzania,6.06
+2005,Thailand,6.83
+2005,Timor-Leste,3.62
+2005,Togo,5.63
+2005,Trinidad and Tobago,6.96
+2005,Tunisia,6.39
+2005,Türkiye,6.28
+2005,Uganda,6.54
+2005,Ukraine,5.26
+2005,United Arab Emirates,6.84
+2005,United Kingdom,8.34
+2005,United States,8.54
+2005,Uruguay,7.23
+2005,"Venezuela, RB",4.37
+2005,Vietnam,5.64
+2005,"Yemen, Rep.",3.41
+2005,Zambia,6.19
+2005,Zimbabwe,3.14
+2004,Albania,7.13
+2004,Algeria,4.98
+2004,Angola,3.66
+2004,Argentina,6.38
+2004,Armenia,7.29
+2004,Australia,8.21
+2004,Austria,8.02
+2004,Azerbaijan,6.01
+2004,"Bahamas, The",7.02
+2004,Bahrain,7.22
+2004,Bangladesh,5.53
+2004,Barbados,6.37
+2004,Belarus,4.64
+2004,Belgium,7.68
+2004,Belize,6.44
+2004,Benin,5.67
+2004,Bhutan,6.69
+2004,Bolivia,6.45
+2004,Bosnia and Herzegovina,5.6
+2004,Botswana,6.4
+2004,Brazil,6.28
+2004,Bulgaria,6.83
+2004,Burkina Faso,5.87
+2004,Burundi,4.72
+2004,Cabo Verde,7.19
+2004,Cambodia,5.25
+2004,Cameroon,5.6
+2004,Canada,8.32
+2004,Central African Republic,4.94
+2004,Chad,5.26
+2004,Chile,7.98
+2004,China,5.64
+2004,Colombia,6.39
+2004,"Congo, Dem. Rep.",4.46
+2004,"Congo, Rep.",4.44
+2004,Costa Rica,7.07
+2004,Côte d'Ivoire,5.81
+2004,Croatia,6.18
+2004,Cyprus,7.84
+2004,Czechia,7.55
+2004,Denmark,8.27
+2004,Dominican Republic,5.83
+2004,Ecuador,5.75
+2004,"Egypt, Arab Rep.",5.61
+2004,El Salvador,7.55
+2004,Estonia,8.13
+2004,Eswatini,4.19
+2004,Ethiopia,5.96
+2004,Fiji,6.18
+2004,Finland,8.22
+2004,France,7.71
+2004,Gabon,5.25
+2004,"Gambia, The",4.59
+2004,Georgia,7.18
+2004,Germany,8.05
+2004,Ghana,6.2
+2004,Greece,7.19
+2004,Guatemala,7.08
+2004,Guinea,5.25
+2004,Guinea-Bissau,4.83
+2004,Guyana,5.96
+2004,Haiti,6.25
+2004,Honduras,6.87
+2004,"Hong Kong SAR, China",8.96
+2004,Hungary,7.32
+2004,Iceland,8.35
+2004,India,6.15
+2004,Indonesia,6.24
+2004,"Iran, Islamic Rep.",5.56
+2004,Iraq,2.54
+2004,Ireland,8.21
+2004,Israel,7.38
+2004,Italy,7.63
+2004,Jamaica,7.17
+2004,Japan,8.13
+2004,Jordan,6.89
+2004,Kazakhstan,6.55
+2004,Kenya,6.39
+2004,"Korea, Rep.",7.41
+2004,Kuwait,7.05
+2004,Kyrgyz Republic,6.34
+2004,Lao PDR,4.2
+2004,Latvia,7.79
+2004,Lebanon,4.37
+2004,Lesotho,5.88
+2004,Liberia,3.89
+2004,Libya,3.15
+2004,Lithuania,7.75
+2004,Luxembourg,8.09
+2004,Madagascar,5.62
+2004,Malawi,4.61
+2004,Malaysia,6.19
+2004,Mali,5.55
+2004,Malta,7.68
+2004,Mauritania,5.17
+2004,Mauritius,7.25
+2004,Mexico,6.88
+2004,Moldova,6.27
+2004,Mongolia,6.76
+2004,Montenegro,5.71
+2004,Morocco,5.94
+2004,Mozambique,5.55
+2004,Myanmar,3.48
+2004,Namibia,6.08
+2004,Nepal,6.21
+2004,Netherlands,7.91
+2004,New Zealand,8.78
+2004,Nicaragua,6.86
+2004,Niger,5.18
+2004,Nigeria,5.28
+2004,North Macedonia,6.57
+2004,Norway,7.86
+2004,Oman,6.93
+2004,Pakistan,5.46
+2004,Panama,7.84
+2004,Papua New Guinea,5.99
+2004,Paraguay,6.8
+2004,Peru,7.56
+2004,Philippines,6.9
+2004,Poland,6.84
+2004,Portugal,7.61
+2004,Qatar,4.46
+2004,Romania,6.62
+2004,Russian Federation,5.23
+2004,Rwanda,5.72
+2004,Saudi Arabia,5.58
+2004,Senegal,5.83
+2004,Serbia,4.54
+2004,Seychelles,6.64
+2004,Sierra Leone,4.92
+2004,Singapore,8.74
+2004,Slovak Republic,7.61
+2004,Slovenia,7.15
+2004,South Africa,6.87
+2004,Spain,8.03
+2004,Sri Lanka,6.33
+2004,Sudan,4.84
+2004,Sweden,7.91
+2004,Switzerland,8.69
+2004,Syrian Arab Republic,4.9
+2004,Taiwan,7.75
+2004,Tajikistan,3.91
+2004,Tanzania,6.16
+2004,Thailand,6.94
+2004,Timor-Leste,3.48
+2004,Togo,5.77
+2004,Trinidad and Tobago,7.09
+2004,Tunisia,6.33
+2004,Türkiye,6.14
+2004,Uganda,6.54
+2004,Ukraine,5.32
+2004,United Arab Emirates,6.98
+2004,United Kingdom,8.39
+2004,United States,8.67
+2004,Uruguay,7.07
+2004,"Venezuela, RB",4.39
+2004,Vietnam,5.56
+2004,"Yemen, Rep.",3.27
+2004,Zambia,6.15
+2004,Zimbabwe,3
+2003,Albania,7.33
+2003,Algeria,4.89
+2003,Angola,3.79
+2003,Argentina,6.12
+2003,Armenia,6.78
+2003,Australia,8.34
+2003,Austria,8.06
+2003,Azerbaijan,5.78
+2003,"Bahamas, The",6.91
+2003,Bahrain,7.24
+2003,Bangladesh,5.65
+2003,Barbados,6.28
+2003,Belarus,4.11
+2003,Belgium,7.72
+2003,Belize,6.06
+2003,Benin,5.68
+2003,Bhutan,7.04
+2003,Bolivia,6.46
+2003,Bosnia and Herzegovina,5.29
+2003,Botswana,6.2
+2003,Brazil,6.1
+2003,Bulgaria,6.84
+2003,Burkina Faso,5.58
+2003,Burundi,4.95
+2003,Cabo Verde,7.09
+2003,Cambodia,5.17
+2003,Cameroon,5.52
+2003,Canada,8.26
+2003,Central African Republic,5.14
+2003,Chad,5.35
+2003,Chile,7.98
+2003,China,5.79
+2003,Colombia,6.31
+2003,"Congo, Dem. Rep.",4.38
+2003,"Congo, Rep.",4.51
+2003,Costa Rica,7.19
+2003,Côte d'Ivoire,5.71
+2003,Croatia,6.22
+2003,Cyprus,7.14
+2003,Czechia,7.37
+2003,Denmark,8.21
+2003,Dominican Republic,6
+2003,Ecuador,5.95
+2003,"Egypt, Arab Rep.",5.44
+2003,El Salvador,7.53
+2003,Estonia,8.06
+2003,Eswatini,4.32
+2003,Ethiopia,4.65
+2003,Fiji,6
+2003,Finland,8.22
+2003,France,7.64
+2003,Gabon,5.07
+2003,"Gambia, The",4.18
+2003,Georgia,7.14
+2003,Germany,8.13
+2003,Ghana,5.89
+2003,Greece,7.15
+2003,Guatemala,7
+2003,Guinea,5.45
+2003,Guinea-Bissau,4.65
+2003,Guyana,5.85
+2003,Haiti,6.18
+2003,Honduras,6.81
+2003,"Hong Kong SAR, China",8.94
+2003,Hungary,7.18
+2003,Iceland,8.17
+2003,India,6.17
+2003,Indonesia,6.22
+2003,"Iran, Islamic Rep.",5.42
+2003,Iraq,2.18
+2003,Ireland,8.14
+2003,Israel,7.26
+2003,Italy,7.53
+2003,Jamaica,7.26
+2003,Japan,8.16
+2003,Jordan,6.84
+2003,Kazakhstan,6.08
+2003,Kenya,6.2
+2003,"Korea, Rep.",7.23
+2003,Kuwait,7.07
+2003,Kyrgyz Republic,5.61
+2003,Lao PDR,4.1
+2003,Latvia,7.79
+2003,Lebanon,4.21
+2003,Lesotho,4.86
+2003,Liberia,3.62
+2003,Libya,2.94
+2003,Lithuania,7.71
+2003,Luxembourg,8.11
+2003,Madagascar,5.85
+2003,Malawi,4.76
+2003,Malaysia,6.18
+2003,Mali,5.69
+2003,Malta,6.86
+2003,Mauritania,4.9
+2003,Mauritius,7.18
+2003,Mexico,6.74
+2003,Moldova,5.58
+2003,Mongolia,6.97
+2003,Montenegro,5.51
+2003,Morocco,5.86
+2003,Mozambique,5.37
+2003,Myanmar,3.1
+2003,Namibia,6.03
+2003,Nepal,6.08
+2003,Netherlands,7.95
+2003,New Zealand,8.79
+2003,Nicaragua,6.92
+2003,Niger,5.55
+2003,Nigeria,5.29
+2003,North Macedonia,6.51
+2003,Norway,7.92
+2003,Oman,6.95
+2003,Pakistan,5.49
+2003,Panama,7.78
+2003,Papua New Guinea,5.72
+2003,Paraguay,6.75
+2003,Peru,7.56
+2003,Philippines,7.04
+2003,Poland,6.82
+2003,Portugal,7.6
+2003,Qatar,4.59
+2003,Romania,6.41
+2003,Russian Federation,4.94
+2003,Rwanda,5.89
+2003,Saudi Arabia,5.6
+2003,Senegal,5.85
+2003,Serbia,4.34
+2003,Seychelles,6.73
+2003,Sierra Leone,5.02
+2003,Singapore,8.68
+2003,Slovak Republic,6.94
+2003,Slovenia,7.02
+2003,South Africa,6.79
+2003,Spain,8.03
+2003,Sri Lanka,6.47
+2003,Sudan,5.16
+2003,Sweden,7.9
+2003,Switzerland,8.75
+2003,Syrian Arab Republic,4.51
+2003,Taiwan,7.61
+2003,Tajikistan,4.04
+2003,Tanzania,6.26
+2003,Thailand,6.86
+2003,Timor-Leste,3.29
+2003,Togo,5.81
+2003,Trinidad and Tobago,7.05
+2003,Tunisia,6.14
+2003,Türkiye,5.84
+2003,Uganda,6.55
+2003,Ukraine,5.2
+2003,United Arab Emirates,6.95
+2003,United Kingdom,8.5
+2003,United States,8.66
+2003,Uruguay,6.78
+2003,"Venezuela, RB",3.86
+2003,Vietnam,5.31
+2003,"Yemen, Rep.",3.16
+2003,Zambia,6.13
+2003,Zimbabwe,3.55
+2002,Albania,6.76
+2002,Algeria,4.77
+2002,Angola,4.05
+2002,Argentina,6.12
+2002,Armenia,6.68
+2002,Australia,8.3
+2002,Austria,7.91
+2002,Azerbaijan,5.74
+2002,"Bahamas, The",6.97
+2002,Bahrain,7.21
+2002,Bangladesh,5.68
+2002,Barbados,6.36
+2002,Belarus,4.15
+2002,Belgium,7.73
+2002,Belize,6.02
+2002,Benin,5.66
+2002,Bhutan,6.66
+2002,Bolivia,6.55
+2002,Bosnia and Herzegovina,5.32
+2002,Botswana,6.21
+2002,Brazil,6.19
+2002,Bulgaria,6.55
+2002,Burkina Faso,4.8
+2002,Burundi,5.31
+2002,Cabo Verde,6.3
+2002,Cambodia,5
+2002,Cameroon,5.45
+2002,Canada,8.22
+2002,Central African Republic,4.92
+2002,Chad,5.4
+2002,Chile,7.86
+2002,China,5.74
+2002,Colombia,6.19
+2002,"Congo, Dem. Rep.",3.98
+2002,"Congo, Rep.",4.34
+2002,Costa Rica,7.09
+2002,Côte d'Ivoire,5.61
+2002,Croatia,6.17
+2002,Cyprus,7.22
+2002,Czechia,7.45
+2002,Denmark,8.1
+2002,Dominican Republic,6.71
+2002,Ecuador,6.08
+2002,"Egypt, Arab Rep.",5.6
+2002,El Salvador,7.48
+2002,Estonia,7.92
+2002,Eswatini,4.3
+2002,Ethiopia,5.2
+2002,Fiji,6.09
+2002,Finland,8.21
+2002,France,7.66
+2002,Gabon,5.06
+2002,"Gambia, The",4.73
+2002,Georgia,6.9
+2002,Germany,8.07
+2002,Ghana,5.85
+2002,Greece,7.17
+2002,Guatemala,6.99
+2002,Guinea,5.57
+2002,Guinea-Bissau,4.65
+2002,Guyana,5.96
+2002,Haiti,6.22
+2002,Honduras,6.77
+2002,"Hong Kong SAR, China",8.9
+2002,Hungary,7.11
+2002,Iceland,7.98
+2002,India,6.08
+2002,Indonesia,5.89
+2002,"Iran, Islamic Rep.",5.41
+2002,Ireland,8.06
+2002,Israel,7.09
+2002,Italy,7.64
+2002,Jamaica,7.33
+2002,Japan,7.94
+2002,Jordan,6.86
+2002,Kazakhstan,6.15
+2002,Kenya,6.27
+2002,"Korea, Rep.",7.23
+2002,Kuwait,6.99
+2002,Kyrgyz Republic,5.69
+2002,Lao PDR,4.19
+2002,Latvia,7.86
+2002,Lebanon,4.06
+2002,Lesotho,3.92
+2002,Liberia,3.3
+2002,Libya,2.3
+2002,Lithuania,7.59
+2002,Luxembourg,8.13
+2002,Madagascar,5.62
+2002,Malawi,4.85
+2002,Malaysia,6.14
+2002,Mali,5.44
+2002,Malta,7.02
+2002,Mauritania,4.45
+2002,Mauritius,7.21
+2002,Mexico,6.76
+2002,Moldova,5.72
+2002,Mongolia,7.07
+2002,Montenegro,6.39
+2002,Morocco,5.77
+2002,Mozambique,4.73
+2002,Myanmar,3.13
+2002,Namibia,5.95
+2002,Nepal,6.05
+2002,Netherlands,7.91
+2002,New Zealand,8.78
+2002,Nicaragua,6.89
+2002,Niger,5.27
+2002,Nigeria,5.19
+2002,North Macedonia,6.81
+2002,Norway,7.84
+2002,Oman,6.86
+2002,Pakistan,5.53
+2002,Panama,7.72
+2002,Papua New Guinea,5.8
+2002,Paraguay,6.77
+2002,Peru,7.61
+2002,Philippines,7.01
+2002,Poland,6.83
+2002,Portugal,7.63
+2002,Qatar,4.67
+2002,Romania,6.23
+2002,Russian Federation,4.96
+2002,Rwanda,5.81
+2002,Saudi Arabia,5.63
+2002,Senegal,5.9
+2002,Serbia,4.02
+2002,Seychelles,6.29
+2002,Sierra Leone,4.88
+2002,Singapore,8.7
+2002,Slovak Republic,6.97
+2002,Slovenia,6.92
+2002,South Africa,6.77
+2002,Spain,7.93
+2002,Sri Lanka,6.32
+2002,Sudan,5.1
+2002,Sweden,7.89
+2002,Switzerland,8.81
+2002,Syrian Arab Republic,4.62
+2002,Taiwan,7.49
+2002,Tajikistan,4.74
+2002,Tanzania,6.24
+2002,Thailand,6.83
+2002,Timor-Leste,3.53
+2002,Togo,5.76
+2002,Trinidad and Tobago,7.11
+2002,Tunisia,6.13
+2002,Türkiye,5.79
+2002,Uganda,6.62
+2002,Ukraine,5.36
+2002,United Arab Emirates,6.96
+2002,United Kingdom,8.54
+2002,United States,8.67
+2002,Uruguay,6.99
+2002,"Venezuela, RB",4.23
+2002,Vietnam,6.01
+2002,"Yemen, Rep.",3.71
+2002,Zambia,5.98
+2002,Zimbabwe,3.39
+2001,Albania,6.56
+2001,Algeria,4.76
+2001,Angola,3.9
+2001,Argentina,6.92
+2001,Armenia,6.54
+2001,Australia,8.27
+2001,Austria,7.91
+2001,Azerbaijan,5.79
+2001,"Bahamas, The",6.86
+2001,Bahrain,7.27
+2001,Bangladesh,5.68
+2001,Barbados,6.35
+2001,Belarus,4.12
+2001,Belgium,7.67
+2001,Belize,5.7
+2001,Benin,5.7
+2001,Bhutan,6.59
+2001,Bolivia,6.46
+2001,Bosnia and Herzegovina,5.5
+2001,Botswana,6.22
+2001,Brazil,5.63
+2001,Bulgaria,6.18
+2001,Burkina Faso,5.07
+2001,Burundi,5.25
+2001,Cabo Verde,6.64
+2001,Cambodia,4.94
+2001,Cameroon,5.38
+2001,Canada,8.21
+2001,Central African Republic,5.03
+2001,Chad,5.21
+2001,Chile,7.79
+2001,China,5.63
+2001,Colombia,6.08
+2001,"Congo, Dem. Rep.",3.48
+2001,"Congo, Rep.",4.5
+2001,Costa Rica,7.1
+2001,Côte d'Ivoire,5.8
+2001,Croatia,6.11
+2001,Cyprus,6.87
+2001,Czechia,7.29
+2001,Denmark,8.11
+2001,Dominican Republic,6.63
+2001,Ecuador,5.71
+2001,"Egypt, Arab Rep.",5.93
+2001,El Salvador,7.52
+2001,Estonia,7.89
+2001,Eswatini,4.36
+2001,Ethiopia,4.67
+2001,Fiji,5.99
+2001,Finland,8.22
+2001,France,7.6
+2001,Gabon,4.96
+2001,"Gambia, The",5.02
+2001,Georgia,7
+2001,Germany,8.02
+2001,Ghana,5.48
+2001,Greece,7.05
+2001,Guatemala,6.9
+2001,Guinea,5.48
+2001,Guinea-Bissau,4.56
+2001,Guyana,6.03
+2001,Haiti,6.3
+2001,Honduras,6.53
+2001,"Hong Kong SAR, China",8.94
+2001,Hungary,7.31
+2001,Iceland,7.98
+2001,India,6.06
+2001,Indonesia,5.68
+2001,"Iran, Islamic Rep.",5.58
+2001,Ireland,8.07
+2001,Israel,6.98
+2001,Italy,7.62
+2001,Jamaica,7.34
+2001,Japan,8
+2001,Jordan,6.83
+2001,Kazakhstan,6.06
+2001,Kenya,6.1
+2001,"Korea, Rep.",7.15
+2001,Kuwait,6.94
+2001,Kyrgyz Republic,5.61
+2001,Lao PDR,2.73
+2001,Latvia,7.61
+2001,Lebanon,3.38
+2001,Lesotho,4.09
+2001,Liberia,3.61
+2001,Lithuania,7.24
+2001,Luxembourg,8.35
+2001,Madagascar,5.86
+2001,Malawi,4.59
+2001,Malaysia,6.14
+2001,Mali,5.56
+2001,Malta,7.1
+2001,Mauritania,4.43
+2001,Mauritius,7.29
+2001,Mexico,6.67
+2001,Moldova,5.47
+2001,Mongolia,6.36
+2001,Montenegro,5.75
+2001,Morocco,5.87
+2001,Mozambique,4.96
+2001,Myanmar,3.35
+2001,Namibia,5.88
+2001,Nepal,6.01
+2001,Netherlands,7.93
+2001,New Zealand,8.74
+2001,Nicaragua,6.5
+2001,Niger,5.18
+2001,Nigeria,4.67
+2001,North Macedonia,6.45
+2001,Norway,7.88
+2001,Oman,6.78
+2001,Pakistan,5.19
+2001,Panama,7.73
+2001,Papua New Guinea,5.8
+2001,Paraguay,6.91
+2001,Peru,7.53
+2001,Philippines,6.87
+2001,Poland,6.56
+2001,Portugal,7.58
+2001,Qatar,4.52
+2001,Romania,5.76
+2001,Russian Federation,4.69
+2001,Rwanda,5.6
+2001,Saudi Arabia,5.55
+2001,Senegal,5.79
+2001,Seychelles,5.51
+2001,Sierra Leone,4.65
+2001,Singapore,8.61
+2001,Slovak Republic,6.95
+2001,Slovenia,6.88
+2001,South Africa,6.87
+2001,Spain,7.91
+2001,Sri Lanka,6.23
+2001,Sudan,4.94
+2001,Sweden,7.86
+2001,Switzerland,8.79
+2001,Syrian Arab Republic,4.66
+2001,Taiwan,7.33
+2001,Tajikistan,4.97
+2001,Tanzania,6.22
+2001,Thailand,6.78
+2001,Timor-Leste,3.36
+2001,Togo,5.57
+2001,Trinidad and Tobago,7.11
+2001,Tunisia,6.35
+2001,Türkiye,5.56
+2001,Uganda,6.57
+2001,Ukraine,4.84
+2001,United Arab Emirates,6.71
+2001,United Kingdom,8.5
+2001,United States,8.67
+2001,Uruguay,7.05
+2001,"Venezuela, RB",5.66
+2001,Vietnam,6.12
+2001,"Yemen, Rep.",3.46
+2001,Zambia,6.1
+2001,Zimbabwe,3.86
+2000,Albania,6.47
+2000,Algeria,4.84
+2000,Angola,3.86
+2000,Argentina,7.22
+2000,Armenia,5.47
+2000,Australia,8.35
+2000,Austria,8.01
+2000,Azerbaijan,5.75
+2000,"Bahamas, The",6.77
+2000,Bahrain,7.34
+2000,Bangladesh,5.86
+2000,Barbados,6.47
+2000,Belarus,4.12
+2000,Belgium,7.82
+2000,Belize,5.78
+2000,Benin,5.64
+2000,Bhutan,6.37
+2000,Bolivia,6.61
+2000,Bosnia and Herzegovina,4.64
+2000,Botswana,6.31
+2000,Brazil,5.69
+2000,Bulgaria,5.53
+2000,Burkina Faso,4.8
+2000,Burundi,4.86
+2000,Cabo Verde,6.07
+2000,Cambodia,5.09
+2000,Cameroon,5.32
+2000,Canada,8.37
+2000,Central African Republic,4.84
+2000,Chad,5.46
+2000,Chile,7.72
+2000,China,5.58
+2000,Colombia,5.91
+2000,"Congo, Dem. Rep.",3.45
+2000,"Congo, Rep.",4.28
+2000,Costa Rica,7.59
+2000,Côte d'Ivoire,5.74
+2000,Croatia,5.92
+2000,Cyprus,6.79
+2000,Czechia,7.11
+2000,Denmark,8.26
+2000,Dominican Republic,6.51
+2000,Ecuador,5.92
+2000,"Egypt, Arab Rep.",5.97
+2000,El Salvador,7.74
+2000,Estonia,7.82
+2000,Eswatini,4.34
+2000,Ethiopia,4.8
+2000,Fiji,6.16
+2000,Finland,8.27
+2000,France,7.68
+2000,Gabon,5.09
+2000,"Gambia, The",5.37
+2000,Georgia,6.53
+2000,Germany,8.14
+2000,Ghana,5.38
+2000,Greece,7.17
+2000,Guatemala,6.76
+2000,Guinea,5.46
+2000,Guinea-Bissau,4.03
+2000,Guyana,6.18
+2000,Haiti,6.32
+2000,Honduras,6.46
+2000,"Hong Kong SAR, China",8.9
+2000,Hungary,6.92
+2000,Iceland,8.13
+2000,India,6.1
+2000,Indonesia,5.99
+2000,"Iran, Islamic Rep.",5.16
+2000,Ireland,8.16
+2000,Israel,6.85
+2000,Italy,7.66
+2000,Jamaica,7.39
+2000,Japan,8.17
+2000,Jordan,6.93
+2000,Kazakhstan,5.98
+2000,Kenya,6.01
+2000,"Korea, Rep.",7.04
+2000,Kuwait,6.68
+2000,Kyrgyz Republic,5.03
+2000,Lao PDR,3.21
+2000,Latvia,7.48
+2000,Lebanon,3.36
+2000,Lesotho,3.84
+2000,Liberia,3.56
+2000,Lithuania,7.12
+2000,Luxembourg,8.31
+2000,Madagascar,5.42
+2000,Malawi,4.39
+2000,Malaysia,6.53
+2000,Mali,5.83
+2000,Malta,7.14
+2000,Mauritania,4.59
+2000,Mauritius,7.4
+2000,Mexico,6.6
+2000,Moldova,5.46
+2000,Mongolia,6.19
+2000,Montenegro,6.02
+2000,Morocco,5.77
+2000,Mozambique,4.74
+2000,Myanmar,3.56
+2000,Namibia,5.93
+2000,Nepal,5.76
+2000,Netherlands,8.09
+2000,New Zealand,8.85
+2000,Nicaragua,6.56
+2000,Niger,5.51
+2000,Nigeria,4.77
+2000,North Macedonia,6.67
+2000,Norway,7.96
+2000,Oman,6.76
+2000,Pakistan,5.01
+2000,Panama,7.64
+2000,Papua New Guinea,5.68
+2000,Paraguay,6.82
+2000,Peru,7.32
+2000,Philippines,6.92
+2000,Poland,6.52
+2000,Portugal,7.71
+2000,Qatar,4.28
+2000,Romania,5.38
+2000,Russian Federation,4.89
+2000,Rwanda,5.4
+2000,Saudi Arabia,5.59
+2000,Senegal,5.85
+2000,Seychelles,5.69
+2000,Sierra Leone,4.7
+2000,Singapore,8.68
+2000,Slovak Republic,6.85
+2000,Slovenia,6.64
+2000,South Africa,6.86
+2000,Spain,7.96
+2000,Sri Lanka,6.47
+2000,Sudan,4.86
+2000,Sweden,8.08
+2000,Switzerland,8.89
+2000,Syrian Arab Republic,4.26
+2000,Taiwan,7.44
+2000,Tajikistan,4.71
+2000,Tanzania,6.21
+2000,Thailand,6.77
+2000,Timor-Leste,3.38
+2000,Togo,5.51
+2000,Trinidad and Tobago,7.14
+2000,Tunisia,6.27
+2000,Türkiye,5.76
+2000,Uganda,6.56
+2000,Ukraine,4.45
+2000,United Arab Emirates,6.58
+2000,United Kingdom,8.59
+2000,United States,8.83
+2000,Uruguay,7.1
+2000,"Venezuela, RB",5.34
+2000,Vietnam,6.12
+2000,"Yemen, Rep.",3.27
+2000,Zambia,6.11
+2000,Zimbabwe,4.2
+1995,Albania,5.46
+1995,Algeria,3.81
+1995,Argentina,6.79
+1995,Australia,8.27
+1995,Austria,7.53
+1995,"Bahamas, The",6.78
+1995,Bahrain,6.68
+1995,Bangladesh,4.77
+1995,Barbados,7.01
+1995,Belgium,7.8
+1995,Belize,6.23
+1995,Benin,5.11
+1995,Bolivia,6.71
+1995,Botswana,6.31
+1995,Brazil,4.35
+1995,Bulgaria,5.14
+1995,Burundi,4.18
+1995,Cameroon,4.98
+1995,Canada,8.15
+1995,Central African Republic,4.54
+1995,Chad,5.23
+1995,Chile,7.44
+1995,China,4.95
+1995,Colombia,6
+1995,"Congo, Dem. Rep.",3.05
+1995,"Congo, Rep.",5.04
+1995,Costa Rica,8.03
+1995,Côte d'Ivoire,4.92
+1995,Croatia,4.62
+1995,Cyprus,6.81
+1995,Czechia,6.5
+1995,Denmark,7.89
+1995,Dominican Republic,5.71
+1995,Ecuador,6.6
+1995,"Egypt, Arab Rep.",5.25
+1995,El Salvador,6.98
+1995,Estonia,6.32
+1995,Fiji,6.42
+1995,Finland,7.69
+1995,France,7.32
+1995,Gabon,5.31
+1995,Germany,8.03
+1995,Ghana,5.02
+1995,Greece,6.49
+1995,Guatemala,7.28
+1995,Guinea-Bissau,3.37
+1995,Guyana,5.29
+1995,Haiti,6.05
+1995,Honduras,6.31
+1995,"Hong Kong SAR, China",9.23
+1995,Hungary,6.57
+1995,Iceland,7.84
+1995,India,5.5
+1995,Indonesia,6.32
+1995,"Iran, Islamic Rep.",4.19
+1995,Ireland,7.88
+1995,Israel,6.25
+1995,Italy,7.07
+1995,Jamaica,6.96
+1995,Japan,8.06
+1995,Jordan,5.97
+1995,Kenya,5.67
+1995,"Korea, Rep.",7.17
+1995,Kuwait,6.49
+1995,Latvia,6.38
+1995,Lithuania,6.06
+1995,Luxembourg,8.14
+1995,Madagascar,4.13
+1995,Malawi,4.3
+1995,Malaysia,7.07
+1995,Mali,5.73
+1995,Malta,7.22
+1995,Mauritius,7.29
+1995,Mexico,6.69
+1995,Morocco,5.75
+1995,Myanmar,2.12
+1995,Namibia,5.99
+1995,Nepal,5.52
+1995,Netherlands,8.06
+1995,New Zealand,8.67
+1995,Nicaragua,6.09
+1995,Niger,4.84
+1995,Nigeria,3.22
+1995,Norway,7.91
+1995,Oman,6.53
+1995,Pakistan,4.84
+1995,Panama,7.91
+1995,Papua New Guinea,5.89
+1995,Paraguay,7.3
+1995,Peru,6
+1995,Philippines,7.06
+1995,Poland,5.88
+1995,Portugal,7.31
+1995,Romania,4.36
+1995,Russian Federation,4.77
+1995,Rwanda,3.91
+1995,Senegal,5.24
+1995,Sierra Leone,3.74
+1995,Singapore,8.6
+1995,Slovak Republic,6.21
+1995,Slovenia,6.26
+1995,South Africa,6.76
+1995,Spain,7.4
+1995,Sri Lanka,6.31
+1995,Sweden,7.63
+1995,Switzerland,8.55
+1995,Syrian Arab Republic,3.46
+1995,Taiwan,7.2
+1995,Tanzania,5.74
+1995,Thailand,7.38
+1995,Togo,4.92
+1995,Trinidad and Tobago,7.07
+1995,Tunisia,5.55
+1995,Türkiye,5.71
+1995,Uganda,5.35
+1995,Ukraine,3.46
+1995,United Arab Emirates,6.9
+1995,United Kingdom,8.19
+1995,United States,8.8
+1995,Uruguay,6.8
+1995,"Venezuela, RB",4.83
+1995,Zambia,5
+1995,Zimbabwe,5.98
+1990,Albania,4.95
+1990,Algeria,3.53
+1990,Argentina,4.58
+1990,Australia,8.39
+1990,Austria,7.57
+1990,"Bahamas, The",6.66
+1990,Bahrain,6.61
+1990,Bangladesh,4.06
+1990,Barbados,6.48
+1990,Belgium,7.77
+1990,Benin,5.54
+1990,Bolivia,5.81
+1990,Botswana,5.99
+1990,Brazil,4.18
+1990,Bulgaria,4.7
+1990,Burundi,4.86
+1990,Cameroon,5.13
+1990,Canada,8.3
+1990,Central African Republic,4.76
+1990,Chad,5.34
+1990,Chile,6.92
+1990,China,4.05
+1990,Colombia,5.23
+1990,"Congo, Dem. Rep.",2.74
+1990,"Congo, Rep.",4.52
+1990,Costa Rica,7.62
+1990,Côte d'Ivoire,5.16
+1990,Cyprus,6.17
+1990,Denmark,7.98
+1990,Dominican Republic,4.05
+1990,Ecuador,5.67
+1990,"Egypt, Arab Rep.",4.29
+1990,El Salvador,5.28
+1990,Estonia,4.98
+1990,Fiji,5.6
+1990,Finland,7.71
+1990,France,7.37
+1990,Gabon,5.54
+1990,Germany,8.24
+1990,Ghana,4.17
+1990,Greece,6.26
+1990,Guatemala,6.13
+1990,Guinea-Bissau,3
+1990,Guyana,4.13
+1990,Haiti,4.99
+1990,Honduras,5.95
+1990,"Hong Kong SAR, China",9.19
+1990,Hungary,5.41
+1990,Iceland,7.16
+1990,India,4.92
+1990,Indonesia,5.81
+1990,"Iran, Islamic Rep.",4.71
+1990,Ireland,7.12
+1990,Israel,5.49
+1990,Italy,7.05
+1990,Jamaica,6.16
+1990,Japan,8.22
+1990,Jordan,5.2
+1990,Kenya,5.09
+1990,"Korea, Rep.",6.78
+1990,Kuwait,5.82
+1990,Latvia,6.26
+1990,Lithuania,5.9
+1990,Luxembourg,8.21
+1990,Madagascar,4.4
+1990,Malawi,5.06
+1990,Malaysia,6.92
+1990,Mali,5.86
+1990,Malta,5.93
+1990,Mauritius,6.49
+1990,Mexico,5.91
+1990,Morocco,5.31
+1990,Myanmar,1.83
+1990,Namibia,5.54
+1990,Nepal,4.81
+1990,Netherlands,8.02
+1990,New Zealand,8.32
+1990,Nicaragua,3.05
+1990,Niger,5.23
+1990,Nigeria,3.49
+1990,Norway,7.74
+1990,Oman,6.65
+1990,Pakistan,4.57
+1990,Panama,7.37
+1990,Papua New Guinea,6.13
+1990,Paraguay,5.67
+1990,Peru,4.02
+1990,Philippines,5.96
+1990,Poland,4.61
+1990,Portugal,6.64
+1990,Romania,4.67
+1990,Russian Federation,3.55
+1990,Rwanda,4.65
+1990,Senegal,5.4
+1990,Sierra Leone,2.87
+1990,Singapore,8.58
+1990,South Africa,5.63
+1990,Spain,6.82
+1990,Sri Lanka,5.76
+1990,Sweden,7.57
+1990,Switzerland,8.72
+1990,Syrian Arab Republic,3
+1990,Taiwan,6.85
+1990,Tanzania,4.08
+1990,Thailand,6.43
+1990,Togo,5.39
+1990,Trinidad and Tobago,5.78
+1990,Tunisia,5.4
+1990,Türkiye,5.15
+1990,Uganda,3
+1990,United Arab Emirates,7.09
+1990,United Kingdom,8.3
+1990,United States,8.68
+1990,Uruguay,6.9
+1990,"Venezuela, RB",5.6
+1990,Zambia,3.35
+1990,Zimbabwe,4.98
+1985,Albania,5.34
+1985,Algeria,3.44
+1985,Argentina,3.65
+1985,Australia,8.26
+1985,Austria,7.19
+1985,"Bahamas, The",6.58
+1985,Bahrain,6.8
+1985,Bangladesh,3.49
+1985,Barbados,6.54
+1985,Belgium,7.68
+1985,Benin,4.52
+1985,Bolivia,4.11
+1985,Botswana,5.61
+1985,Brazil,3.01
+1985,Bulgaria,4.83
+1985,Burundi,4.83
+1985,Cameroon,5.05
+1985,Canada,8.25
+1985,Central African Republic,4.66
+1985,Chad,5.39
+1985,Chile,5.3
+1985,China,4.2
+1985,Colombia,5.52
+1985,"Congo, Dem. Rep.",3.1
+1985,"Congo, Rep.",3.76
+1985,Costa Rica,6.07
+1985,Côte d'Ivoire,5.54
+1985,Cyprus,6.05
+1985,Denmark,7.13
+1985,Dominican Republic,5.09
+1985,Ecuador,4.89
+1985,"Egypt, Arab Rep.",4.19
+1985,El Salvador,4.42
+1985,Fiji,6.19
+1985,Finland,7.46
+1985,France,6.43
+1985,Gabon,5.1
+1985,Germany,8.11
+1985,Ghana,2.74
+1985,Greece,5.46
+1985,Guatemala,4.92
+1985,Guinea-Bissau,3.29
+1985,Guyana,4.37
+1985,Haiti,5.27
+1985,Honduras,5.84
+1985,"Hong Kong SAR, China",9.28
+1985,Hungary,4.68
+1985,Iceland,5.73
+1985,India,4.81
+1985,Indonesia,5.72
+1985,"Iran, Islamic Rep.",4.16
+1985,Ireland,6.93
+1985,Israel,4.48
+1985,Italy,5.97
+1985,Jamaica,5.32
+1985,Japan,7.84
+1985,Jordan,5.82
+1985,Kenya,4.81
+1985,"Korea, Rep.",5.73
+1985,Kuwait,6.05
+1985,Luxembourg,8.9
+1985,Madagascar,4.16
+1985,Malawi,4.9
+1985,Malaysia,6.79
+1985,Mali,5.49
+1985,Malta,5.33
+1985,Mauritius,6.61
+1985,Mexico,4.65
+1985,Morocco,5.01
+1985,Myanmar,2.62
+1985,Namibia,4.91
+1985,Nepal,4.58
+1985,Netherlands,7.78
+1985,New Zealand,7.16
+1985,Nicaragua,2.09
+1985,Niger,5.88
+1985,Nigeria,4.13
+1985,Norway,7.3
+1985,Oman,6.71
+1985,Pakistan,4.52
+1985,Panama,6.54
+1985,Papua New Guinea,6.11
+1985,Paraguay,5.03
+1985,Peru,3.18
+1985,Philippines,4.44
+1985,Poland,3.8
+1985,Portugal,6.05
+1985,Romania,5.36
+1985,Russian Federation,3.52
+1985,Rwanda,5.17
+1985,Senegal,5.38
+1985,Sierra Leone,3.18
+1985,Singapore,7.94
+1985,South Africa,5.42
+1985,Spain,6.54
+1985,Sri Lanka,5.53
+1985,Sweden,7.43
+1985,Switzerland,8.59
+1985,Syrian Arab Republic,2.71
+1985,Taiwan,6.35
+1985,Tanzania,3.8
+1985,Thailand,5.7
+1985,Togo,5.29
+1985,Trinidad and Tobago,5.52
+1985,Tunisia,5.33
+1985,Türkiye,4.66
+1985,Uganda,2.26
+1985,United Arab Emirates,6.49
+1985,United Kingdom,8.23
+1985,United States,8.5
+1985,Uruguay,6.39
+1985,"Venezuela, RB",5.99
+1985,Zambia,3.98
+1985,Zimbabwe,4.73
+1980,Algeria,3.21
+1980,Argentina,4.16
+1980,Australia,7.92
+1980,Austria,7.16
+1980,"Bahamas, The",6.44
+1980,Bahrain,6.97
+1980,Bangladesh,3.1
+1980,Barbados,6.23
+1980,Belgium,7.62
+1980,Benin,4.55
+1980,Bolivia,4.31
+1980,Botswana,5.77
+1980,Brazil,3.92
+1980,Burundi,4.13
+1980,Cameroon,4.54
+1980,Canada,8.16
+1980,Central African Republic,4.32
+1980,Chad,4.67
+1980,Chile,4.87
+1980,China,4.03
+1980,Colombia,5.08
+1980,"Congo, Dem. Rep.",2.47
+1980,"Congo, Rep.",3.75
+1980,Costa Rica,6.14
+1980,Côte d'Ivoire,5.04
+1980,Cyprus,5.61
+1980,Denmark,6.97
+1980,Dominican Republic,5.3
+1980,Ecuador,5.97
+1980,"Egypt, Arab Rep.",4.44
+1980,El Salvador,4.33
+1980,Fiji,5.78
+1980,Finland,7.4
+1980,France,6.59
+1980,Gabon,4.31
+1980,Germany,8.01
+1980,Ghana,2.75
+1980,Greece,5.81
+1980,Guatemala,5.7
+1980,Guyana,4.43
+1980,Haiti,4.93
+1980,Honduras,5.2
+1980,"Hong Kong SAR, China",9.16
+1980,Hungary,4.69
+1980,Iceland,5.79
+1980,India,4.88
+1980,Indonesia,4.78
+1980,"Iran, Islamic Rep.",4.24
+1980,Ireland,6.7
+1980,Israel,4.26
+1980,Italy,5.7
+1980,Jamaica,4.69
+1980,Japan,7.42
+1980,Jordan,5.62
+1980,Kenya,4.4
+1980,"Korea, Rep.",5.21
+1980,Kuwait,4.5
+1980,Luxembourg,8.76
+1980,Madagascar,3.76
+1980,Malawi,4.41
+1980,Malaysia,6.81
+1980,Mali,5.49
+1980,Malta,5.21
+1980,Mauritius,5.15
+1980,Mexico,5.38
+1980,Morocco,4.74
+1980,Myanmar,2.63
+1980,Nepal,4.68
+1980,Netherlands,7.73
+1980,New Zealand,6.81
+1980,Nicaragua,3.93
+1980,Niger,5.62
+1980,Nigeria,3.25
+1980,Norway,6.95
+1980,Oman,5.23
+1980,Pakistan,4.09
+1980,Panama,5.77
+1980,Papua New Guinea,5.43
+1980,Paraguay,5.89
+1980,Peru,3.61
+1980,Philippines,4.86
+1980,Poland,5.04
+1980,Portugal,6
+1980,Romania,4.95
+1980,Russian Federation,2.88
+1980,Rwanda,4.32
+1980,Senegal,5.44
+1980,Sierra Leone,4.15
+1980,Singapore,7.45
+1980,South Africa,5.38
+1980,Spain,6.39
+1980,Sri Lanka,5.22
+1980,Sweden,7.01
+1980,Switzerland,8.26
+1980,Syrian Arab Republic,3.46
+1980,Taiwan,5.76
+1980,Tanzania,4.28
+1980,Thailand,5.42
+1980,Togo,4.3
+1980,Trinidad and Tobago,5.44
+1980,Tunisia,5.26
+1980,Türkiye,3.54
+1980,Uganda,3.07
+1980,United Arab Emirates,6.56
+1980,United Kingdom,7.23
+1980,United States,8.34
+1980,Uruguay,5.56
+1980,"Venezuela, RB",6.62
+1980,Zambia,4.71
+1980,Zimbabwe,4.86
+1975,Algeria,3.61
+1975,Argentina,3.53
+1975,Australia,7.47
+1975,Austria,6.77
+1975,Bahrain,5.78
+1975,Bangladesh,2.95
+1975,Barbados,6.29
+1975,Belgium,7.2
+1975,Benin,4.71
+1975,Bolivia,4.8
+1975,Botswana,5.29
+1975,Brazil,3.96
+1975,Burundi,3.84
+1975,Cameroon,4.73
+1975,Canada,7.88
+1975,Central African Republic,3.88
+1975,Chad,4.93
+1975,Chile,3.68
+1975,Colombia,5.11
+1975,"Congo, Dem. Rep.",3.23
+1975,"Congo, Rep.",3.94
+1975,Costa Rica,7.01
+1975,Côte d'Ivoire,4.75
+1975,Cyprus,5.77
+1975,Denmark,6.85
+1975,Dominican Republic,4.37
+1975,Ecuador,5.28
+1975,"Egypt, Arab Rep.",4.1
+1975,El Salvador,5.3
+1975,Fiji,5.42
+1975,Finland,7.13
+1975,France,6.55
+1975,Gabon,3.59
+1975,Germany,7.78
+1975,Ghana,3.35
+1975,Greece,5.63
+1975,Guatemala,6.06
+1975,Guyana,4.92
+1975,Haiti,5.27
+1975,Honduras,6.36
+1975,"Hong Kong SAR, China",9.11
+1975,Hungary,4.93
+1975,Iceland,5.49
+1975,India,4.41
+1975,Indonesia,4.78
+1975,"Iran, Islamic Rep.",6.12
+1975,Ireland,6.37
+1975,Israel,4.44
+1975,Italy,5.75
+1975,Jamaica,5.35
+1975,Japan,7.18
+1975,Jordan,5.11
+1975,Kenya,4.82
+1975,"Korea, Rep.",5.42
+1975,Kuwait,5.16
+1975,Luxembourg,8.7
+1975,Madagascar,4.48
+1975,Malawi,4.59
+1975,Malaysia,6.58
+1975,Mali,4.8
+1975,Malta,5.51
+1975,Mauritius,5.27
+1975,Mexico,6.57
+1975,Morocco,4.95
+1975,Myanmar,2.1
+1975,Nepal,3.94
+1975,Netherlands,7.49
+1975,New Zealand,6.48
+1975,Nicaragua,6.27
+1975,Niger,5.85
+1975,Nigeria,3.21
+1975,Norway,7.11
+1975,Oman,5.35
+1975,Pakistan,3.62
+1975,Panama,6.27
+1975,Papua New Guinea,5.07
+1975,Paraguay,5.65
+1975,Peru,4.22
+1975,Philippines,4.5
+1975,Poland,5.25
+1975,Portugal,4.74
+1975,Russian Federation,2.88
+1975,Rwanda,3.45
+1975,Senegal,5.55
+1975,Sierra Leone,4.48
+1975,Singapore,7.2
+1975,South Africa,5.69
+1975,Spain,5.68
+1975,Sri Lanka,5.01
+1975,Sweden,7.04
+1975,Switzerland,7.67
+1975,Syrian Arab Republic,4.18
+1975,Taiwan,5.45
+1975,Tanzania,3.92
+1975,Thailand,5.85
+1975,Togo,4.38
+1975,Trinidad and Tobago,5.18
+1975,Tunisia,5.38
+1975,Türkiye,4.53
+1975,Uganda,2.79
+1975,United Arab Emirates,6.44
+1975,United Kingdom,6.31
+1975,United States,8.09
+1975,Uruguay,5.08
+1975,"Venezuela, RB",6.49
+1975,Zambia,4.23
+1975,Zimbabwe,4.21
+1970,Algeria,4.06
+1970,Argentina,5.65
+1970,Australia,7.89
+1970,Austria,6.83
+1970,Barbados,7.95
+1970,Belgium,7.75
+1970,Benin,5.32
+1970,Bolivia,4.94
+1970,Botswana,7.44
+1970,Brazil,4.83
+1970,Burundi,5.38
+1970,Cameroon,4.38
+1970,Canada,8.1
+1970,Central African Republic,3.98
+1970,Chile,4.78
+1970,Colombia,5.3
+1970,"Congo, Dem. Rep.",3.79
+1970,"Congo, Rep.",4.2
+1970,Costa Rica,7.95
+1970,Cyprus,5.68
+1970,Denmark,7.08
+1970,Dominican Republic,5.3
+1970,Ecuador,4.88
+1970,"Egypt, Arab Rep.",4.88
+1970,El Salvador,5.69
+1970,Fiji,6.48
+1970,Finland,7.78
+1970,France,6.6
+1970,Gabon,4.21
+1970,Germany,8.02
+1970,Ghana,4.2
+1970,Greece,5.72
+1970,Guatemala,5.81
+1970,Guyana,6.07
+1970,Haiti,5.74
+1970,Honduras,6.24
+1970,"Hong Kong SAR, China",8.81
+1970,Hungary,4.65
+1970,Iceland,6.74
+1970,India,5.64
+1970,Indonesia,4.37
+1970,"Iran, Islamic Rep.",5.92
+1970,Ireland,6.82
+1970,Israel,4.97
+1970,Italy,6.41
+1970,Jamaica,6.18
+1970,Japan,7.32
+1970,Jordan,5.19
+1970,Kenya,4.81
+1970,"Korea, Rep.",5.9
+1970,Kuwait,6.67
+1970,Luxembourg,8.12
+1970,Madagascar,5.84
+1970,Malawi,5.58
+1970,Malaysia,6.65
+1970,Mali,5.65
+1970,Malta,5.95
+1970,Mauritius,6.87
+1970,Mexico,6.8
+1970,Morocco,5.2
+1970,Myanmar,2.97
+1970,Nepal,2.89
+1970,Netherlands,7.78
+1970,New Zealand,6.88
+1970,Nicaragua,6.19
+1970,Niger,6.28
+1970,Nigeria,3.36
+1970,Norway,7.26
+1970,Pakistan,4.79
+1970,Panama,6.82
+1970,Papua New Guinea,6.95
+1970,Paraguay,6.11
+1970,Peru,5.25
+1970,Philippines,4.92
+1970,Portugal,5.51
+1970,Rwanda,5.24
+1970,Senegal,4.96
+1970,Singapore,7.15
+1970,South Africa,6.04
+1970,Spain,5.81
+1970,Sri Lanka,4.76
+1970,Sweden,6.71
+1970,Switzerland,7.91
+1970,Syrian Arab Republic,4.14
+1970,Taiwan,5.65
+1970,Tanzania,4.52
+1970,Thailand,5.92
+1970,Trinidad and Tobago,7.14
+1970,Tunisia,5.32
+1970,Türkiye,4.49
+1970,Uganda,3.81
+1970,United Kingdom,6.33
+1970,United States,7.89
+1970,Uruguay,6.62
+1970,"Venezuela, RB",7.28
+1970,Zambia,5.28
