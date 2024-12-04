@@ -1,0 +1,106 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "vconcat": [
+      {
+        "data": {
+          "url": "https://api.beta.ons.gov.uk/v1/data?uri=/economy/grossdomesticproductgdp/timeseries/ybeu/pn2",
+          "format": {
+            "type": "json",
+            "property": "years"
+          }
+        },
+        "mark": "line",
+        "width": 800,
+        "encoding": {
+          "x": {
+            "field": "year",
+            "type": "temporal",
+            "title": "Year"
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "Gross Domestic Product Index (in millions)"
+          }
+        },
+        "title": "Gross Domestic Product Index"
+      },
+      {
+        "hconcat": [
+          {
+            "data": {
+              "url": "https://api.beta.ons.gov.uk/v1/data?uri=/economy/governmentpublicsectorandtaxes/researchanddevelopmentexpenditure/timeseries/dmsr/gerd",
+              "format": {
+                "type": "json",
+                "property": "years"
+              }
+            },
+            "mark": "line",
+            "width": 220,
+            "encoding": {
+              "x": {
+                "field": "year",
+                "type": "temporal",
+                "title": "Year"
+              },
+              "y": {
+                "field": "value",
+                "type": "quantitative",
+                "title": "R&D Funded by R&I (in millions)"
+              }
+            },
+            "title": "R&D Funded by R&I"
+          },
+          {
+            "data": {
+              "url": "https://api.beta.ons.gov.uk/v1/data?uri=/economy/nationalaccounts/uksectoraccounts/timeseries/n39u/capstk",
+              "format": {
+                "type": "json",
+                "property": "years"
+              }
+            },
+            "mark": "line",
+            "width": 220,
+            "encoding": {
+              "x": {
+                "field": "year",
+                "type": "temporal",
+                "title": "Year"
+              },
+              "y": {
+                "field": "value",
+                "type": "quantitative",
+                "title": "R&D Capital Consumption (in millions)"
+              }
+            },
+            "title": "R&D Capital Consumption"
+          },
+          {
+            "data": {
+              "url": "https://api.beta.ons.gov.uk/v1/data?uri=/economy/governmentpublicsectorandtaxes/publicspending/timeseries/gcsq/bb",
+              "format": {
+                "type": "json",
+                "property": "years"
+              }
+            },
+            "mark": "line",
+            "width": 220,
+            "encoding": {
+              "x": {
+                "field": "year",
+                "type": "temporal",
+                "title": "Year"
+              },
+              "y": {
+                "field": "value",
+                "type": "quantitative",
+                "title": "Regulator Fees on Production (in millions)"
+              }
+            },
+            "title": "Regulator Fees on Production"
+          }
+        ]
+      }
+    ]
+  }
+  
