@@ -1,0 +1,705 @@
+Year,Office,Value
+1980,Argentina,711.0
+1980,Australia,2749.0
+1980,Brazil,1416.0
+1980,Canada,4427.0
+1980,China,0.0
+1980,France,6224.0
+1980,Germany,9602.0
+1980,India,0.0
+1980,Indonesia,0.0
+1980,Italy,3956.0
+1980,Japan,35573.0
+1980,Mexico,0.0
+1980,Saudi Arabia,0.0
+1980,South Africa,936.0
+1980,United Kingdom,9627.0
+1980,United States of America,11410.0
+1981,Argentina,602.0
+1981,Australia,2240.0
+1981,Brazil,1304.0
+1981,Canada,4160.0
+1981,China,0.0
+1981,France,5555.0
+1981,Germany,7845.0
+1981,India,0.0
+1981,Indonesia,0.0
+1981,Italy,3304.0
+1981,Japan,35105.0
+1981,Mexico,458.0
+1981,Saudi Arabia,0.0
+1981,South Africa,977.0
+1981,United Kingdom,9712.0
+1981,United States of America,12224.0
+1982,Argentina,519.0
+1982,Australia,2356.0
+1982,Brazil,1265.0
+1982,Canada,4315.0
+1982,China,0.0
+1982,France,4535.0
+1982,Germany,8983.0
+1982,India,0.0
+1982,Indonesia,0.0
+1982,Italy,3040.0
+1982,Japan,43823.0
+1982,Mexico,523.0
+1982,Saudi Arabia,0.0
+1982,South Africa,1318.0
+1982,United Kingdom,4158.0
+1982,United States of America,11286.0
+1983,Argentina,369.0
+1983,Australia,2364.0
+1983,Brazil,1432.0
+1983,Canada,3907.0
+1983,China,0.0
+1983,France,4054.0
+1983,Germany,8059.0
+1983,India,0.0
+1983,Indonesia,0.0
+1983,Italy,2113.0
+1983,Japan,46683.0
+1983,Mexico,420.0
+1983,Saudi Arabia,0.0
+1983,South Africa,1434.0
+1983,United Kingdom,6965.0
+1983,United States of America,10779.0
+1984,Argentina,362.0
+1984,Australia,2528.0
+1984,Brazil,1138.0
+1984,Canada,3929.0
+1984,China,0.0
+1984,France,3648.0
+1984,Germany,7228.0
+1984,India,0.0
+1984,Indonesia,0.0
+1984,Italy,2013.0
+1984,Japan,47706.0
+1984,Mexico,319.0
+1984,Saudi Arabia,0.0
+1984,South Africa,1336.0
+1984,United Kingdom,5084.0
+1984,United States of America,13159.0
+1985,Argentina,92.0
+1985,Australia,2787.0
+1985,Brazil,1269.0
+1985,Canada,3607.0
+1985,China,40.0
+1985,France,3827.0
+1985,Germany,7628.0
+1985,India,0.0
+1985,Indonesia,0.0
+1985,Italy,6885.0
+1985,Japan,52597.0
+1985,Mexico,257.0
+1985,Saudi Arabia,0.0
+1985,South Africa,1335.0
+1985,United Kingdom,4507.0
+1985,United States of America,13540.0
+1986,Argentina,0.0
+1986,Australia,3038.0
+1986,Brazil,1190.0
+1986,Canada,3255.0
+1986,China,1101.0
+1986,France,3686.0
+1986,Germany,7466.0
+1986,India,0.0
+1986,Indonesia,0.0
+1986,Italy,2202.0
+1986,Japan,60121.0
+1986,Mexico,187.0
+1986,Saudi Arabia,0.0
+1986,South Africa,1310.0
+1986,United Kingdom,4286.0
+1986,United States of America,14221.0
+1987,Argentina,0.0
+1987,Australia,3172.0
+1987,Brazil,1262.0
+1987,Canada,2783.0
+1987,China,1784.0
+1987,France,3690.0
+1987,Germany,7130.0
+1987,India,0.0
+1987,Indonesia,0.0
+1987,Italy,1711.0
+1987,Japan,62434.0
+1987,Mexico,225.0
+1987,Saudi Arabia,0.0
+1987,South Africa,1236.0
+1987,United Kingdom,4036.0
+1987,United States of America,17761.0
+1988,Argentina,0.0
+1988,Australia,3633.0
+1988,Brazil,1391.0
+1988,Canada,3265.0
+1988,China,1328.0
+1988,France,3713.0
+1988,Germany,6757.0
+1988,India,0.0
+1988,Indonesia,0.0
+1988,Italy,1655.0
+1988,Japan,66230.0
+1988,Mexico,523.0
+1988,Saudi Arabia,0.0
+1988,South Africa,1162.0
+1988,United Kingdom,3980.0
+1988,United States of America,16763.0
+1989,Argentina,0.0
+1989,Australia,3973.0
+1989,Brazil,1249.0
+1989,Canada,3190.0
+1989,China,1514.0
+1989,France,3653.0
+1989,Germany,6866.0
+1989,India,0.0
+1989,Indonesia,0.0
+1989,Italy,1733.0
+1989,Japan,67928.0
+1989,Mexico,363.0
+1989,Saudi Arabia,0.0
+1989,South Africa,1133.0
+1989,United Kingdom,3697.0
+1989,United States of America,20861.0
+1990,Argentina,154.0
+1990,Australia,4364.0
+1990,Brazil,1196.0
+1990,Canada,6739.0
+1990,China,1738.0
+1990,France,3412.0
+1990,Germany,6406.0
+1990,India,0.0
+1990,Indonesia,0.0
+1990,Italy,1617.0
+1990,Japan,66350.0
+1990,Mexico,305.0
+1990,Saudi Arabia,0.0
+1990,South Africa,1125.0
+1990,United Kingdom,3610.0
+1990,United States of America,19739.0
+1991,Argentina,80.0
+1991,Australia,4902.0
+1991,Brazil,1560.0
+1991,Canada,9812.0
+1991,China,1732.0
+1991,France,3306.0
+1991,Germany,6428.0
+1991,India,0.0
+1991,Indonesia,0.0
+1991,Italy,1618.0
+1991,Japan,63689.0
+1991,Mexico,213.0
+1991,Saudi Arabia,0.0
+1991,South Africa,1237.0
+1991,United Kingdom,3397.0
+1991,United States of America,20870.0
+1992,Argentina,165.0
+1992,Australia,5050.0
+1992,Brazil,1191.0
+1992,Canada,10630.0
+1992,China,1963.0
+1992,France,3246.0
+1992,Germany,6348.0
+1992,India,0.0
+1992,Indonesia,0.0
+1992,Italy,1435.0
+1992,Japan,80823.0
+1992,Mexico,1533.0
+1992,Saudi Arabia,0.0
+1992,South Africa,1307.0
+1992,United Kingdom,3514.0
+1992,United States of America,21143.0
+1993,Argentina,665.0
+1993,Australia,5694.0
+1993,Brazil,1289.0
+1993,Canada,9499.0
+1993,China,2454.0
+1993,France,3478.0
+1993,Germany,6670.0
+1993,India,0.0
+1993,Indonesia,0.0
+1993,Italy,1407.0
+1993,Japan,76994.0
+1993,Mexico,2353.0
+1993,Saudi Arabia,0.0
+1993,South Africa,1258.0
+1993,United Kingdom,3388.0
+1993,United States of America,21925.0
+1994,Argentina,385.0
+1994,Australia,6305.0
+1994,Brazil,1186.0
+1994,Canada,8633.0
+1994,China,3568.0
+1994,France,3356.0
+1994,Germany,7013.0
+1994,India,0.0
+1994,Indonesia,2.0
+1994,Italy,1410.0
+1994,Japan,75982.0
+1994,Mexico,1621.0
+1994,Saudi Arabia,0.0
+1994,South Africa,946.0
+1994,United Kingdom,3522.0
+1994,United States of America,23704.0
+1995,Argentina,176.0
+1995,Australia,7123.0
+1995,Brazil,1369.0
+1995,Canada,8367.0
+1995,China,3744.0
+1995,France,3717.0
+1995,Germany,6932.0
+1995,India,0.0
+1995,Indonesia,0.0
+1995,Italy,1475.0
+1995,Japan,73967.0
+1995,Mexico,160.0
+1995,Saudi Arabia,1.0
+1995,South Africa,1220.0
+1995,United Kingdom,3455.0
+1995,United States of America,24577.0
+1996,Argentina,1.0
+1996,Australia,8812.0
+1996,Brazil,943.0
+1996,Canada,8289.0
+1996,China,5645.0
+1996,France,3566.0
+1996,Germany,7335.0
+1996,India,0.0
+1996,Indonesia,42.0
+1996,Italy,1237.0
+1996,Japan,75524.0
+1996,Mexico,0.0
+1996,Saudi Arabia,1.0
+1996,South Africa,1620.0
+1996,United Kingdom,3854.0
+1996,United States of America,27940.0
+1997,Argentina,369.0
+1997,Australia,8797.0
+1997,Brazil,2105.0
+1997,Canada,8304.0
+1997,China,6910.0
+1997,France,3627.0
+1997,Germany,8281.0
+1997,India,0.0
+1997,Indonesia,315.0
+1997,Italy,850.0
+1997,Japan,74051.0
+1997,Mexico,1729.0
+1997,Saudi Arabia,0.0
+1997,South Africa,1457.0
+1997,United Kingdom,4003.0
+1997,United States of America,29415.0
+1998,Argentina,638.0
+1998,Australia,9593.0
+1998,Brazil,2248.0
+1998,Canada,9498.0
+1998,China,8010.0
+1998,France,3847.0
+1998,Germany,9138.0
+1998,India,0.0
+1998,Indonesia,604.0
+1998,Italy,1382.0
+1998,Japan,77151.0
+1998,Mexico,2223.0
+1998,Saudi Arabia,0.0
+1998,South Africa,1605.0
+1998,United Kingdom,4288.0
+1998,United States of America,40212.0
+1999,Argentina,834.0
+1999,Australia,6230.0
+1999,Brazil,3802.0
+1999,Canada,10543.0
+1999,China,8391.0
+1999,France,4035.0
+1999,Germany,10013.0
+1999,India,0.0
+1999,Indonesia,471.0
+1999,Italy,1997.0
+1999,Japan,81536.0
+1999,Mexico,24.0
+1999,Saudi Arabia,6.0
+1999,South Africa,1465.0
+1999,United Kingdom,4414.0
+1999,United States of America,41380.0
+2000,Argentina,938.0
+2000,Australia,6521.0
+2000,Brazil,5389.0
+2000,Canada,11209.0
+2000,China,9260.0
+2000,France,3979.0
+2000,Germany,10549.0
+2000,India,0.0
+2000,Indonesia,474.0
+2000,Italy,2218.0
+2000,Japan,82751.0
+2000,Mexico,23.0
+2000,Saudi Arabia,0.0
+2000,South Africa,645.0
+2000,United Kingdom,4848.0
+2000,United States of America,42595.0
+2001,Argentina,1031.0
+2001,Australia,7260.0
+2001,Brazil,4121.0
+2001,Canada,11745.0
+2001,China,13112.0
+2001,France,4291.0
+2001,Germany,12271.0
+2001,India,0.0
+2001,Indonesia,800.0
+2001,Italy,987.0
+2001,Japan,86052.0
+2001,Mexico,29.0
+2001,Saudi Arabia,7.0
+2001,South Africa,724.0
+2001,United Kingdom,4472.0
+2001,United States of America,59647.0
+2002,Argentina,1353.0
+2002,Australia,4314.0
+2002,Brazil,4176.0
+2002,Canada,11084.0
+2002,China,15403.0
+2002,France,4265.0
+2002,Germany,12195.0
+2002,India,0.0
+2002,Indonesia,0.0
+2002,Italy,1001.0
+2002,Japan,94252.0
+2002,Mexico,2397.0
+2002,Saudi Arabia,3.0
+2002,South Africa,1420.0
+2002,United Kingdom,5031.0
+2002,United States of America,91082.0
+2003,Argentina,2080.0
+2003,Australia,4078.0
+2003,Brazil,3134.0
+2003,Canada,12372.0
+2003,China,20096.0
+2003,France,4099.0
+2003,Germany,12220.0
+2003,India,0.0
+2003,Indonesia,0.0
+2003,Italy,814.0
+2003,Japan,86577.0
+2003,Mexico,2970.0
+2003,Saudi Arabia,4.0
+2003,South Africa,1683.0
+2003,United Kingdom,4733.0
+2003,United States of America,90427.0
+2004,Argentina,1128.0
+2004,Australia,7875.0
+2004,Brazil,4642.0
+2004,Canada,12114.0
+2004,China,24630.0
+2004,France,4207.0
+2004,Germany,13066.0
+2004,India,0.0
+2004,Indonesia,0.0
+2004,Italy,1872.0
+2004,Japan,93879.0
+2004,Mexico,4908.0
+2004,Saudi Arabia,48.0
+2004,South Africa,1719.0
+2004,United Kingdom,4443.0
+2004,United States of America,92945.0
+2005,Argentina,2032.0
+2005,Australia,9649.0
+2005,Brazil,4524.0
+2005,Canada,13253.0
+2005,China,41564.0
+2005,France,4579.0
+2005,Germany,13936.0
+2005,India,2090.0
+2005,Indonesia,0.0
+2005,Italy,902.0
+2005,Japan,95576.0
+2005,Mexico,5099.0
+2005,Saudi Arabia,136.0
+2005,South Africa,1557.0
+2005,United Kingdom,3987.0
+2005,United States of America,95587.0
+2006,Argentina,592.0
+2006,Australia,10989.0
+2006,Brazil,4109.0
+2006,Canada,14049.0
+2006,China,45533.0
+2006,France,4597.0
+2006,Germany,14290.0
+2006,India,2104.0
+2006,Indonesia,0.0
+2006,Italy,99.0
+2006,Japan,93874.0
+2006,Mexico,2824.0
+2006,Saudi Arabia,194.0
+2006,South Africa,1390.0
+2006,United Kingdom,3001.0
+2006,United States of America,102109.0
+2007,Argentina,229.0
+2007,Australia,10576.0
+2007,Brazil,3892.0
+2007,Canada,14009.0
+2007,China,54355.0
+2007,France,4708.0
+2007,Germany,14534.0
+2007,India,15901.0
+2007,Indonesia,0.0
+2007,Italy,84.0
+2007,Japan,93107.0
+2007,Mexico,4113.0
+2007,Saudi Arabia,56.0
+2007,South Africa,1505.0
+2007,United Kingdom,2977.0
+2007,United States of America,103519.0
+2008,Argentina,134.0
+2008,Australia,9026.0
+2008,Brazil,3681.0
+2008,Canada,12262.0
+2008,China,60687.0
+2008,France,4587.0
+2008,Germany,14326.0
+2008,India,8071.0
+2008,Indonesia,0.0
+2008,Italy,71.0
+2008,Japan,94142.0
+2008,Mexico,3431.0
+2008,Saudi Arabia,47.0
+2008,South Africa,2193.0
+2008,United Kingdom,2986.0
+2008,United States of America,112304.0
+2009,Argentina,114.0
+2009,Australia,8154.0
+2009,Brazil,2314.0
+2009,Canada,11838.0
+2009,China,72870.0
+2009,France,4700.0
+2009,Germany,15204.0
+2009,India,12816.0
+2009,Indonesia,0.0
+2009,Italy,93.0
+2009,Japan,94219.0
+2009,Mexico,4288.0
+2009,Saudi Arabia,32.0
+2009,South Africa,1826.0
+2009,United Kingdom,2727.0
+2009,United States of America,114929.0
+2010,Argentina,76.0
+2010,Australia,4564.0
+2010,Brazil,2392.0
+2010,Canada,11641.0
+2010,China,81585.0
+2010,France,4568.0
+2010,Germany,14047.0
+2010,India,8888.0
+2010,Indonesia,0.0
+2010,Italy,353.0
+2010,Japan,89515.0
+2010,Mexico,3469.0
+2010,Saudi Arabia,9.0
+2010,South Africa,1550.0
+2010,United Kingdom,2769.0
+2010,United States of America,116464.0
+2011,Argentina,111.0
+2011,Australia,5293.0
+2011,Brazil,5374.0
+2011,Canada,11534.0
+2011,China,95726.0
+2011,France,4555.0
+2011,Germany,14736.0
+2011,India,6282.0
+2011,Indonesia,0.0
+2011,Italy,529.0
+2011,Japan,78566.0
+2011,Mexico,3633.0
+2011,Saudi Arabia,2.0
+2011,South Africa,632.0
+2011,United Kingdom,2945.0
+2011,United States of America,112749.0
+2012,Argentina,432.0
+2012,Australia,8469.0
+2012,Brazil,1888.0
+2012,Canada,11468.0
+2012,China,138376.0
+2012,France,4794.0
+2012,Germany,15835.0
+2012,India,8846.0
+2012,Indonesia,0.0
+2012,Italy,367.0
+2012,Japan,83389.0
+2012,Mexico,3537.0
+2012,Saudi Arabia,6.0
+2012,South Africa,1428.0
+2012,United Kingdom,3568.0
+2012,United States of America,119803.0
+2013,Argentina,1056.0
+2013,Australia,8963.0
+2013,Brazil,3330.0
+2013,Canada,11393.0
+2013,China,163714.0
+2013,France,5130.0
+2013,Germany,16586.0
+2013,India,8609.0
+2013,Indonesia,0.0
+2013,Italy,82.0
+2013,Japan,92106.0
+2013,Mexico,3637.0
+2013,Saudi Arabia,51.0
+2013,South Africa,1167.0
+2013,United Kingdom,3732.0
+2013,United States of America,126526.0
+2014,Argentina,1156.0
+2014,Australia,9220.0
+2014,Brazil,3954.0
+2014,Canada,12723.0
+2014,China,205110.0
+2014,France,4890.0
+2014,Germany,17467.0
+2014,India,11150.0
+2014,Indonesia,0.0
+2014,Italy,65.0
+2014,Japan,84144.0
+2014,Mexico,3634.0
+2014,Saudi Arabia,19.0
+2014,South Africa,1114.0
+2014,United Kingdom,4082.0
+2014,United States of America,139411.0
+2015,Argentina,1255.0
+2015,Australia,10467.0
+2015,Brazil,7637.0
+2015,Canada,10729.0
+2015,China,248913.0
+2015,France,5062.0
+2015,Germany,17531.0
+2015,India,13814.0
+2015,Indonesia,0.0
+2015,Italy,44.0
+2015,Japan,83922.0
+2015,Mexico,4082.0
+2015,Saudi Arabia,14.0
+2015,South Africa,481.0
+2015,United Kingdom,3677.0
+2015,United States of America,135525.0
+2016,Argentina,1270.0
+2016,Australia,9566.0
+2016,Brazil,13032.0
+2016,Canada,11128.0
+2016,China,277874.0
+2016,France,5251.0
+2016,Germany,18138.0
+2016,India,25129.0
+2016,Indonesia,0.0
+2016,Italy,122.0
+2016,Japan,82135.0
+2016,Mexico,5344.0
+2016,Saudi Arabia,3.0
+2016,South Africa,75.0
+2016,United Kingdom,3259.0
+2016,United States of America,137266.0
+2017,Argentina,1160.0
+2017,Australia,10242.0
+2017,Brazil,20666.0
+2017,Canada,11406.0
+2017,China,332841.0
+2017,France,5055.0
+2017,Germany,18598.0
+2017,India,13953.0
+2017,Indonesia,0.0
+2017,Italy,1844.0
+2017,Japan,89028.0
+2017,Mexico,4529.0
+2017,Saudi Arabia,5.0
+2017,South Africa,57.0
+2017,United Kingdom,4178.0
+2017,United States of America,136851.0
+2018,Argentina,845.0
+2018,Australia,10718.0
+2018,Brazil,10565.0
+2018,Canada,11247.0
+2018,China,411459.0
+2018,France,5109.0
+2018,Germany,20071.0
+2018,India,12117.0
+2018,Indonesia,0.0
+2018,Italy,1406.0
+2018,Japan,77074.0
+2018,Mexico,5126.0
+2018,Saudi Arabia,9.0
+2018,South Africa,34.0
+2018,United Kingdom,3734.0
+2018,United States of America,137566.0
+2019,Argentina,816.0
+2019,Australia,10695.0
+2019,Brazil,8479.0
+2019,Canada,11503.0
+2019,China,434001.0
+2019,France,5096.0
+2019,Germany,20655.0
+2019,India,15162.0
+2019,Indonesia,0.0
+2019,Italy,1030.0
+2019,Japan,81135.0
+2019,Mexico,5210.0
+2019,Saudi Arabia,2.0
+2019,South Africa,82.0
+2019,United Kingdom,3248.0
+2019,United States of America,148899.0
+2020,Argentina,549.0
+2020,Australia,8894.0
+2020,Brazil,8664.0
+2020,Canada,12854.0
+2020,China,458330.0
+2020,France,5124.0
+2020,Germany,20945.0
+2020,India,15072.0
+2020,Indonesia,0.0
+2020,Italy,1105.0
+2020,Japan,76907.0
+2020,Mexico,3703.0
+2020,Saudi Arabia,5.0
+2020,South Africa,42.0
+2020,United Kingdom,3681.0
+2020,United States of America,157426.0
+2021,Argentina,1029.0
+2021,Australia,11247.0
+2021,Brazil,5719.0
+2021,Canada,13169.0
+2021,China,533592.0
+2021,France,4991.0
+2021,Germany,20249.0
+2021,India,14090.0
+2021,Indonesia,0.0
+2021,Italy,1665.0
+2021,Japan,78964.0
+2021,Mexico,4841.0
+2021,Saudi Arabia,15.0
+2021,South Africa,50.0
+2021,United Kingdom,3527.0
+2021,United States of America,158612.0
+2022,Argentina,1155.0
+2022,Australia,10932.0
+2022,Brazil,7614.0
+2022,Canada,11499.0
+2022,China,563112.0
+2022,France,4348.0
+2022,Germany,18620.0
+2022,India,20728.0
+2022,Indonesia,0.0
+2022,Italy,1579.0
+2022,Japan,73741.0
+2022,Mexico,5766.0
+2022,Saudi Arabia,9.0
+2022,South Africa,29.0
+2022,United Kingdom,3467.0
+2022,United States of America,164109.0
+2023,Argentina,937.0
+2023,Australia,9318.0
+2023,Brazil,3737.0
+2023,Canada,3108.0
+2023,China,600212.0
+2023,France,4415.0
+2023,Germany,18967.0
+2023,India,11337.0
+2023,Indonesia,0.0
+2023,Italy,956.0
+2023,Japan,72116.0
+2023,Mexico,1328.0
+2023,Saudi Arabia,26.0
+2023,South Africa,6.0
+2023,United Kingdom,1920.0
+2023,United States of America,165452.0
