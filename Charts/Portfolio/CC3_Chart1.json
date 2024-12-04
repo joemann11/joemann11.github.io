@@ -1,72 +1,63 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Line chart of Exports and Imports with conditional area color based on gap.",
+  "description": "Line chart of Exports and Imports.",
   "title": {
     "text": "British Trade: Exports vs. Imports Over Time",
-    "fontSize": 18,
+    "fontSize": 20,
     "fontWeight": "bold",
-    "anchor": "start", 
-    "color": "black"
+    "anchor": "start",
+    "color": "#333333"
   },
   "data": {
     "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Portfolio/CC3_Data.csv",
     "format": {"type": "csv"}
   },
-
-  "layer": [
+  "transform": [
     {
-      "mark": {
-        "type": "area",
-        "interpolate": "monotone"
-      },
-      "encoding": {
-        "x": {"field": "Series Name", "type": "temporal", "title": "Series Name"},
-        "y": {
-          "field": "Exports of goods and services (BoP, current US$ Millions)",
-          "type": "quantitative",
-          "title": "Exports and Imports (US$'millions)"
-        },
-        "y2": {"field": "Imports of goods and services (BoP, current US$ Millions)"},
-        "color": {
-          "value": "red"
-        }
-      }
+      "fold": [
+        "Exports of goods and services (BoP, current US$ Millions)",
+        "Imports of goods and services (BoP, current US$ Millions)"
+      ],
+      "as": ["Trade Type", "Value"]
     },
     {
-      "mark": {
-        "type": "line",
-        "interpolate": "monotone",
-        "strokeWidth": 2
-      },
-      "encoding": {
-        "x": {"field": "Series Name", "type": "temporal"},
-        "y": {"field": "Exports of goods and services (BoP, current US$ Millions)", "type": "quantitative"},
-        "color": {"value": "blue"},
-        "tooltip": [
-          {"field": "Series Name", "type": "temporal"},
-          {"field": "Exports of goods and services (BoP, current US$ Millions)", "type": "quantitative"}
-        ]
-      }
-    },
-    {
-      "mark": {
-        "type": "line",
-        "interpolate": "monotone",
-        "strokeWidth": 2
-      },
-      "encoding": {
-        "x": {"field": "Series Name", "type": "temporal"},
-        "y": {"field": "Imports of goods and services (BoP, current US$ Millions)", "type": "quantitative"},
-        "color": {"value": "orange"},
-        "tooltip": [
-          {"field": "Series Name", "type": "temporal"},
-          {"field": "Imports of goods and services (BoP, current US$ Millions)", "type": "quantitative"}
-        ]
-      }
+      "calculate": "datum['Trade Type'] === 'Exports of goods and services (BoP, current US$ Millions)' ? 'Exports' : 'Imports'",
+      "as": "Trade Type"
     }
   ],
+  "mark": {"type": "line", "interpolate": "monotone", "strokeWidth": 3},
+  "encoding": {
+    "x": {
+      "field": "Series Name",
+      "type": "temporal",
+      "title": "Year"
+    },
+    "y": {
+      "field": "Value",
+      "type": "quantitative",
+      "title": "Imports & Exports (US$ Millions)"
+    },
+    "color": {
+      "field": "Trade Type",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Exports", "Imports"],
+        "range": ["#1f77b4", "#ff7f0e"]
+      },
+      "title": "Trade Type"
+    },
+    "tooltip": [
+      {"field": "Series Name", "type": "temporal", "title": "Year"},
+      {"field": "Trade Type", "type": "nominal"},
+      {"field": "Value", "type": "quantitative", "title": "Value (US$ Millions)"}
+    ]
+  },
   "config": {
     "view": {"stroke": null},
-    "axis": {"grid": false}
+    "axis": {"grid": true, "labelFontSize": 12, "titleFontSize": 14},
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 14
+    }
   }
 }
