@@ -45,7 +45,7 @@
         {"field": "Total_Patent_Count", "type": "quantitative"}
       ]
     },
-    "title": "Total Patent Applications by Year and Office",
+    "title": "Total G20 Patent Applications by Year and Office",
     "width": 600,
     "height": 400
   }
