@@ -1,0 +1,58 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Bar chart of total patent applications by year and office.",
+    "data": {
+        "url": "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Data/Project/Chapter4_G20_Patent_Applications_By_Year.csv"
+    },
+    "transform": [
+        {
+            "filter": "(test(datum.Office, userSelection, 'i')) || userSelection == ''"
+        },
+        {
+            "aggregate": [
+                {"op": "sum", "field": "Value", "as": "Total_Patent_Count"}
+            ],
+            "groupby": ["Year", "Office"]
+        }
+    ],
+    "params": [
+        {
+            "name": "userSelection",
+            "value": "",
+            "bind": {
+                "input": "text",
+                "placeholder": "Enter a country name (leave empty for global)"
+            }
+        }
+    ],
+    "mark": "bar",
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "type": "ordinal",
+            "title": "Year"
+        },
+        "y": {
+            "field": "Total_Patent_Count",
+            "type": "quantitative",
+            "title": "Total Patent Applications"
+        },
+        "color": {
+            "field": "Office",
+            "type": "nominal",
+            "title": "Office",
+            "condition": {
+                "test": "userSelection != ''",
+                "value": "#4C78A8"
+            }
+        },
+        "tooltip": [
+            {"field": "Year", "type": "ordinal"},
+            {"field": "Office", "type": "nominal"},
+            {"field": "Total_Patent_Count", "type": "quantitative"}
+        ]
+    },
+    "title": "Total Patent Applications by Year and Office",
+    "width": 600,
+    "height": 400
+}
