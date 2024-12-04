@@ -17,7 +17,7 @@
         "x": {
           "field": "Ease of doing business score (0 = lowest performance to 100 = best performance)",
           "type": "quantitative",
-          "title": "Ease of Doing Business",
+          "title": "Ease of Doing Business Score",
           "scale": {"domain": [40, 90]}
         },
         "y": {
@@ -31,7 +31,7 @@
           {
             "field": "Ease of doing business score (0 = lowest performance to 100 = best performance)",
             "type": "quantitative",
-            "title": "Ease of Doing Business"
+            "title": "Ease of Doing Business Score"
           },
           {
             "field": "Research and development expenditure (% of GDP)",
@@ -54,7 +54,7 @@
         "x": {
           "field": "x_pred",
           "type": "quantitative",
-          "title": "Ease of Doing Business"
+          "title": "Ease of Doing Business Score"
         },
         "y": {
           "field": "y_pred",
