@@ -1,0 +1,155 @@
+
+<!DOCTYPE html>
+<html> 
+    
+<head>    
+    
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>My Portfolio</title> 
+
+   
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+    <style>
+        #chartGrid {
+            display: flex;
+        }
+    </style>
+</head>
+
+<body> 
+    <header>
+        <h1 class="name" style="margin-bottom: 0px;">Joseph Mann</h1>
+        <p class="personal-links" style="margin-top: 0px; color: darkblue"><a href="https://www.linkedin.com/in/joseph-mann-25a0b1175/">LinkedIn</a> | <a
+                href="https://github.com/joemann11/joemann11.github.io">GitHub</a> | <a href="https://mail.google.com/mail/?view=cm&to=jopmann@gmail.com&su=SUBJECT&body=BODY">Contact</a>
+        </p>
+        <ul class="page-links">
+            <li><a href="index.html">Information</a></li>
+            <li><a href="portfolio.html">Portfolio Page</a></li>
+            <li><a class="live-page" href="project.html">Project Page</a></li>
+        </ul>
+    </header>  
+    <div class="beneath-header">
+<section>
+    <h1 class="project-title">The Regulatory Dilemma: <i>How Rules Shape Innovation</i></h1>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>Introduction</h2>
+        <p>Innovation drives economic growth, societal progress, and technological advancement. However, the regulatory environment—designed to safeguard public welfare—often acts as both a gateway and a gatekeeper to innovation. This balance, where regulation fosters and restricts development, is the essence of the "Regulatory Dilemma." This project explores how rules shape innovation across countries, industries, and periods. By examining trends, relationships, and case studies, we aim to determine whether regulations facilitate or impede innovation, and how policymakers can balance oversight with progress.</p>
+        <p>The aim of the project is to observe this relationship in detail. We will observe the extent to which regulations create barriers to innovation, whilst also considering their positive influence on innovation, through safer and more predictable growth. This project presents data visualizations to tell a compelling story about the interplay between the two, offering insights into the future of regulatory policies and their potential to either hinder or stimulate innovation.</p>
+    </div>
+
+</section>
+<section>
+    <div class="chart-description">
+        <h2>Trends in Innovation and Regulation</h2>
+        <p>We begin by exploring trends in patent applications and federal regulatory growth. The visualizations illustrate a parallel rise in US patent applications and the number of pages in the federal regulatory book. This suggests a landscape where both innovation and regulatory oversight have expanded. Are these developments interdependent, or is one outpacing the other? The steady growth in patent applications despite increased regulation indicates that regulation might be adapting to innovation rather than hindering it.</p>
+    </div>
+    <div id="chartGrid">
+        <figure class="chart" id="Location1"></figure> 
+    </div>
+    <div>
+        <p>As the graph demonstrates, regulatory expansion has not stalled innovation. Instead, both have grown, suggesting a complex but adaptive relationship where regulation evolves alongside technological progress.</p>
+    </div>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>The Relationship Between Regulatory Efficiency and Innovation</h2>
+        <p>This chapter examines how regulatory efficiency impacts innovation using R&D expenditure as a percentage of GDP and the World Bank's Ease of Doing Business score. The correlation between ease of doing business and increased R&D spending suggests that favorable regulatory environments boost innovation.</p>
+    </div>
+    <div id="chartGrid">
+        <figure class="chart" id="Location2"></figure> 
+        <figure class="chart" id="Location10"></figure> 
+    </div>
+    <div>
+        <p>The clear trend in the scatter plot reveals that countries with streamlined regulatory processes tend to invest more in R&D, suggesting that, fewer, well-designed regulations facilitate innovation.</p>
+    </div>
+</section>
+<section class="vertical">
+    <div class="chart-description">
+        <h2>Quantitative Measurements for Regulation and Innovation: <i>The Fraser Institutes 'Economics Freedom Score' against G20 Total Patent Filings</i></h2>
+        <p>We now compare the Fraser Institute's 'Economic Freedom Score' with G20 patent filings over time as a unique approach to measuring innovation and regulation. Countries with higher economic freedom scores tend to have more efficient regulatory frameworks. There is a tremendous difference in the rate of growth of patent applications between the nation with the highest Freedom Score (United States of America), and the lowest (Argentina). I recommend the reader search for these countries in the chart below to observe the trends.</p>
+    </div>
+    <div id="chartGrid">
+        
+        <figure class="chart" id="Location3"></figure>
+        <figure class="chart" id="Location11"></figure> 
+    </div>
+    <div>
+        <p>It is clear that countries with high Economic Freedom scores, have experienced strong growth in innovation. These trends indicate that Economic Freedom, and hence fewer regulations, promote the growth of innovation.</p>
+    </div>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>Case Study: <i>The European Union and The United States</i></h2>
+        <p>This chapter compares the patent landscapes of the European Union and the United States. Visual heatmaps and bar graphs reveal the contrast in innovation growth across these regions. With significantly different regulatory landscapes between these bodies, we can use the data to draw difference-in-difference correlations on the effect of regulation on innovation.</p>
+    </div>
+    <div id="chartGrid">
+        <figure class="chart" id="Location4"></figure> 
+    </div>
+    <div>
+        <p>The data reveals that the US has experienced significantly more growth in patent application across the same time period as the EU. It is clear that the reduced regulatory presence in the US has promoted far greater innovation than what has been seen in the EU.</p>
+    </div>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>A Global Scale: <i>The Geographical Trends in Efficient Regulation</i></h2>
+        <p>Here we view the World Bank's 'Ease of Doing Business' data on a global scale. As the Ease of Doing Business score measures the efficiency of each country’s regulatory framework, this chart aims to show geographical variations in efficiency.</p>
+    </div>
+    <div id="chartGrid">
+        <figure class="chart" id="Location5"></figure> 
+    </div>
+    <div>
+        <p>The map underscores that nations with efficient regulatory frameworks are often more developed nations, with the worse scores seemingly given to nations who also have low nominal levels of GDP. This indicates that poorer nations may have had their growth, through innovation, inhibited due to an inability to construct an efficient regulatory framework.</p>
+    </div>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>Live Data: <i>Keeping Track in the United Kingdom</i></h2>
+        <p>This chapter provides a snapshot of real-time data from the United Kingdom, showing how economic indicators like GDP growth, R&D funding, and regulatory fees change over time. These graphs have been developed using live API's and loops. Allowing us to follow trends into the future, tracking progress the UK is making benchmarked against the nations respective GDP growth.</p>
+    </div>
+    <div id="chartGrid">
+        <figure class="chart" id="Location6"></figure>
+    </div>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>Conclusion and Policy Recommendations</h2>
+        <p>This project has made it clear that the balance between regulation and innovation is delicate. Excessive regulation can limit growth, but efficient, well-targeted rules can foster an environment where innovation, and growth thereof, thrives. We have seen a large contrast between countries with high economic freedom and those burdened by excessive regulations, which has served to highlight the importance of quality over quantity in regulatory oversight.</p>
+        <p>My thoughts are that to support innovation, policymakers should emphasize regulatory efficiency—focusing on clarity, adaptability, collaboration, and most importantly, ease of use for business owners. By streamlining processes, reducing bureaucratic barriers, and encouraging dialogue between innovators and regulators, we can ensure that regulation simply serves to guide growth, rather than obstruct it. The key is not whether to blindly regulate, but how can we regulate effectively against the backdrop of continued growth.</p>
+    </div>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>Project Challenges, Data Referencing & Colab Links</h2>
+        <p></p>
+    </div>
+</section>
+
+
+
+<script>
+    let figure_1_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter2_Chart1.json";
+    vegaEmbed('#Location1', figure_1_spec)
+    let figure_2_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter3_Chart1.json";
+    vegaEmbed('#Location2', figure_2_spec)
+    let figure_3_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter4_Chart1.json";
+    vegaEmbed('#Location3', figure_3_spec)
+    let figure_4_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter5_Chart1.json";
+    vegaEmbed('#Location4', figure_4_spec)
+    let figure_5_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter6_Chart1.json";
+    vegaEmbed('#Location5', figure_5_spec)
+    let figure_6_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter7_Chart1.json";
+    vegaEmbed('#Location6', figure_6_spec)
+    let figure_10_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter3_Chart2.json";
+    vegaEmbed('#Location10', figure_10_spec)
+    let figure_11_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter4_Chart2.json";
+    vegaEmbed('#Location11', figure_11_spec)
+</script>
+</div>
+</body>
+
+</html>
