@@ -1,0 +1,42 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Vardy v Kane v Rooney in the Premier League",
+    "data": {
+      "values": [
+        {"Player": "Rooney", "Category": "Played", "Value": 491},
+        {"Player": "Rooney", "Category": "Goals", "Value": 208},
+        {"Player": "Rooney","Category": "Goals Excluding Penalties","Value": 185},
+        {"Player": "Kane", "Category": "Played", "Value": 320},
+        {"Player": "Kane", "Category": "Goals", "Value": 213},
+        {"Player": "Kane", "Category": "Goals Excluding Penalties", "Value": 180},
+        {"Player": "Vardy", "Category": "Played", "Value": 317},
+        {"Player": "Vardy", "Category": "Goals", "Value": 140},
+        {"Player": "Vardy", "Category": "Goals Excluding Penalties", "Value": 113}
+      ]
+    },
+    "encoding": {
+      "y": {
+        "field": "Player",
+        "type": "nominal",
+        "axis": {"title": null, "labelFontSize": 15, "labelPadding": 10}
+      },
+      "x": {
+        "field": "Value",
+        "type": "quantitative",
+        "axis": {"title": null, "labelFontSize": 13, "grid": false}
+      },
+      "color": {
+        "field": "Category",
+        "type": "nominal",
+        "scale": {
+          "domain": ["Played", "Goals", "Goals Excluding Penalties"],
+          "range": ["#FFD700", "#000000", "#228B22"]
+        }
+      }
+    },
+    "mark": {"type": "bar", "cornerRadiusEnd": 2, "size": 20, "tooltip": true},
+    "config": {
+      "axis": {"labelFont": "Arial", "labelFontSize": 15, "titleFontSize": 15},
+      "bar": {"discreteBandSize": 25}
+    }
+  }
