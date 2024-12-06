@@ -1,0 +1,177 @@
+
+<!DOCTYPE html>
+<html> 
+    
+<head>    
+    
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>My Portfolio</title> 
+
+   
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+    <style>
+        #chartGrid {
+            display: flex;
+        }
+    </style>
+</head>
+
+<body> 
+    <header>
+        <h1 class="name" style="margin-bottom: 0px;">Joseph Mann</h1>
+        <p class="personal-links" style="margin-top: 0px; color: darkblue"><a href="https://www.linkedin.com/in/joseph-mann-25a0b1175/">LinkedIn</a> | <a
+                href="https://github.com/joemann11/joemann11.github.io">GitHub</a> | <a href="https://mail.google.com/mail/?view=cm&to=jopmann@gmail.com&su=SUBJECT&body=BODY">Contact</a>
+        </p>
+        <ul class="page-links">
+            <li><a href="index.html">Information</a></li>
+            <li><a href="portfolio.html">Portfolio Page</a></li>
+            <li><a class="live-page" href="project.html">Project Page</a></li>
+        </ul>
+    </header>  
+    <div class="beneath-header">
+<section>
+    <h1 class="project-title">The Regulatory Dilemma: <i>How Rules Shape Innovation</i></h1>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>Introduction</h2>
+        <p>Innovation drives economic growth, societal progress, and technological advancement. However, the regulatory environment—designed to safeguard public welfare—often acts as both a gateway and a gatekeeper to innovation. This balance, where regulation fosters and restricts development, is the essence of the "Regulatory Dilemma." This project explores how rules shape innovation across countries, industries, and periods. By examining trends, relationships, and case studies, I aim to determine whether regulations facilitate or impede innovation, and how policymakers can balance oversight with progress.</p>
+        <p>Through data visualizations, this project tells a compelling story about the interplay between regulation and innovation, offering insights into the future of regulatory policies and their potential effects on innovation.</p>
+    </div>
+
+</section>
+<section>
+    <div class="chart-description">
+        <h2>Trends in Innovation and Regulation</h2>
+        <p>We begin by exploring trends in patent applications and federal regulatory growth. The visualizations illustrate a parallel rise in US patent applications and the number of pages in the federal regulatory book, suggesting both innovation and regulatory oversight has expanded. Are these developments interdependent, or is one outpacing the other? Despite increased regulation, the steady growth in patent applications suggests that regulation may be adapting to innovation rather than hindering it.</p>
+    </div>
+    <div id="chartGrid">
+        <figure class="chart" id="Location1"></figure> 
+    </div>
+    <div>
+        <p>As the graph demonstrates, both regulation and innovation have grown, suggesting a complex but adaptive relationship where regulation evolves alongside technological progress.</p>
+    </div>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>The Relationship Between Regulatory Efficiency and Innovation</h2>
+        <p>This chapter examines how regulatory efficiency impacts innovation using R&D expenditure as a percentage of GDP and the World Bank's Ease of Doing Business score. A correlation between ease of doing business and increased R&D spending suggests that favorable regulatory environments boost innovation.</p>
+    </div>
+    <div id="chartGrid">
+        <figure class="chart" id="Location2"></figure> 
+        <figure class="chart" id="Location10"></figure> 
+    </div>
+    <div>
+        <p>The clear trend in the scatter plot reveals that countries with streamlined regulatory processes tend to invest more in R&D, suggesting that, fewer, well-designed regulations facilitate innovation.</p>
+    </div>
+</section>
+<section class="vertical">
+    <div class="chart-description">
+        <h2>Quantitative Measurements for Regulation and Innovation: <i>The Fraser Institutes 'Economics Freedom Score' against G20 Total Patent Filings</i></h2>
+        <p>We now compare the Fraser Institute's 'Economic Freedom Score' with G20 patent filings over time. Countries with higher economic freedom scores tend to have more efficient regulatory frameworks.</p>
+    </div>
+    <div id="chartGrid">
+        
+        <figure class="chart" id="Location3"></figure>
+        <figure class="chart" id="Location11"></figure> 
+    </div>
+    <div>
+        <p>We can see a tremendous difference in the rate of growth of patent applications between the nation with the highest Freedom Score (United States of America), and the lowest (Argentina). Indicating that Economic Freedom, and hence fewer regulations, promote increased innovation.</p>
+    </div>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>Case Study: <i>The European Union and The United States</i></h2>
+        <p>This chapter compares the patent landscapes of the European Union and the United States. With significantly different regulatory environments between these bodies, we can use the data to draw difference-in-difference correlations on the effect of regulation on innovation.</p>
+    </div>
+    <div id="chartGrid">
+        <figure class="chart" id="Location4"></figure> 
+    </div>
+    <div>
+        <p>The data reveals that the US has experienced significantly more growth in patent application than the EU making it clear that the reduced regulatory presence in the US has promoted far greater innovation than what has been seen in the EU.</p>
+    </div>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>A Global Scale: <i>The Geographical Trends in Efficient Regulation</i></h2>
+        <p>Here we view the World Bank's 'Ease of Doing Business' data on a global scale. As the Ease of Doing Business score measures the efficiency of each country’s regulatory framework, this chart aims to show geographical variations in efficiency.</p>
+    </div>
+    <div id="chartGrid">
+        <figure class="chart" id="Location5"></figure> 
+    </div>
+    <div>
+        <p>The map underscores that nations with efficient regulatory frameworks are often more developed nations, indicating that poorer nations may have restricted growth due to an inability to construct efficient regulatory frameworks.</p>
+    </div>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>Live Data: <i>Keeping Track in the United Kingdom</i></h2>
+        <p>This chapter provides real-time data from the United Kingdom, showing how the UK’s economic indicators change over time. These graphs have been developed using live API's and loops, allowing us to follow trends into the future.</p>
+    </div>
+    <div id="chartGrid">
+        <figure class="chart" id="Location6"></figure>
+    </div>
+    <a target=”_blank” href="https://colab.research.google.com/drive/1asv4neU1K-Z_AEOx8qYpgFFeTeLooshv?usp=sharing"><button>Google Colabs Code</button></a>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>Conclusion and Policy Recommendations</h2>
+        <p>This project has shown that the balance between regulation and innovation is delicate. Excessive regulation can limit growth, but efficient, well-targeted rules can foster an environment where innovation, and growth thereof, thrives. The contrast between countries with high economic freedom and those burdened by excessive regulations has served to highlight the importance of quality over quantity in regulatory oversight.</p>
+        <p>To boost innovation, policymakers should emphasize regulatory efficiency—focusing on clarity, and ease of doing business. By streamlining processes and encouraging dialogue between innovators and regulators, regulation can serve to guide growth, rather than obstruct it. The key is not to blindly regulate, but to regulate effectively against the backdrop of continued growth.</p>
+    </div>
+</section>
+
+<section>
+    <div class="chart-description">
+        <h2>Project Challenges</h2>
+        <p>The primary issue I faced with the project was data gathering and formatting. In many cases, such as from WIPO and the Fraser Institute, the downloadable data was not formatted appropriately for importing into Vega-Lite. This meant I often had to remove unnecessary columns and rows from the data, then converting the data from wide to long form using Google Colabs. Another challenge I faced was when trying to filter by country name. This was an issue as many datasets use different formats to name the same country, i.e. 'United States', 'United States of America'.</p>
+        <h2>Colab Workings</h2>
+        <a target=”_blank” href="https://colab.research.google.com/drive/1SlfkRgRErG-vkkOOT2GQ3cCUj7CZWIX5?usp=sharing"><button>Colabs: Data Cleaning</button></a>
+        <a target=”_blank” href="https://colab.research.google.com/drive/1UXdGBjuEJHeAQXzA-M2WEs5qvhUl2Oye?usp=sharing"><button>Colabs: Filtering to G20 Countries for Economic Freedom Data</button></a>
+        <a target=”_blank” href="https://colab.research.google.com/drive/1K0FJ5eTCTZQg0SsOzyb04I6WCf8L-oAc?usp=sharing"><button>Colabs: Converting to long form</a></button>
+        <a target=”_blank” href="https://colab.research.google.com/drive/1mo8zsOBh3E385KagCjRPQ9ZQstvTiVyT?usp=sharing"><Button>Colabs: Turning Data into totals</a></Button>
+        <a target=”_blank” href="https://colab.research.google.com/drive/1_dt7_6DIgHWl2AI18Niu_1Dd8Tq3APfj?usp=sharing"><button>Colabs: Filtering to G20 for Patent Data</a></button>
+        <a target=”_blank” href="https://colab.research.google.com/drive/1asv4neU1K-Z_AEOx8qYpgFFeTeLooshv?usp=sharing"><button>Colabs: Creating Loop Code for API Links</a></button>
+    </div>
+</section>
+<section>
+    <div class="chart-description">
+        <h2>Data Referencing</h2>
+        <ul>
+            <li><p>Chapter 2: WIPO (World Intellectual Property Organisation) & George Washington University</p></li>
+            <li><p>Chapter 3: World Bank</p></li>
+            <li><p>Chapter 4: Fraser Institute & WIPO (World Intellectual Property Organisation)</p></li>
+            <li><p>Chapter 5: WIPO (World Intellectual Property Organisation)</p></li>
+            <li><p>Chapter 6: World Bank</p></li>
+            <li><p>Chapter 7: ONS API</p></li>
+        </ul>
+    </div>
+</section>
+
+
+
+<script>
+    let figure_1_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter2_Chart1.json";
+    vegaEmbed('#Location1', figure_1_spec)
+    let figure_2_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter3_Chart1.json";
+    vegaEmbed('#Location2', figure_2_spec)
+    let figure_3_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter4_Chart1.json";
+    vegaEmbed('#Location3', figure_3_spec)
+    let figure_4_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter5_Chart1.json";
+    vegaEmbed('#Location4', figure_4_spec)
+    let figure_5_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter6_Chart1.json";
+    vegaEmbed('#Location5', figure_5_spec)
+    let figure_6_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter7_Chart1.json";
+    vegaEmbed('#Location6', figure_6_spec)
+    let figure_10_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter3_Chart2.json";
+    vegaEmbed('#Location10', figure_10_spec)
+    let figure_11_spec = "https://raw.githubusercontent.com/joemann11/joemann11.github.io/refs/heads/main/Charts/Project/Chapter4_Chart2.json";
+    vegaEmbed('#Location11', figure_11_spec)
+</script>
+</div>
+</body>
+
+</html>

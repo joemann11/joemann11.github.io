@@ -1,0 +1,236 @@
+/* Colors */
+:root {
+  --primary-color: #25274D;
+  --secondary-color: #dddde6;
+  --headerbackground-color: #25274D;
+  --hover-link-color: #2E9CCA;
+  --accent-color: #2E9CCA;
+  --container-background: #29648A;
+  --container-border: #464866;
+}
+
+/* General */
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  color: var(--primary-color);
+  line-height: 1.6;
+  background-color: var(--secondary-color);
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+/* Texts */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color);
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.75em;
+  text-align: left;
+  margin-left: 0;
+}
+
+.small {
+  font-size: 1.25em;
+}
+
+p {
+  margin-bottom: 1em;
+  font-weight: 315;
+  color: var(--primary-color);
+  font-size: 1.3em;
+  line-height: 1.8;
+}
+
+/* Header */
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  background-color: #244855;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+  margin: 0;
+  width: 100%;
+  margin-bottom: 2em;
+}
+
+.name {
+  font-size: 3em;
+  margin: 0;
+  color: #dddde6;
+  letter-spacing: 1px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.personal-links {
+  margin: 0 0 0 0;
+  font-size: 0.9em;
+}
+
+.personal-links a {
+  margin: 0 8px;
+  font-weight: 400;
+  color: #dddde6;
+  transition: color 0.2s ease-in-out;
+}
+
+.personal-links a:hover {
+  text-decoration: underline;
+  color: var(--accent-color);
+}
+
+.page-links {
+  display: flex;
+  justify-content: center; 
+  gap: 100px;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+  font-size: 20px;
+}
+
+.page-links li {
+  display: inline-block;
+}
+
+.page-links a.live-page {
+  background-color: var(--primary-color); 
+  color: var(--secondary-color);          
+}
+
+.page-links a {
+  text-decoration: none;
+  color: var(--primary-color);
+  font-weight: 500;
+  padding: 8px 20px;
+  border-radius: 5px;
+  background-color: var(--secondary-color);
+  border: 0.25px solid var(--primary-color);
+  transition: background-color 0.3s, color 0.3s, transform 0.3s;
+}
+
+.page-links a:hover {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  transform: scale(1.05);
+}
+
+/* Links */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+/* Charts */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.chart {
+  flex: 1;
+  max-width: 100%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+#chartGrid {
+  display: grid;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  width: calc(100% - 40px);
+  max-width: 1200px;
+  margin: 0 auto;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.vertical #chartGrid {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  width: calc(100% - 40px);
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Misc */
+section {
+  margin-bottom: 3em;
+  padding: 20px;
+  border: 6px solid var(--container-border);
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+
+li {
+  justify-content: space-evenly;
+  margin: 0 2.5vw;
+}
+
+@media (max-width: 768px) {
+  .name {
+    font-size: 2em;
+  }
+  
+  .page-links {
+    flex-direction: column; 
+    align-items: center;
+    gap: 5vw;
+  }
+
+  .chart {
+    max-width: 100%; 
+  }
+}
+
+@media (max-width: 600px) {
+  .name {
+    font-size: 1.8em;
+  }
+
+  .beneath-header {
+    margin: 3vw;
+  }
+}
+
+.beneath-header {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Additional Figure Styling */
+figure.chart {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+.project-title {
+  font-size: 2.3em;
+}
+
+.bristol-logo {
+  width: 400px;
+  float: right;
+  margin-left: 0px;
+  margin-top: -220px;
+  position: relative;
+}
+
+
